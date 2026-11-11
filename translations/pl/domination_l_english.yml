@@ -6606,7 +6606,7 @@ Jeśli ukończymy tę misję dzięki §Y[Root.GetClergyName]§!:"
  ara_claims_in_castile_tt: "\nOtrzymamy trwałe roszczenia do ziem kontrolowanych przez @CAS Kastylię\n"
 Uzyskamy trwałe roszczenia do ziem należących do Kastylii @CAS.
 "
- ara_if_cas_dip_tt: "\nJeśli ukończymy misję, gdy @CAS będzie naszym §Ypoddaným§! lub §Ysojusznikiem§!, zyskamy §Yhistoryczną przyjaźń§!\n"
+ ara_if_cas_dip_tt: "\nJeśli ukończymy misję, gdy @CAS będzie naszym §Ypoddanym§! lub §Ysojusznikiem§!, zyskamy §Yhistoryczną przyjaźń§!\n"
 Jeśli ukończymy misję, gdy @CAS będzie naszym §Ypoddanym§! lub §Ysojusznikiem§!, nawiążemy §Yhistoryczną przyjaźń§!.
 "
  ara_had_remensa_war_event_tt: "Wystąpiło wydarzenie „§YSindicat Remença§!”."
