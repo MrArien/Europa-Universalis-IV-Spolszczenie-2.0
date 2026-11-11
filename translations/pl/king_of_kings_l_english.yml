@@ -427,7 +427,7 @@ Jeśli autorytet patriarchalny przekracza §Y33%§!, przywilej zapewni:
  BYZ_estate_burghers_indebted_to_burghers_effect_tooltip: "Weź §Y7§! pożyczek na okres 5 lat z oprocentowaniem §Y1.0%§!. Przywilej zostanie usunięty po spłaceniu długu."
  BYZ_buff_private_trade_fleet: "Wzmocnij przywilej stanowy «§YPrywatne floty handlowe§!», podwajając zapewniany przez niego modyfikator §Ysiły handlowej okrętów§!."
  BYZ_buff_burgher_loans: "Wzmocnij przywilej stanowy «§YZadłużenie u [Root.GetBurghersName]§!», zwiększając liczbę udzielanych pożyczek z 5 do §G7§!."
- BYZ_buff_free_enterprise: "Wzmocnij przywilej stanowy «§YS wolna przedsiębiorczość§!», zapewniając §G+5,0%§! efektywności handlu i eliminując utratę §Yabsolutyzmu§!."
+ BYZ_buff_free_enterprise: "Wzmocnij przywilej stanowy «§YWolna przedsiębiorczość§!», zapewniając §G+5,0%§! efektywności handlu i eliminując utratę §Yabsolutyzmu§!."
  BYZ_naval_commander_advisor_buff: "Doradca typu «§YReformator floty§!» będzie dodatkowo zapewniał §G+3,0%§! globalnej siły handlowej za każdy poziom doradcy."
  BYZ_revoking_disorganization_of_the_military: "Łatwiejsze będzie odebranie przywileju stanowego «§YRozprzężenie armii§!»: zniesiony zostanie wymóg dotyczący §Ymodyfikatora morale armii§!, a wymagania w zakresie §Yłącznego rozwoju§! i §Yliczebności armii§! zostaną obniżone."
  BYZ_if_we_have_60_estate_loyalty: "Jeśli lojalność stanu §Y[Root.GetBurghersName]§! wynosi co najmniej §G60§!, otrzymamy dodatkowo:"
