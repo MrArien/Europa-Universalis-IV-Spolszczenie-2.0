@@ -12,7 +12,7 @@ EU4 CT 2.0 bazuje na publicznie dostępnym projekcie:
 
 - **Projekt bazowy:** [olokos/Europa-Universalis-IV-Spolszczenie](https://github.com/olokos/Europa-Universalis-IV-Spolszczenie)
 - **Pierwotna licencja:** Apache License 2.0
-- **Aktualne repozytorium edycji 2.0:** [MrArien/Europa-Universalis-IV-Spolszczenie](https://github.com/MrArien/Europa-Universalis-IV-Spolszczenie)
+- **Aktualne repozytorium edycji 2.0:** [MrArien/Europa-Universalis-IV-Spolszczenie](https://github.com/MrArien/Europa-Universalis-IV-Spolszczenie-2.0)
 
 Edycja 2.0 jest rozwijana niezależnie. Zachowuje uznanie dla wcześniejszego dorobku społeczności, w tym tłumaczy, korektorów, testerów, organizatorów, autorów narzędzi i materiałów graficznych. Nie przypisuje twórcom edycji 2.0 autorstwa historycznych tłumaczeń, których nie wykonali.
 
