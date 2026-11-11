@@ -1267,14 +1267,10 @@
  GER_upgrade_primacy_of_the_nobility: "Wzmocnienie przywileju stanowego „§YPrymat [Root.GetNobilityName]§!” sprawi, że będzie on zapewniać §G-10,0%§! kosztu technologii militarnej."
  GER_if_done_via_revolution_destruction: "§YNagroda§!, jeśli misję ukończono poprzez §Mzniszczenie rewolucji§!:"
  GER_if_done_via_revolution: "§YNagroda§!, jeśli misję ukończono poprzez §Mrewolucję§!:"
- GER_bonuses_of_mercantilism: "Przy co najmniej §M60§! merkantylizmu:
+ GER_bonuses_of_mercantilism: "Przy co najmniej §M60§! merkantylizmu:\\nSiła handlowa okrętów: §G+20,0%§!\\nPrzy co najmniej §M75§! merkantylizmu:\\nProdukcja dóbr: §G+0,05§!\\nPrzy co najmniej §M90§! merkantylizmu:\\nModyfikator produkcji dóbr: §G+5,0%§!"
 Siła handlowa okrętów: §G+20,0%§!
-Przy co najmniej §M75§! merkantylizmu:
-Produkcja dóbr: §G+0,05§!
-Przy co najmniej §M90§! merkantylizmu:
 Modyfikator produkcji dóbr: §G+5,0%§!"
- GER_buff_great_power_interactions: "Wzmocnione zostaną następujące działania wielkich mocarstw:
-„§YInterwencja w wojnie§!” będzie teraz zapewniać §G+15,00§! projekcji siły, która będzie spadać o §R-1,00§! rocznie, maksymalnie do §Y30,00§!."
+ GER_buff_great_power_interactions: "Wzmocnione zostaną następujące działania wielkich mocarstw:\\n„§YInterwencja w wojnie§!” będzie teraz zapewniać §G+15,00§! projekcji siły, która będzie spadać o §R-1,00§! rocznie, maksymalnie do §Y30,00§!."
  GER_buff_influence_nation: "Działanie „§YWywieranie wpływu na państwo§!” będzie teraz zapewniać §G+5,00§! przysług u docelowego państwa."
  GER_unlock_reform: "Odblokowana zostanie następująca §Yreforma rządowa§!, zależna od naszej §Ykultury głównej§!:"
  GER_we_may_choose_not_to_take_it: "Możemy zdecydować, że nie przyjmiemy tej reformy od razu, lecz jedynie ją odblokujemy."
