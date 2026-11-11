@@ -1204,23 +1204,17 @@
  YEM_for_every_shia_province: "Zyskaj §G+0,25§! roku zasobów ludzkich za każdą posiadaną prowincję §Yszyicką§!, maksymalnie §G+1,5§! przy 6 prowincjach."
  YEM_upgrade_kaaba: "Ulepsz monument «§YKaba§!», który na poziomie §YWspaniałym§! będzie zapewniał §G+10,0%§! lokalnego modyfikatora siły handlowej prowincji."
  YEM_no_more_tech_req: "Decyzja «§YUtwórz Arabię§!» nie będzie już wymagała §Ytechnologii administracyjnej§!."
- YEM_prod_from_incense: "z §G20§! lat produkcji §Ykadzidła§!.
-"
- YEM_prod_from_coffee: "z §G10§! lat produkcji §Ykawy§!.
-"
- YEM_prod_from_all_provs: "z §G10§! lat dochodu z §Yprodukcji§!.
-"
- YEM_MONOPOLY_COFFEE_FROM_COFFEE: "z §G15§! lat produkcji §Ykawy§!.
-"
+ YEM_prod_from_incense: "z §G20§! lat produkcji §Ykadzidła§!.\n"
+ YEM_prod_from_coffee: "z §G10§! lat produkcji §Ykawy§!.\n"
+ YEM_prod_from_all_provs: "z §G10§! lat dochodu z §Yprodukcji§!.\n"
+ YEM_MONOPOLY_COFFEE_FROM_COFFEE: "z §G15§! lat produkcji §Ykawy§!.\n"
  YEM_enable_coffee_monopoly_privilege: "Odblokowuje przywilej stanowy «§YMonopol na kawę§!» dla stanu §Y[Root.GetBurghersName]§!, pozwalający przyznać mu monopol na ten surowiec i jednocześnie uzyskać dochód z §G15§! lat produkcji."
  estate_burghers_YEM_coffee_monopoly_effect_tooltip: "§RBrak dochodu z §Ykawy§!§!"
  estate_burghers_YEM_coffee_monopoly_revoke_tooltip: "Dochód z produkcji §Ykawy§! zostaje przywrócony."
  YEM_revoke_yemen_event_tooltip: "Będziemy mogli odebrać przywilej stanowy §YMonopol na kawę§!."
  YEM_if_at_least_galley_fraction: "Jeśli co najmniej 30,0% naszej floty stanowią §Ygalery§! lub co najmniej 15,0% §Yciężkie okręty§!:"
  YEM_if_at_least_50_fraction_of_light_ship: "Jeśli co najmniej 50,0% naszej floty stanowią §Ylekkie okręty§!:"
- YEM_upgrade_propagate_religion: "Polityka handlowa «§YSzerzenie religii§!» będzie wymagała jedynie §Y40,0%§! udziału w handlu.
-
-Za każdym razem, gdy dzięki szerzeniu religii zmienimy wyznanie prowincji, zyskamy §G+1,00§! tradycji floty."
+ YEM_upgrade_propagate_religion: "Polityka handlowa «§YSzerzenie religii§!» będzie wymagała jedynie §Y40,0%§! udziału w handlu.\n\nZa każdym razem, gdy dzięki szerzeniu religii zmienimy wyznanie prowincji, zyskamy §G+1,00§! tradycji floty."
  YEM_upgrade_propagate_religion_to_30: "Polityka handlowa «§YSzerzenie religii§!» będzie wymagała jedynie §Y30,0%§! udziału w handlu."
  YEM_upgrade_trade_ships_privilege_to_20_ship_trade_power: "Ulepsz przywilej stanowy «§YPrywatne floty handlowe§!», zwiększając siłę handlową okrętów do §G+20,0%§!."
  YEM_upgrade_trade_ships_privilege_to_30_ship_trade_power: "Ulepsz przywilej stanowy «§YPrywatne floty handlowe§!», zwiększając siłę handlową okrętów do §G+30,0%§!."
