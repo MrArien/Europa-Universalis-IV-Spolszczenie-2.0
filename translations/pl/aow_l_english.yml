@@ -1582,7 +1582,7 @@
  flavor_guj.1.a: "Zbuduj mury."
  flavor_guj.1.b: "Lepiej pozostawić miasto otwartą stolicą."
  flavor_guj.2.t: "Champaner — druga stolica?"
- flavor_guj.2.d: "Fort Champaner znajduje się w niezwykle dogodnym strategicznie miejscu, pośród gór między płaskowyżem Malwy a równinami Gudźaratu. Oprócz naturalnych walorów obronnych jego położenie pozwala kontrolować szlak handlowy łączący Doab z portami morskimi naszego państwa.\\n[Root.Monarch.GetTitle] [Root.Monarch.GetName] opracował niezwykle ambitny plan przekształcenia fortu Champaner w nową, wspaniałą drugą stolicę naszego królestwa. Budowa tego symbolu naszej dynastii zostanie powierzona najlepszym architektom świata indo-islamskiego, a na wydatkach nie będziemy oszczędzać."
+ flavor_guj.2.d: "Fort Champaner znajduje się w niezwykle dogodnym strategicznie miejscu, pośród gór między płaskowyżem Malwy a równinami Gudźaratu. Oprócz naturalnych walorów obronnych jego położenie pozwala kontrolować szlak handlowy łączący Doab z portami morskimi naszego państwa.\\n$MONARCHTITLE$ $MONARCH$ opracował niezwykle ambitny plan przekształcenia fortu Champaner w nową, wspaniałą drugą stolicę naszego królestwa. Budowa tego symbolu naszej dynastii zostanie powierzona najlepszym architektom świata indo-islamskiego, a na wydatkach nie będziemy oszczędzać."
  flavor_guj.2.a: "Zacznijmy budowę!"
  flavor_guj.2.b: "Nie interesuje nas ten próżny projekt."
  flavor_guj.3.t: "Champaner"
