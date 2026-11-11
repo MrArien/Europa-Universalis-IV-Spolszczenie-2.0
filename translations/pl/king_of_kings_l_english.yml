@@ -801,31 +801,15 @@
  is_pronoia_subject_type: "Jest pronoiarzem"
  create_pronoia: "Nadaj pronoię"
  create_pronoia_title: "Nadaj pronoię"
- create_pronoia_desc: "Czy na pewno chcesz nadać pronoię w prowincji §Y[From.GetName]§!?[Root.GetPronoiaInheritanceLaw]
-
-§YPronoiarowie§! to unikalny typ państwa zależnego dostępny dla państw §Y[BYZ.GetName]§! i §Y[ROM.GetName]§!.
-
-Państwo może posiadać tylko ograniczoną liczbę §Ypronoiarów§!, określaną przez modyfikator §YLiczba pronoiarów§!. Można ją zwiększać za pomocą §Ygrup idei§!, §Yreform rządowych§! oraz za każde §Y100§! punktów limitu sił lądowych. Oznacza to również, że §Ypronoiarowie§! nie zajmują §Ystosunków dyplomatycznych§!.
-Pronoiarowie to typ państw zależnych wspierających wysiłek wojenny suwerena. Domyślnie każdy pronoiar zmniejsza limit sił lądowych suwerena o §R-5§!, zapewniając mu jednocześnie §G+10,0%§! limitu sił zbrojnych oraz §G+20,0%§! zasobów ludzkich i marynarzy. Ponadto pronoiarowie otrzymują następujące modyfikatory:
-§G-50,0%§! kosztu regimentów
-§G+5000§! przyrostu zasobów ludzkich
-§G+50,0%§! krajowego modyfikatora zasobów ludzkich
-§R+50,0%§! kosztu tworzenia rdzeni
-§R-20,0%§! efektywności administracyjnej
-
-[Root.GetProniaAdvancedTooltip]"
+ create_pronoia_desc: "Czy na pewno chcesz nadać pronoię w prowincji §Y[From.GetName]§!?[Root.GetPronoiaInheritanceLaw]\n\n§YPronoiarowie§! to unikalny typ państwa zależnego dostępny dla państw §Y[BYZ.GetName]§! i §Y[ROM.GetName]§!.\n\nPaństwo może posiadać tylko ograniczoną liczbę §Ypronoiarów§!, określaną przez modyfikator §YLiczba pronoiarów§!. Można ją zwiększać za pomocą §Ygrup idei§!, §Yreform rządowych§! oraz za każde §Y100§! punktów limitu sił lądowych. Oznacza to również, że §Ypronoiarowie§! nie zajmują §Ystosunków dyplomatycznych§!.\nPronoiarowie to typ państw zależnych wspierających wysiłek wojenny suwerena. Domyślnie każdy pronoiar zmniejsza limit sił lądowych suwerena o §R-5§!, zapewniając mu jednocześnie §G+10,0%§! limitu sił zbrojnych oraz §G+20,0%§! zasobów ludzkich i marynarzy. Ponadto pronoiarowie otrzymują następujące modyfikatory:\n§G-50,0%§! kosztu regimentów\n§G+5000§! przyrostu zasobów ludzkich\n§G+50,0%§! krajowego modyfikatora zasobów ludzkich\n§R+50,0%§! kosztu tworzenia rdzeni\n§R-20,0%§! efektywności administracyjnej\n\n[Root.GetProniaAdvancedTooltip]"
  extra_text_hereditary_proniar: "Aby zaanektować §Ydziedzicznego pronoiara§!, należy najpierw przekształcić go w zwykłego §Ypronoiara§! za pomocą działania dyplomatycznego «§YCofnij prawo do dziedziczenia§!». Zwykły §Ypronoiar§! zostanie włączony do państwa suwerena po śmierci swojego monarchy."
  extra_text_proniar: "Pronoiar zostanie włączony do naszego państwa po śmierci swojego monarchy."
  create_pronoia_non_inherently: "Nie będziesz mógł odziedziczyć tego terytorium, dopóki nie użyjesz działania dyplomatycznego «§YCofnij prawo do dziedziczenia§!»."
- create_pronoia_tooltip: "Przekażemy władzę nad państwem zależnym pronoiarowi, który odtąd będzie zarządzał tym terytorium dziedzicznie.
-Pronoiarowie to państwa zależne, które nie zajmują §Ystosunku dyplomatycznego§! i zasilają pulę zasobów ludzkich oraz marynarzy swojego suwerena. Pronoiarowie są dziedziczeni, zamiast być anektowani."
+ create_pronoia_tooltip: "Przekażemy władzę nad państwem zależnym pronoiarowi, który odtąd będzie zarządzał tym terytorium dziedzicznie.\nPronoiarowie to państwa zależne, które nie zajmują §Ystosunku dyplomatycznego§! i zasilają pulę zasobów ludzkich oraz marynarzy swojego suwerena. Pronoiarowie są dziedziczeni, zamiast być anektowani."
  release_pronia: "Uwolnij pronoiara"
  release_pronia_title: "Uwolnij pronoiara"
- release_pronia_desc: "Czy chcesz uwolnić pronoiara z prowincji §Y[From.GetName]§!?
-Będzie nas to kosztować §R25,00§! prestiżu.
-[From.GetLoyaltyHitTooltip]Utracimy również wszystkie rdzenie i roszczenia do jego prowincji."
- loyalty_opinion_hit: "Ponieważ są lojalni, ich opinia o nas spadnie o §R200§!.
-"
+ release_pronia_desc: "Czy chcesz uwolnić pronoiara z prowincji §Y[From.GetName]§!?\nBędzie nas to kosztować §R25,00§! prestiżu.\n[From.GetLoyaltyHitTooltip]Utracimy również wszystkie rdzenie i roszczenia do jego prowincji."
+ loyalty_opinion_hit: "Ponieważ są lojalni, ich opinia o nas spadnie o §R200§!.\n"
  release_pronia_tooltip: "Zakończ nasze relacje z pronoiарem i zwolnij jego ziemie z wszelkich zobowiązań wobec nas."
  make_pronoia_inheritable: "Cofnij prawo do dziedziczenia"
  make_pronoia_inheritable_title: "Cofnij prawo do dziedziczenia"
