@@ -1659,9 +1659,7 @@
  promote_primary_culture: "Promuj naszą kulturę"
  promote_primary_culture_title: "Promuj naszą kulturę"
  promote_primary_culture_tooltip: "Wydaj §Yperskie wpływy§!, aby zmienić ich kulturę główną na naszą."
- promote_primary_culture_desc: "Czy chcesz wydać §R10,00§! §Yperskich wpływów§!, aby zmienić kulturę główną państwa §Y[From.GetName]§! na §Y[Root.Culture.GetName]§!?
-
-Państwa, których kulturą główną jest §Y[Root.Culture.GetName]§!, nie ponoszą kosztu utrzymania w postaci §Yperskich wpływów§!, jeśli należą do naszej sfery wpływów kulturowych."
+ promote_primary_culture_desc: "Czy chcesz wydać §R10,00§! §Yperskich wpływów§!, aby zmienić kulturę główną państwa §Y[From.GetName]§! na §Y[Root.Culture.GetName]§!?\n\nPaństwa, których kulturą główną jest §Y[Root.Culture.GetName]§!, nie ponoszą kosztu utrzymania w postaci §Yperskich wpływów§!, jeśli należą do naszej sfery wpływów kulturowych."
  promote_primary_culture_alert_tooltip: "Prośba o zmianę ich kultury głównej"
  promote_primary_culture_dialog: "Państwo [This.GetName] chce promować kulturę [This.Culture.GetName] na dworze państwa [Root.GetAdjective], zmieniając naszą kulturę główną na §Y[This.Culture.GetName]§!."
  HAS_NOT_10_PERSIAN_INFLUENCE_TT: "§R- Brak wystarczających §Yperskich wpływów§! (wymagane §Y10§!).§!"
