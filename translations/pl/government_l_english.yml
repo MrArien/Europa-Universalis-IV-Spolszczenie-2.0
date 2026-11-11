@@ -350,7 +350,7 @@
  native_land_tradition_reform_desc: "Zawsze tu mieszkaliśmy. Byliśmy tutaj, kiedy ląd został stworzony, a ziemia została ukształtowana. Będziemy tutaj, gdy ląd zostanie spalony, a ziemia się rozpadnie."
  native_war_band_reform_desc: "Poczucie bezpieczeństwa to najważniejsza rzecz w życiu. Skupiając się na wojnie, będziemy w stanie zapewnić dobrobyt naszemu plemieniu."
  native_seasonal_travel_reform_desc: "Ponieważ świat ciągle się zmienia to my też musimy. Jeśli będziemy postępować zgodnie z porami roku to odnajdziemy dobrobyt."
- native_settle_down_reform_desc: "Czasami podążanie za burzą nie jest tak ważne, jak znalezienie schronienia przed nią. Nadszedł czas, abyśmy osiedlili się i zbudowali bardziej trwałe wioski.\nStracimy §R1§ punkt stabilności, jeśli ta reforma zostanie zmieniona."
+ native_settle_down_reform_desc: "Czasami podążanie za burzą nie jest tak ważne, jak znalezienie schronienia przed nią. Nadszedł czas, abyśmy osiedlili się i zbudowali bardziej trwałe wioski.\n\nStracimy §R1§! punkt stabilności, jeśli ta reforma zostanie zastąpiona."
  native_codified_power_reform_desc: "Nie ma nic ponad prawem. Czyni ono świat bardziej sprawiedliwym miejscem i zrównuje życie wszystkich członków naszego plemienia."
  native_trading_with_foreigners_reform_desc: "Przybycie cudzoziemców na nasze ziemie pozwoliło nam uzyskać dostęp do nowych technologii, które zmieniły nasz styl życia, zarówno w czasie wojny, jak i pokoju."
  native_becomes_monarchy_reform_desc: "Rodowód naszych władców jest świadectwem błogosławieństwa od bogów. Ich królewska krew uczyniła ich odpowiednimi do prowadzenia nas ku dobrobytowi."
