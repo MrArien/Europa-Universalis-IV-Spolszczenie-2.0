@@ -4989,7 +4989,7 @@
  totemism_flavor.5.d3: "Po przywiezieniu do wioski, niezadowolenie [Root.Consort.GetName] z przemocy, jaką [Root.Consort.GetHerHim] dotknięto jest bardziej niż oczywiste. Odmawia rozmowy z kimkolwiek i prawie nie je. Nawet przy ścisłej czujności, na jaką został[Root.Consort.GetANoun] wystawion[Root.Consort.GetAY], [Root.Monarch.GetName] budzi się kolejnego dnia... tylko po to, by stwierdzić, że znów [Root.Consort.GetHerHis] nie ma."
  totemism_flavor.5.a: "Serce [Root.Monarch.GetRulerGen] jest przepełnione smutkiem."
  totemism_flavor.6.t: "Nareszcie zjednoczeni"
- totemism_flavor.6.d: "[Root.Monarch.GetName] mocno trzyma się krawędzi kajaka, zbierając wszystkie siły, by nie dać się ponieść ciekawości. Gdy dociera do jeziora, do którego wpada rzeka, dostrzega uśmiechniętą żonę stojącą tuż obok jej kajaka. Przerażenie mija i [Root.Monarch.GetSheHe] biegnie, by ją uściskać. Serce wypełnia mu miłość i nadzieja, że wszystko wróci do normy.\n„Dziękuję” — szepcze żona — „że mi uwierzyłeś”.
+ totemism_flavor.6.d: "[Root.Monarch.GetName] mocno trzyma się krawędzi kajaka, zbierając wszystkie siły, by nie dać się ponieść ciekawości. Gdy dociera do jeziora, do którego wpada rzeka, dostrzega uśmiechniętą żonę stojącą tuż obok jej kajaka. Przerażenie mija i [Root.Monarch.GetSheHe] biegnie, by ją uściskać. Serce wypełnia mu miłość i nadzieja, że wszystko wróci do normy.\n„Dziękuję” — szepcze żona — „że mi uwierzyłeś”."
  totemism_flavor.6.a: "Root.Monarch.GetName] bierze głęboki oddech. “Nareszcie razem”, mruczy do [Root.Monarch.GetHerHis]."
  tot_didnt_look_back: "Bez oglądania wstecz."
  desc_tot_didnt_look_back: "Wiara [Root.Monarch.GetRulerGen] okazała się być niezachwiana."
