@@ -1000,20 +1000,12 @@
  ARB_has_developed_arid_provinces: "Rozwinięto prowincje o §Ysuchym§! klimacie co najmniej §G20§! razy. (Obecnie: §Y[Root.num_of_times_developed_arid.GetValue]§!.)"
  NUM_OF_ARID_DEVELOPMENT_COUNTER: "[Root.num_of_times_developed_arid.GetValue]"
  ARB_unlock_oasis_development: "Odblokowuje przywilej stanowy «§YRozwój oaz§!» dla stanu §Y[Root.GetBurghersOrFallbackName]§!, pozwalający zmniejszyć karę wynikającą z §Ysuchego§! klimatu prowincji oraz zapewniający §G-15,0%§! lokalnego kosztu rozwoju w prowincjach o terenie §Ypustynnym§! i §Ynadbrzeżnej pustyni§!."
- ARB_estate_burghers_arid_development_gt: "Każda posiadana prowincja o §Ysuchym§! klimacie zyskuje:
-Lokalny koszt rozwoju: §G-5,0%§!
-Lokalny przyrost osadników: §G+5§!"
- ARB_estate_burghers_arid_development_rt: "Każda posiadana prowincja o §Ysuchym§! klimacie traci:
-Lokalny koszt rozwoju: §G-5,0%§!
-Lokalny przyrost osadników: §G+5§!"
- ARB_estate_burghers_desert_development_gt: "Każda posiadana prowincja o terenie §Ypustynnym§! lub §Ynadbrzeżnej pustyni§! zyskuje:
-Lokalny koszt rozwoju: §G-15,0%§!"
- ARB_estate_burghers_desert_development_rt: "Każda posiadana prowincja o terenie §Ypustynnym§! lub §Ynadbrzeżnej pustyni§! traci:
-Lokalny koszt rozwoju: §G-15,0%§!"
+ ARB_estate_burghers_arid_development_gt: "Każda posiadana prowincja o §Ysuchym§! klimacie zyskuje:\nLokalny koszt rozwoju: §G-5,0%§!\nLokalny przyrost osadników: §G+5§!"
+ ARB_estate_burghers_arid_development_rt: "Każda posiadana prowincja o §Ysuchym§! klimacie traci:\nLokalny koszt rozwoju: §G-5,0%§!\nLokalny przyrost osadników: §G+5§!"
+ ARB_estate_burghers_desert_development_gt: "Każda posiadana prowincja o terenie §Ypustynnym§! lub §Ynadbrzeżnej pustyni§! zyskuje:\nLokalny koszt rozwoju: §G-15,0%§!"
+ ARB_estate_burghers_desert_development_rt: "Każda posiadana prowincja o terenie §Ypustynnym§! lub §Ynadbrzeżnej pustyni§! traci:\nLokalny koszt rozwoju: §G-15,0%§!"
  ARB_most_developed_province: "Najbardziej §Yrozwinięta§! prowincja spełniająca §Ywymagania§!:"
- ARB_upgrade_oasis_city: "Zmodyfikuj «§YWspaniałe miasto na szlaku do Mekki§!» o:
-  Lokalny koszt rozwoju: §G-25,0%§!
-  Roczny dochód z podatków: §G+12,00§!¤"
+ ARB_upgrade_oasis_city: "Zmodyfikuj «§YWspaniałe miasto na szlaku do Mekki§!» o:\n  Lokalny koszt rozwoju: §G-25,0%§!\n  Roczny dochód z podatków: §G+12,00§!¤"
  ARB_upgrade_invite_minorities: "Ulepsz interakcję teokracji feudalnej «§YZapraszanie mniejszości z zagranicy§!», która będzie teraz rozdzielać §G5§! losowych punktów rozwoju w całym państwie."
  ABR_distribute_5_development_randomly: "Rozdziel §G5§! losowych punktów rozwoju na obszarze państwa §Y[Root.GetName]§!."
  ARB_get_permanent_claims_on_all_areas_bordering_us: "Państwo §Y[Root.GetName]§! otrzyma §Ystałe roszczenia§! do każdego §Yobszaru§! graniczącego z naszym §Yobszarem stołecznym§!."
