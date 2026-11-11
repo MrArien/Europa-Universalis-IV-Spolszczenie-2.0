@@ -4249,19 +4249,13 @@ Z popiołów Imperium Osmańskiego powstało wielkie państwo [Root.GovernmentNa
  ottoman_power_struggle_events.8.desc: "Wiele systemów rządowych ustanowiono we wczesnych latach istnienia imperium. Opierają się zatem na starych tradycjach, a nie na efektywności. Jest to szczególnie widoczne obecnie, ponieważ gubernatorzy i urzędnicy poświęcają swoim obowiązkom znacznie mniej uwagi, niż powinni."
  ottoman_power_struggle_events.8.a: "To niefortunne."
  janissary_coup_events.1.t: "Zamach stanu janczarów"
- janissary_coup_events.1.desc: "Lata stagnacji i dekadencji odcisnęły piętno na rządzie – nawet najprostsze zadania napotykają silny opór. Najpotężniejszą siłą reakcyjną są janczarzy. Niegdyś osobista gwardia [Root.Monarch.GetTitle], postrzegają każdą próbę modernizacji jako zagrożenie dla własnych przywilejów.
-[Root.Monarch.GetTitle] [Root.Monarch.GetName] postanowił dziś to zmienić i spróbował ograniczyć władzę janczarów. Wkrótce potem w [Root.Capital.GetCapitalName] wybuchło wielkie zamieszanie. Janczarzy, od dawna niezadowoleni z tego, co uważają za nieudolne rządy [Root.Monarch.GetTitle], odrzucili podany im chleb i przewrócili kotły na głównym placu. Twierdzą, że [Root.Monarch.GetName] jest hańbą dla rodu Osmanów, uczynił szejka ul-Islama swoim osobistym marionetkowym doradcą i zamierza zniszczyć siłę militarną imperium.
-Janczarzy szybko przejęli kontrolę nad rządem i zdobyli poparcie wielu innych grup politycznych stolicy. [Root.Monarch.GetName] wciąż żyje, lecz nie sprawuje już kontroli nad własnym imperium."
- janissary_coup_events.1.desc.nosheikh: "Lata stagnacji i dekadencji odcisnęły piętno na rządzie – nawet najprostsze zadania napotykają silny opór. Najpotężniejszą siłą reakcyjną są janczarzy. Niegdyś osobista gwardia [Root.Monarch.GetTitle], postrzegają każdą próbę modernizacji jako zagrożenie dla własnych przywilejów.
-[Root.Monarch.GetTitle] [Root.Monarch.GetName] postanowił dziś to zmienić i spróbował ograniczyć władzę janczarów. Wkrótce potem w [Root.Capital.GetCapitalName] wybuchło wielkie zamieszanie. Janczarzy, od dawna niezadowoleni z tego, co uważają za nieudolne rządy [Root.Monarch.GetTitle], odrzucili podany im chleb i przewrócili kotły na głównym placu. Twierdzą, że [Root.Monarch.GetName] jest hańbą dla rodu Osmanów i zamierza zniszczyć siłę militarną imperium.
-Janczarzy szybko przejęli kontrolę nad rządem i zdobyli poparcie wielu innych grup politycznych stolicy. [Root.Monarch.GetName] wciąż żyje, lecz nie sprawuje już kontroli nad własnym imperium."
+ janissary_coup_events.1.desc: "Lata stagnacji i dekadencji odcisnęły piętno na rządzie – nawet najprostsze zadania napotykają silny opór. Najpotężniejszą siłą reakcyjną są janczarzy. Niegdyś osobista gwardia [Root.Monarch.GetTitle], postrzegają każdą próbę modernizacji jako zagrożenie dla własnych przywilejów.\n[Root.Monarch.GetTitle] [Root.Monarch.GetName] postanowił dziś to zmienić i spróbował ograniczyć władzę janczarów. Wkrótce potem w [Root.Capital.GetCapitalName] wybuchło wielkie zamieszanie. Janczarzy, od dawna niezadowoleni z tego, co uważają za nieudolne rządy [Root.Monarch.GetTitle], odrzucili podany im chleb i przewrócili kotły na głównym placu. Twierdzą, że [Root.Monarch.GetName] jest hańbą dla rodu Osmanów, uczynił szejka ul-Islama swoim osobistym marionetkowym doradcą i zamierza zniszczyć siłę militarną imperium.\nJanczarzy szybko przejęli kontrolę nad rządem i zdobyli poparcie wielu innych grup politycznych stolicy. [Root.Monarch.GetName] wciąż żyje, lecz nie sprawuje już kontroli nad własnym imperium."
+ janissary_coup_events.1.desc.nosheikh: "Lata stagnacji i dekadencji odcisnęły piętno na rządzie – nawet najprostsze zadania napotykają silny opór. Najpotężniejszą siłą reakcyjną są janczarzy. Niegdyś osobista gwardia [Root.Monarch.GetTitle], postrzegają każdą próbę modernizacji jako zagrożenie dla własnych przywilejów.\n[Root.Monarch.GetTitle] [Root.Monarch.GetName] postanowił dziś to zmienić i spróbował ograniczyć władzę janczarów. Wkrótce potem w [Root.Capital.GetCapitalName] wybuchło wielkie zamieszanie. Janczarzy, od dawna niezadowoleni z tego, co uważają za nieudolne rządy [Root.Monarch.GetTitle], odrzucili podany im chleb i przewrócili kotły na głównym placu. Twierdzą, że [Root.Monarch.GetName] jest hańbą dla rodu Osmanów i zamierza zniszczyć siłę militarną imperium.\nJanczarzy szybko przejęli kontrolę nad rządem i zdobyli poparcie wielu innych grup politycznych stolicy. [Root.Monarch.GetName] wciąż żyje, lecz nie sprawuje już kontroli nad własnym imperium."
  janissary_coup_events.1.a: "To bardzo niepokojące."
  janissary_coup_events.1.a.tt: "Wszystkie przyznane, pozytywne przywileje stanu §Yjanczarów§! zostają zamienione na ich §Rnegatywne odpowiedniki§!.
 Ogólne wydarzenia janczarskie i pozytywne przywileje dla §Yjanczarów§! zostają wyłączone do końca katastrofy."
  janissary_coup_events.2.t: "Koniec zamachu stanu"
- janissary_coup_events.2.desc.a: "Groby w prowincji [janissary_province.GetName] ciągną się aż po horyzont. To niezbyt przyjemny widok, lecz rezultat brutalnej konieczności. [Root.Monarch.GetName] rozmyśla nad tym, gdy strażnicy ciągną kolejny wóz pełen ciał na niekończący się cmentarz. Niezliczeni janczarzy i lojaliści zginęli podczas zamachu stanu. Choć [Root.Monarch.GetTitle] ostatecznie zwyciężył, liczba istnień poświęconych dla stabilności i bezpieczeństwa państwa [Root.GovernmentName] przygnębia [Root.Monarch.GetName].
-
-Ród Osmanów ponownie zatriumfował nad kolejnym wrogiem imperium. Janczarzy są teraz jedynie cieniem dawnej potęgi. Wielu ich członków spoczywa w grobach prowincji [janissary_province.GetName], a ci, którzy pozostali lojalni wobec [Root.Monarch.GetName], zostali wcieleni do regularnej armii państwa [Root.GetUsableName]."
+ janissary_coup_events.2.desc.a: "Groby w prowincji [janissary_province.GetName] ciągną się aż po horyzont. To niezbyt przyjemny widok, lecz rezultat brutalnej konieczności. [Root.Monarch.GetName] rozmyśla nad tym, gdy strażnicy ciągną kolejny wóz pełen ciał na niekończący się cmentarz. Niezliczeni janczarzy i lojaliści zginęli podczas zamachu stanu. Choć [Root.Monarch.GetTitle] ostatecznie zwyciężył, liczba istnień poświęconych dla stabilności i bezpieczeństwa państwa [Root.GovernmentName] przygnębia [Root.Monarch.GetName].\n\nRód Osmanów ponownie zatriumfował nad kolejnym wrogiem imperium. Janczarzy są teraz jedynie cieniem dawnej potęgi. Wielu ich członków spoczywa w grobach prowincji [janissary_province.GetName], a ci, którzy pozostali lojalni wobec [Root.Monarch.GetName], zostali wcieleni do regularnej armii państwa [Root.GetUsableName]."
  janissary_coup_events.2.desc.b: "Wbrew wszelkim przeciwnościom [Root.Monarch.GetName] wykorzystał swój dyplomatyczny talent, aby wynegocjować porozumienie z janczarami. Byli porywacze zakładników opuszczają pałac królewski w pokoju, bez rozlewu krwi i ran. Choć nie udało się uniknąć przemocy, przywileje janczarów zostały odebrane na rzecz pozostałych stanów państwa [Root.GetUsableName]. Ci, którzy chcą nadal służyć jako dobrze opłacani żołnierze, pozostają w korpusie, natomiast janczarscy uczeni, właściciele ziemscy i kupcy zostali awansowani odpowiednio do [Root.GetClergyName], [Root.GetNobilityName] i [Root.GetBurghersName]. Negocjacje i debaty trwały kilka lat, lecz przyniosły pokój i stabilność państwu [Root.GovernmentName] – choć kosztem absolutnej władzy [Root.Monarch.GetTitle]."
  janissary_coup_events.2.a: "Tyle śmierci... ale przynajmniej państwo [Root.GovernmentName] przetrwa."
  janissary_coup_events.2.b: "Wreszcie. Janczarzy znów stanowią awangardę naszego państwa."
@@ -4373,9 +4367,7 @@ Szanse powodzenia zależą od umiejętności £dip£ i cech osobowości władcy 
  pasha_decadence_events.10.t: "Powstanie kultury [tur_revolter_province.Culture.GetName] w prowincji [tur_revolter_province.GetName]"
  pasha_decadence_events.10.desc: "Choć mieszkańcy prowincji [tur_revolter_province.GetName] wyznają islam, ziemie te nigdy nie należały do kultury [Root.Culture.GetName]. Przystosowały się do nowych warunków pod naszym panowaniem, lecz ich ludność nadal identyfikuje się z kulturą [tur_revolter_province.Culture.GetName]. Gdy dotarły do niej wieści o buntach paszów, uznała, że może domagać się większej autonomii."
  plot_of_the_harem_events.1.t: "Intrygi haremu"
- plot_of_the_harem_events.1.desc: "Od narodzin naszego państwa harem cesarski był jedną z najważniejszych instytucji rządowych. Zapewniając sukcesję sułtanatu, a zarazem stanowiąc symbol bogactwa i potęgi sułtana, harem przez stulecia nieustannie zwiększał swoje wpływy.
-
-Sułtanka-walide i inne ważne osobistości haremu nie potrafią już ukrywać niezadowolenia z obecnego stanu rzeczy. Twierdzą, że [Root.Monarch.GetName] nie nadaje się do sprawowania rządów i są zmuszone działać w interesie imperium. [Root.Monarch.GetTitle] [Root.Monarch.GetName] jest jedynie marionetką haremu."
+ plot_of_the_harem_events.1.desc: "Od narodzin naszego państwa harem cesarski był jedną z najważniejszych instytucji rządowych. Zapewniając sukcesję sułtanatu, a zarazem stanowiąc symbol bogactwa i potęgi sułtana, harem przez stulecia nieustannie zwiększał swoje wpływy.\n\nSułtanka-walide i inne ważne osobistości haremu nie potrafią już ukrywać niezadowolenia z obecnego stanu rzeczy. Twierdzą, że [Root.Monarch.GetName] nie nadaje się do sprawowania rządów i są zmuszone działać w interesie imperium. [Root.Monarch.GetTitle] [Root.Monarch.GetName] jest jedynie marionetką haremu."
  plot_of_the_harem_events.1.a: "Jestem zakładnikiem własnego haremu. Co za upokorzenie..."
  plot_of_the_harem_events.1.a.tt: "Wydarzenia związane z §Yharemem§! zostają wyłączone na czas trwania tej katastrofy."
  plot_of_the_harem_events.2.t: "Koniec intryg haremu"
@@ -4491,17 +4483,11 @@ Nic dziwnego, że wkrótce dostrzegł go nawet sam [Root.Monarch.GetTitle]. Mło
  EST_VAL_EXTENDED_JANISSARY_PRIVILEGES: "Spełnione żądania: §Y$VAL$%§!"
  EST_VAL_NO_EXTENDED_JANISSARY_PRIVILEGES: "Odrzucone żądania: §Y$VAL$%§!"
  janissary_policemen: "Janczarzy jako policja"
- desc_janissary_policemen: "Janczarzy zostali wyznaczeni do pełnienia służby policyjnej na rzecz państwa.
-
-§YTrwa do momentu, gdy państwo [Root.GetUsableName] wypowie wojnę.§!"
+ desc_janissary_policemen: "Janczarzy zostali wyznaczeni do pełnienia służby policyjnej na rzecz państwa.\n\n§YTrwa do momentu, gdy państwo [Root.GetUsableName] wypowie wojnę.§!"
  janissary_fireighters: "Janczarzy jako straż pożarna"
- desc_janissary_fireighters: "Janczarzy zostali wyznaczeni do pełnienia służby strażackiej na rzecz państwa.
-
-§YTrwa do momentu, gdy państwo [Root.GetUsableName] wypowie wojnę.§!"
+ desc_janissary_fireighters: "Janczarzy zostali wyznaczeni do pełnienia służby strażackiej na rzecz państwa.\n\n§YTrwa do momentu, gdy państwo [Root.GetUsableName] wypowie wojnę.§!"
  janissary_palace_guardians: "Janczarzy jako straż pałacowa"
- desc_janissary_palace_guardians: "Janczarzy zostali wyznaczeni do pełnienia służby straży pałacowej.
-
-§YTrwa do momentu, gdy państwo [Root.GetUsableName] wypowie wojnę.§!"
+ desc_janissary_palace_guardians: "Janczarzy zostali wyznaczeni do pełnienia służby straży pałacowej.\n\n§YTrwa do momentu, gdy państwo [Root.GetUsableName] wypowie wojnę.§!"
  janissary_mehteran: "Mehterân"
  desc_janissary_mehteran: "Zainwestowaliśmy w okazałą orkiestrę marszową mehterân, aby zagrzewała janczarów do nadchodzących bitew."
  janissary_loyalty_to_the_sultan: "Lojalność wobec władcy"
@@ -4605,15 +4591,10 @@ To na państwie [Root.GetUsableName] spoczywa obowiązek przejęcia roli prawdzi
 Państwo potrzebuje portu nad ciepłym morzem, aby móc prowadzić handel i żeglugę. Najbliższe takie porty znajdują się na Krymie. Ojczyzna musi zgłosić roszczenia do tego regionu!"
  mos_rus_conquer_the_caucasus_title: "Marsz na Kaukaz"
  mos_rus_conquer_the_caucasus_desc: "Kaukaz jest podzielony między liczne królestwa otoczone przez muzułmańskie zagrożenia. Jeśli nie zainterweniujemy, ich upadek jest nieunikniony. Chrześcijanie zamieszkujący te góry muszą zostać ochronieni – mieczem lub piórem."
- mos_rus_conquer_the_caucasus_tt: "Dowolny sojusznik ze stolicą w regionie §YKaukazu§!:
-    Posiada co najmniej §Y15§! prowincji.
-    Wyznaje religię z grupy §Y[Root.Religion.GetGroupName]§!.
-    Ma co najmniej §Y100§! opinii o państwie §Y[Root.GetName]§!."
+ mos_rus_conquer_the_caucasus_tt: "Dowolny sojusznik ze stolicą w regionie §YKaukazu§!:\n    Posiada co najmniej §Y15§! prowincji.\n    Wyznaje religię z grupy §Y[Root.Religion.GetGroupName]§!.\n    Ma co najmniej §Y100§! opinii o państwie §Y[Root.GetName]§!."
  mos_rus_conquer_the_caucasus_at: "Jeśli ukończymy tę misję, podbijając §Y15§! prowincji w regionie §YKaukazu§!:"
  mos_rus_conquer_the_caucasus_bt: "Jeśli ukończymy tę misję, posiadając sojusznika w regionie §YKaukazu§!, który spełnia drugi warunek:"
- mos_rus_conquer_the_caucasus_ct: "Nasz sojusznik również otrzyma ten sam modyfikator.
-
-Każda prowincja w regionie §YKaukazji§! należąca do państwa §Y[Root.GetName]§!, jego poddanych lub sojuszników otrzymuje następujące efekty:"
+ mos_rus_conquer_the_caucasus_ct: "Nasz sojusznik również otrzyma ten sam modyfikator.\n\nKażda prowincja w regionie §YKaukazji§! należąca do państwa §Y[Root.GetName]§!, jego poddanych lub sojuszników otrzymuje następujące efekty:"
  mos_rus_conquer_persia_title: "Za Morzem Kaspijskim"
  mos_rus_conquer_persia_desc: "Kaukaz i pustynie Azji Środkowej znajdują się pod naszą kontrolą. Wielki Jedwabny Szlak prowadzi jednak przez perskie góry po drugiej stronie Morza Kaspijskiego. Aby w pełni skorzystać z naszych podbojów, musimy zapewnić sobie dostęp do handlu perskiego – bezpośrednio poprzez podbój lub pośrednio dzięki sojuszowi."
  mos_rus_conquer_persia_at: "Jest częścią węzła handlowego §YPersja§!."
@@ -4756,10 +4737,7 @@ Wydarzenie uruchamia się, gdy posiadamy co najmniej §Y1§! stabilności i osi�
  rus_pass_issues_in_the_senate_tt: "Uchwalono co najmniej §Y10§! ustaw (§Y[Root.issues_passed.GetValue]§!/§Y10§!)."
  rus_most_holy_synod_title: "Najświętszy Synod"
  rus_most_holy_synod_desc: "Kościół odgrywał ważną rolę w historii naszego państwa, lecz coraz wyraźniej widać, że jego pozycję w kraju należy przemyśleć na nowo."
- rus_most_holy_synod_xx: "Reputacja dyplomatyczna wynosi co najmniej §Y2§!.
-   Posiada dowolnego sojusznika lub poddanego z grupy religijnej §Y[Root.Religion.GetGroupName]§!, ale wyznającego religię inną niż §Y[Root.Religion.GetName]§!, który ma co najmniej §Y75§! zaufania i §Y150§! opinii o państwie [Root.GetName].
-
-"
+ rus_most_holy_synod_xx: "Reputacja dyplomatyczna wynosi co najmniej §Y2§!.\n   Posiada dowolnego sojusznika lub poddanego z grupy religijnej §Y[Root.Religion.GetGroupName]§!, ale wyznającego religię inną niż §Y[Root.Religion.GetName]§!, który ma co najmniej §Y75§! zaufania i §Y150§! opinii o państwie [Root.GetName].\n\n"
  rus_6_tot_tt: "Posiada co najmniej §Y6§! tolerancji prawdziwej wiary."
  rus_most_holy_synod_at: "Jeśli ukończymy tę misję dzięki §Ysojuszowi§!:"
  rus_most_holy_synod_ct: "Wystąpi wydarzenie, które pozwoli nam wybrać reformę rządową §YNajświętszy Synod Rządzący§!."
@@ -4808,10 +4786,7 @@ Jeśli ukończymy tę misję dzięki §Y[Root.GetClergyName]§!:"
  mos_the_secured_future_of_russia: "Świt nowej epoki"
  desc_mos_the_secured_future_of_russia: "Wraz z objęciem tronu przez [Root.Monarch.GetTitle] [Root.Monarch.GetName] przyszłość państwa [Root.GetUsableName] i jego obywateli jest zabezpieczona."
  rus_grand_duke_of_finland: "Wielki książę Finlandii"
- desc_rus_grand_duke_of_finland: "[Root.Monarch.GetName] nosi tytuł wielkiego księcia Finlandii, co czyni go najwyższym suwerenem narodu fińskiego.
-
-§YOdblokowuje dostęp do §Jkawalerii hakkapeliitta§!.§!
-§YModyfikator zostanie usunięty, jeśli Finlandia przestanie być naszym poddanym.§!"
+ desc_rus_grand_duke_of_finland: "[Root.Monarch.GetName] nosi tytuł wielkiego księcia Finlandii, co czyni go najwyższym suwerenem narodu fińskiego.\n\n§YOdblokowuje dostęp do §Jkawalerii hakkapeliitta§!.§!\n§YModyfikator zostanie usunięty, jeśli Finlandia przestanie być naszym poddanym.§!"
  rus_grand_duke_of_finland_at: "do czasu, gdy §YFinlandia§! przestanie być naszym poddanym"
  rus_developed_trade_post_novgorod: "Rozwinięta placówka handlowa"
  desc_rus_developed_trade_post_novgorod: "Ta prowincja stanowi centrum rosyjskiego handlu i wymiany towarowej w pobliżu Morza Bałtyckiego."
@@ -4824,17 +4799,11 @@ Jeśli ukończymy tę misję dzięki §Y[Root.GetClergyName]§!:"
  rus_kiev_mohyla_academy: "Akademia Kijowsko-Mohylańska"
  desc_rus_kiev_mohyla_academy: "Właściciel rozbudował akademię tego miasta."
  rus_west_slavic_union: "Hegemonia nad Słowianami Zachodnimi"
- desc_rus_west_slavic_union: "Podbój Polski i pozostałych ziem zachodniosłowiańskich doprowadził do rozszerzenia naszego ustawodawstwa, aby objąć nim te ludy.
-
-§YModyfikator zostanie usunięty, jeśli zdegradujemy dowolną kulturę zachodniosłowiańską.§!"
+ desc_rus_west_slavic_union: "Podbój Polski i pozostałych ziem zachodniosłowiańskich doprowadził do rozszerzenia naszego ustawodawstwa, aby objąć nim te ludy.\n\n§YModyfikator zostanie usunięty, jeśli zdegradujemy dowolną kulturę zachodniosłowiańską.§!"
  rus_carpathian_union: "Hegemonia nad ludami karpackimi"
- desc_rus_carpathian_union: "Podbój Węgier i pozostałych ziem karpackich doprowadził do rozszerzenia naszego ustawodawstwa, aby objąć nim te ludy.
-
-§YModyfikator zostanie usunięty, jeśli zdegradujemy dowolną kulturę karpacką.§!"
+ desc_rus_carpathian_union: "Podbój Węgier i pozostałych ziem karpackich doprowadził do rozszerzenia naszego ustawodawstwa, aby objąć nim te ludy.\n\n§YModyfikator zostanie usunięty, jeśli zdegradujemy dowolną kulturę karpacką.§!"
  rus_south_slavic_union: "Hegemonia nad Słowianami Południowymi"
- desc_rus_south_slavic_union: "Podbój Bałkanów i pozostałych ziem południowosłowiańskich doprowadził do rozszerzenia naszego ustawodawstwa, aby objąć nim te ludy.
-
-§YModyfikator zostanie usunięty, jeśli zdegradujemy dowolną kulturę południowosłowiańską.§!"
+ desc_rus_south_slavic_union: "Podbój Bałkanów i pozostałych ziem południowosłowiańskich doprowadził do rozszerzenia naszego ustawodawstwa, aby objąć nim te ludy.\n\n§YModyfikator zostanie usunięty, jeśli zdegradujemy dowolną kulturę południowosłowiańską.§!"
  nov_rus_scandinavian_conquest: "Integracja Skandynawii"
  desc_nov_rus_scandinavian_conquest: "Podbój Skandynawii zmusza nasze państwo do wprowadzenia nowych praw, aby zarządzać podbitą ludnością tych ziem."
  nov_rus_scandinavian_dominance: "Dominacja nad Skandynawią"
@@ -4842,9 +4811,7 @@ Jeśli ukończymy tę misję dzięki §Y[Root.GetClergyName]§!:"
  rus_trade_empire: "Handlowe imperium Wschodu"
  desc_rus_trade_empire: "Nasi kupcy dominują w handlu europejskim i wywierają w naszym imieniu wpływ na politykę oraz rynki zagranicznych państw. Zaiste, zbudowaliśmy imperium oparte na handlu i wymianie towarowej."
  rus_expanded_administrative_offices: "Zmiana priorytetów administracji"
- desc_rus_expanded_administrative_offices: "Postanowiliśmy zmienić priorytety naszej administracji, aby ułatwić integrację nowych terytoriów i fabrykowanie roszczeń.
-
-§YWszystkie stałe roszczenia z rosyjskich misji zostają przekształcone w roszczenia tymczasowe.§!"
+ desc_rus_expanded_administrative_offices: "Postanowiliśmy zmienić priorytety naszej administracji, aby ułatwić integrację nowych terytoriów i fabrykowanie roszczeń.\n\n§YWszystkie stałe roszczenia z rosyjskich misji zostają przekształcone w roszczenia tymczasowe.§!"
  rus_russian_caucasian_alliance: "Sojusz rosyjsko-kaukaski"
  desc_rus_russian_caucasian_alliance: "Więzi między Rosją a Kaukazem prowadzą do silnego sojuszu obu regionów."
  rus_reinforced_defenses: "Wzmocniona obrona"
@@ -4852,12 +4819,7 @@ Jeśli ukończymy tę misję dzięki §Y[Root.GetClergyName]§!:"
  rus_religious_zeal: "Rosyjska gorliwość religijna"
  desc_rus_religious_zeal: "Religia jest jednym z fundamentów naszego społeczeństwa. Rosyjska gorliwość religijna pozwala nam przetrwać nawet najtrudniejsze czasy."
  the_tatar_yoke: "Jarzmo tatarskie"
- desc_the_tatar_yoke: "
-§RMusimy co roku płacić daninę państwu §Y[466.Owner.GetName]§!, w przeciwnym razie spotka nas gniew Tatarów.§!
-
-Po upadku Rusi Kijowskiej pod naporem Mongołów w 1223 roku Mongołowie, a później Tatarzy, utrzymywali silną kontrolę nad poddanymi ruskimi. Pod przewodnictwem Wielkiego Księstwa Moskiewskiego Rosjanie płacą daninę wielkiemu kniaziowi moskiewskiemu, który przekazuje ją następnie chanowi państwa [466.GetName]. Danina jest możliwa do udźwignięcia, lecz sam fakt jej istnienia stanowi upokorzenie dla każdego szanującego się Słowianina Wschodniego, pragnącego kontynuować dziedzictwo Rzymian.
-
-§YModyfikator zostanie usunięty, jeśli państwo [466.GetName] utraci modyfikator „Jarzmo tatarskie”.§!"
+ desc_the_tatar_yoke: "\n§RMusimy co roku płacić daninę państwu §Y[466.Owner.GetName]§!, w przeciwnym razie spotka nas gniew Tatarów.§!\n\nPo upadku Rusi Kijowskiej pod naporem Mongołów w 1223 roku Mongołowie, a później Tatarzy, utrzymywali silną kontrolę nad poddanymi ruskimi. Pod przewodnictwem Wielkiego Księstwa Moskiewskiego Rosjanie płacą daninę wielkiemu kniaziowi moskiewskiemu, który przekazuje ją następnie chanowi państwa [466.GetName]. Danina jest możliwa do udźwignięcia, lecz sam fakt jej istnienia stanowi upokorzenie dla każdego szanującego się Słowianina Wschodniego, pragnącego kontynuować dziedzictwo Rzymian.\n\n§YModyfikator zostanie usunięty, jeśli państwo [466.GetName] utraci modyfikator „Jarzmo tatarskie”.§!"
  rus_icon_climacus_bonus: "Inspiracja św. Janem Klimakiem"
  desc_rus_icon_climacus_bonus: "Zamówiona ikona stanowi źródło wielkiej inspiracji dla naszego ludu."
  rus_icon_eleusa_bonus: "Inspiracja Eleusą"
@@ -4905,9 +4867,7 @@ Po upadku Rusi Kijowskiej pod naporem Mongołów w 1223 roku Mongołowie, a pó�
  rus_vodka_sales: "Sprzedaż wódki"
  desc_rus_vodka_sales: "Kupcy i handlarze rozpowszechniają wśród zwykłych ludzi wódkę koronną."
  rus_ensured_regular_payment: "Zapewniony regularny żołd"
- desc_rus_ensured_regular_payment: "§RPrzy wstąpieniu nowego władcy na tron należy wypłacić żołd §Ystrzelcom§!.§!
-
-Strzelcy domagali się regularnego wynagrodzenia i złożyliśmy im taką obietnicę. Przy każdym objęciu tronu przez nowego [Root.Monarch.GetTitle] strzelcy przypomną nam o naszej umowie."
+ desc_rus_ensured_regular_payment: "§RPrzy wstąpieniu nowego władcy na tron należy wypłacić żołd §Ystrzelcom§!.§!\n\nStrzelcy domagali się regularnego wynagrodzenia i złożyliśmy im taką obietnicę. Przy każdym objęciu tronu przez nowego [Root.Monarch.GetTitle] strzelcy przypomną nam o naszej umowie."
  rus_extra_high_payment: "Hojne wynagrodzenie"
  desc_rus_extra_high_payment: "Strzelcy otrzymali wyjątkowo wysokie wynagrodzenie. Ich zdolności bojowe wyraźnie wzrosły."
  rus_high_payment: "Wysokie wynagrodzenie"
@@ -4946,11 +4906,7 @@ Strzelcy domagali się regularnego wynagrodzenia i złożyliśmy im taką obietn
  nov_rus_asian_market_access: "Dostęp do rynków azjatyckich"
  time_of_troubles_at: "Łączna suma umiejętności £adm£ £dip£ i £mil£ władcy [Root.Monarch.GetName] wynosi co najmniej §Y9§!."
  flavor_rus.35.t: "Iwan IV Groźny"
- flavor_rus.35.desc: "Syn Wasyla III i jego drugiej żony, Heleny Glińskiej, Iwan IV został wielkim księciem moskiewskim w wieku zaledwie trzech lat, po tym jak jego ojciec zmarł wskutek zapalenia nogi. Jego wczesne dzieciństwo upłynęło pod znakiem zaniedbania i upokorzeń ze strony spiskujących bojarów. W wieku szesnastu lat Iwan został koronowany na „cara Wszechrusi”, co przypieczętowało oficjalne powstanie carstwa rosyjskiego – państwa istniejącego de facto już za panowania jego dziadka, Iwana III Wielkiego.
-
-Wbrew temu, co sugeruje jego przydomek, pierwsze lata rządów Iwana charakteryzowały pokojowe reformy i modernizacja. Charakter jego panowania zmienił się, gdy uznano go za śmiertelnie chorego, a bojarzy odmówili złożenia przysięgi wierności jego małoletniemu synowi. Od tego czasu Iwan żywił paranoiczną urazę do bojarów, która ostatecznie doprowadziła do rzezi Nowogrodu.
-
-Jeśli zostanie wyznaczony na następcę carstwa, wielu jest przekonanych, że państwo osiągnie największą świetność – nawet jeśli będzie to kosztować życie jednego czy dwóch miast."
+ flavor_rus.35.desc: "Syn Wasyla III i jego drugiej żony, Heleny Glińskiej, Iwan IV został wielkim księciem moskiewskim w wieku zaledwie trzech lat, po tym jak jego ojciec zmarł wskutek zapalenia nogi. Jego wczesne dzieciństwo upłynęło pod znakiem zaniedbania i upokorzeń ze strony spiskujących bojarów. W wieku szesnastu lat Iwan został koronowany na „cara Wszechrusi”, co przypieczętowało oficjalne powstanie carstwa rosyjskiego – państwa istniejącego de facto już za panowania jego dziadka, Iwana III Wielkiego.\n\nWbrew temu, co sugeruje jego przydomek, pierwsze lata rządów Iwana charakteryzowały pokojowe reformy i modernizacja. Charakter jego panowania zmienił się, gdy uznano go za śmiertelnie chorego, a bojarzy odmówili złożenia przysięgi wierności jego małoletniemu synowi. Od tego czasu Iwan żywił paranoiczną urazę do bojarów, która ostatecznie doprowadziła do rzezi Nowogrodu.\n\nJeśli zostanie wyznaczony na następcę carstwa, wielu jest przekonanych, że państwo osiągnie największą świetność – nawet jeśli będzie to kosztować życie jednego czy dwóch miast."
  flavor_rus.35.a: "Tron [Root.GetAdjective] należy do Iwana."
  flavor_rus.35.b: "Fascynujące."
  flavor_rus.36.t: "Flota państwa [Root.GetUsableName]"
@@ -5065,19 +5021,13 @@ Ta zdrada nie uszła naszej uwadze. [Root.Monarch.GetTitle], głęboko dotknięt
 Wraz z rozwojem autokracji w państwie [Root.GetUsableName] i przechodzeniem biurokracji na bardziej scentralizowany system, bezpośrednio podporządkowany [Root.Monarch.GetTitle], międzicznictwo uznano za zbędne. W [GetDate] [Root.Monarch.GetTitle] nakazuje spalić wszystkie Razriady i ostatecznie znosi miestniczestwo."
  flavor_rus.126.a: "Z prochu powstałeś, w proch się obrócisz."
  flavor_rus.127.t: "Piotr Wielki"
- flavor_rus.127.desc: "Syn cara Aleksego i jego żony Natalii Naryszkiny, Piotr odziedziczył tron Rosji w wieku zaledwie dziesięciu lat. Ponieważ nie był pierwszym w kolejce do sukcesji, jego przyrodnia siostra Zofia, wspierana przez nielojalnych strzelców, dokonała zamachu stanu przeciwko młodemu carowi. Podczas tego najazdu zamordowano część krewnych i przyjaciół Piotra. W wieku siedemnastu lat Piotr obalił regencję i zaczął współrządzić Rosją ze swoim przyrodnim bratem Iwanem V. Dopiero po śmierci matki Piotr naprawdę rozpoczął sprawowanie władzy jako suweren Rosji.
-Jego panowanie charakteryzowały liczne reformy, które objęły wszystkie dziedziny rosyjskiego społeczeństwa. W pierwszych latach car wprowadził szeroko zakrojone zmiany, których celem była modernizacja Rosji i zbliżenie jej do mocarstw Europy Zachodniej. Na dworze wprowadzono zachodnioeuropejski kodeks ubioru, a wojsko przeszło gruntowną przebudowę. Piotr, zafascynowany statkami od najmłodszych lat, założył pierwszą oficjalną marynarkę wojenną.
-
-Piotr zyskał przydomek „Wielki” dzięki licznym reformom rządowym i przekształceniu carstwa w jedno z czołowych imperiów Europy."
+ flavor_rus.127.desc: "Syn cara Aleksego i jego żony Natalii Naryszkiny, Piotr odziedziczył tron Rosji w wieku zaledwie dziesięciu lat. Ponieważ nie był pierwszym w kolejce do sukcesji, jego przyrodnia siostra Zofia, wspierana przez nielojalnych strzelców, dokonała zamachu stanu przeciwko młodemu carowi. Podczas tego najazdu zamordowano część krewnych i przyjaciół Piotra. W wieku siedemnastu lat Piotr obalił regencję i zaczął współrządzić Rosją ze swoim przyrodnim bratem Iwanem V. Dopiero po śmierci matki Piotr naprawdę rozpoczął sprawowanie władzy jako suweren Rosji.\nJego panowanie charakteryzowały liczne reformy, które objęły wszystkie dziedziny rosyjskiego społeczeństwa. W pierwszych latach car wprowadził szeroko zakrojone zmiany, których celem była modernizacja Rosji i zbliżenie jej do mocarstw Europy Zachodniej. Na dworze wprowadzono zachodnioeuropejski kodeks ubioru, a wojsko przeszło gruntowną przebudowę. Piotr, zafascynowany statkami od najmłodszych lat, założył pierwszą oficjalną marynarkę wojenną.\n\nPiotr zyskał przydomek „Wielki” dzięki licznym reformom rządowym i przekształceniu carstwa w jedno z czołowych imperiów Europy."
  flavor_rus.127.a: "Tron [Root.GetAdjective] należy do Piotra."
  flavor_rus.128.t: "Wielkie reformy Piotra"
  flavor_rus.128.desc: "W pierwszych latach panowania Piotr Wielki czerpał inspirację z zachodnioeuropejskich doradców: zreorganizował armię, utworzył pierwszą rosyjską marynarkę wojenną, zmodernizował absolutystyczny sposób rządzenia i położył pierwsze fundamenty industrializacji Rosji. Choć jego rządy zaostrzyły również system pańszczyźniany i wymagały rozlewu krwi podczas buntów, cesarz odmienił oblicze Rosji, sprawiając, że pozostałe wielkie mocarstwa musiały ją uznać."
  flavor_rus.128.a: "Podbiłem imperium, lecz nie zdołałem podbić samego siebie."
  flavor_rus.129.t: "Katarzyna Wielka"
- flavor_rus.129.desc: "Urodzona w bocznej linii niemieckiego rodu askańskiego Zofia z Anhalt-Zerbst była jedną z wielu mało znaczących księżniczek Świętego Cesarstwa Rzymskiego. W wieku dziesięciu lat poznała swojego przyszłego męża, Piotra III. Sześć lat później, po ślubie, młoda Zofia przeniosła się do Rosji i z wielkim zapałem uczyła się języka rosyjskiego. Aby przystosować się do nowego otoczenia i zdobyć przychylność panującej wówczas cesarzowej Elżbiety, Zofia przeszła na prawosławie i przyjęła imię Katarzyna.
-Małżeństwo z Piotrem III nie układało się z powodu jego niedojrzałości, a oboje małżonkowie dopuszczali się niewierności. Katarzyna przez wiele lat potajemnie spiskowała przeciwko mężowi, a gdy Piotr odziedziczył tron Rosji, ambitna Katarzyna obaliła cesarza po zaledwie sześciu miesiącach jego panowania.
-
-Za jej rządów Rosja przeżyła renesans kultury, sztuki, nauki i wielu innych idei oświecenia. To właśnie za Katarzyny imperium znacznie rozszerzyło swoje wpływy na zachód."
+ flavor_rus.129.desc: "Urodzona w bocznej linii niemieckiego rodu askańskiego Zofia z Anhalt-Zerbst była jedną z wielu mało znaczących księżniczek Świętego Cesarstwa Rzymskiego. W wieku dziesięciu lat poznała swojego przyszłego męża, Piotra III. Sześć lat później, po ślubie, młoda Zofia przeniosła się do Rosji i z wielkim zapałem uczyła się języka rosyjskiego. Aby przystosować się do nowego otoczenia i zdobyć przychylność panującej wówczas cesarzowej Elżbiety, Zofia przeszła na prawosławie i przyjęła imię Katarzyna.\nMałżeństwo z Piotrem III nie układało się z powodu jego niedojrzałości, a oboje małżonkowie dopuszczali się niewierności. Katarzyna przez wiele lat potajemnie spiskowała przeciwko mężowi, a gdy Piotr odziedziczył tron Rosji, ambitna Katarzyna obaliła cesarza po zaledwie sześciu miesiącach jego panowania.\n\nZa jej rządów Rosja przeżyła renesans kultury, sztuki, nauki i wielu innych idei oświecenia. To właśnie za Katarzyny imperium znacznie rozszerzyło swoje wpływy na zachód."
  flavor_rus.129.a: "To ona musi poprowadzić państwo [Root.GetUsableName] ku wielkości."
  flavor_rus.129.b: "Idealna małżonka dla [Root.Monarch.GetName]."
  flavor_rus.129.c: "Co za niezwykła kobieta."
