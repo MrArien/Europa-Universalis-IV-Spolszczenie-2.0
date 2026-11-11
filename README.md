@@ -1,114 +1,62 @@
-# Europa Universalis IV Community Translation / Spolszczenie
-Polish translation of Europa Universalis IV.
+# Europa Universalis IV Community Translation 2.0
 
-Spolszczenie jest również dostępne na Paradox Mods: [Link](https://mods.paradoxplaza.com/mods/31560/Any)
-Jak i steam:
-[Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815)
+**Niezależnie rozwijana kontynuacja społecznościowego polskiego tłumaczenia Europa Universalis IV.**
 
-## Obsługiwana wersja gry i zakres tłumaczenia:
-Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.5.0 (Inca).
+Europa Universalis IV Community Translation 2.0 (dalej: **EU4 CT 2.0**) rozwija dorobek wcześniejszego projektu *Europa Universalis IV Community Translation / Spolszczenie*. Celem edycji 2.0 jest dalsze tłumaczenie gry i dodatków, systematyczna korekta istniejących tekstów, ujednolicenie terminologii oraz kontrola jakości i zgodności plików lokalizacyjnych z aktualną wersją gry.
 
-### Stan w wersji 3.6.3 [31.03.2025]:
-* 19,499 sprawdzonych wpisów
-* 91,706 przetłumaczone wpisy (975 tys. słów)
-* 34,776 nieprzetłumaczonych wpisów (667 tys. słów)
+Projekt jest fanowską, nieoficjalną modyfikacją. Nie jest powiązany z Paradox Interactive ani przez tę firmę zatwierdzony.
 
-* 15.42% Zatwierdzone
-* 72.51% Przetłumaczone
-* 27.49% Nieprzetłumaczone
+## Pochodzenie projektu i autorstwo
 
-Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie **(72.51% całej gry)**. Prace projektu obejmują 145 plików, z czego do przetłumaczenia pozostało 25.
+EU4 CT 2.0 bazuje na publicznie dostępnym projekcie:
 
-_Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wtedy uznajemy że cała linijka jest nieprzetłumaczona, aby mieć pewność, że nie ma żadnych rozbieżności, stąd po aktualizacjach postęp może się "cofać", co wynika z przyrostu nowych tekstów, szczególnie przy nowych dodatkach DLC, czy dużych aktualizacjach._
- 
-### Lista ostatnich zmian (dane z dnia 31.03.2025):
-W ostatnich miesiącach:
-- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.37.5.0 Inca
-- Przetłumaczono kolejne tysiące linijek
-- Poprawiono dziesiątki już obecnych tłumaczeń
-- Poprawiono błędy interfejsu gry adekwatnie do aktualizacji samej gry
-- Dodano nowe funkcje Custom Localisation / Odmiany wyrazów
-- Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Winds Of Change
+- **Projekt bazowy:** [olokos/Europa-Universalis-IV-Spolszczenie](https://github.com/olokos/Europa-Universalis-IV-Spolszczenie)
+- **Pierwotna licencja:** Apache License 2.0
+- **Aktualne repozytorium edycji 2.0:** [MrArien/Europa-Universalis-IV-Spolszczenie](https://github.com/MrArien/Europa-Universalis-IV-Spolszczenie)
 
+Edycja 2.0 jest rozwijana niezależnie. Zachowuje uznanie dla wcześniejszego dorobku społeczności, w tym tłumaczy, korektorów, testerów, organizatorów, autorów narzędzi i materiałów graficznych. Nie przypisuje twórcom edycji 2.0 autorstwa historycznych tłumaczeń, których nie wykonali.
 
-### Postęp prac nad spolszczeniem (dane z dnia 31.03.2025):
+**Maintainer edycji 2.0:** [MrArien](https://github.com/MrArien)
 
-**Wersja podstawowa EU4**: 
-* Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.
+### Zakres prac w edycji 2.0
 
-**Dodatki:**
+- kontynuacja tłumaczenia podstawowej wersji gry oraz dodatków;
+- korekta istniejących tłumaczeń i poprawa błędów językowych;
+- ujednolicanie terminologii historycznej, geograficznej, ustrojowej i mechanicznej;
+- audyt spójności tekstów, kluczy lokalizacyjnych i formatowania;
+- kontrola placeholderów, parametrów, tagów i składni wymaganej przez silnik gry;
+- aktualizacja tłumaczenia wraz ze zmianami wprowadzanymi przez Paradox Interactive;
+- testy w grze i weryfikacja zgłoszeń społeczności.
 
-**Przetłumaczone w całości:**
+## Stan projektu i zgodność z grą
 
-* Conquest of Paradise
-* Wealth of Nations
-* Res Publica
-* El Dorado
-* The Cossacks
-* Mare Nostrum
-* Third Rome
-* Rule Britannia
-* Dharma
-* Golden Century
+Edycja 2.0 znajduje się w aktywnym rozwoju. Informacje o postępie, wykonanych audytach oraz zakończonych pracach będą aktualizowane wraz z kolejnymi wydaniami.
 
-**Tłumaczone dodatki:**
-(postęp określono dla głównych plików)
+Nie należy traktować statystyk ani deklaracji zgodności pochodzących ze starszych wydań jako aktualnego stanu edycji 2.0. Właściwa wersja gry i zakres obsługiwanych treści zostaną wskazane w opisie konkretnego wydania.
 
-* Art of War - 58,38% (27 018)
-* Common Sense - 34,65% (22 878)
-* Rights of Man - 43,20% (26 042)
-* Mandate of Heaven - 36,15% (11 310)
-* Cradle of Civilization - 42,10% (10 514)
-* Emperor
-- emperor content - 38,20% (52 977)
-- emperor missions - 64,84% (22 269)
-- emperor - 91,89% (654)
-- emperor estates - 100% (0)
-- emperor revolutions - 100% (0)
-* Leviathan
-- leviathan - 20,63% (27 781)
-- mandala missions - 20,26% (10 162)
-- 00 lanfang - 47,23% (7 354)
-- tmm - 59,89% (6 734)
-* Origins - 21,72% (38 454)
-* Lions of the North - 22,00% (79 713)
-* Domination - 14,61% (93 156)
-* King of Kings - 5,09% (68 709)
-* Winds of Change - 6,72% (95 512)
+## Instalacja
 
-**Objaśnienia:**
- + procenty określają postęp tłumaczenia dodatku (w zakresie wpisów (linijek))
- + w nawiasie podano liczbę słów, która pozostała do zakończenia tłumaczenia dodatku 
+Instrukcja instalacji zostanie dostosowana do kanału dystrybucji i opublikowanego wydania.
 
-## Jak dołączyć do projektu?
-Po więcej informacji zapraszamy na serwer discord [Dostępny Tutaj](https://discord.gg/bTW7G7zJGX)
+W przypadku instalacji lokalnej należy korzystać z plików moda przygotowanych w katalogu projektu. Nie należy kopiować plików źródłowych ani narzędzi deweloperskich do katalogu moda, o ile instrukcja danego wydania nie stanowi inaczej.
 
-Jeżeli chcesz przyłączyć się do prac nad spolszczeniem - daj znać na serwerze discord i dołącz poprzez link poniżej.
+## Zgłaszanie błędów i propozycji
 
-[Link](https://www.transifex.com/europa-universalis-iv-community-translation/Community-edition/)
+Zgłoszenia dotyczące błędów tłumaczenia, niejednolitej terminologii, błędów wyświetlania lub nieprawidłowego działania lokalizacji należy przekazywać przez zakładkę **Issues** repozytorium.
 
-Jak już jesteś na stronie z linku, naciśnij "Help Translate", aby wysłać prośbę o dołączenie do projektu.
+W zgłoszeniu warto podać:
+- wersję gry i używane dodatki DLC;
+- nazwę pliku lub klucz lokalizacyjny, jeśli jest znany;
+- tekst widoczny w grze i proponowaną poprawkę;
+- zrzut ekranu lub kroki pozwalające odtworzyć problem.
 
-Serdecznie zapraszamy do pomocy w tłumaczeniu!
+Pull requesty z poprawkami są mile widziane. Zmiany powinny zachowywać klucze lokalizacyjne, placeholdery, tagi i strukturę wymaganą przez grę.
 
-## Instalacja moda i rozwiązywanie problemów:
+## Autorzy i podziękowania
 
-### Jak zainstalować mod?:
-1. Zasubskrybuj modyfikację.
-2. Gdy uruchomisz grę, w launcherze w zakładce mody zaznacz "Spolszczenie EUIV Community Edition"
-3. Upewnij się, że w launcherze masz zaznaczoną angielską flagę! Spolszczenie podmienia język angielski na język polski.
+Edycja 2.0 korzysta z dorobku wcześniejszego projektu społecznościowego. Wszystkim osobom, które uczestniczyły w tłumaczeniu, korekcie, testach, organizacji, przygotowaniu czcionek, grafiki i narzędzi, należy się uznanie za ich wkład.
 
-### UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do nieaktualnej wersji gry, należy:
-1. Uruchomić launcher gry (uruchomić grę poprzez Steam).
-2. Z włączonym launcherem odsubskrybować moda a po chwili zasubskrybować go na nowo.
-
-## Osiągnięcia Steam:
-**Spolszczenie jest całkowicie kompatybilne z osiągnięciami (ang. achievements) Steam! Z włączonym spolszczeniem śmiało można zdobywać wszystkie osiągnięcia dostępne w grze!**
-
-## Zgłaszanie błędów oraz pomoc techniczna:
-W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [Dostępny Tutaj](https://discord.gg/bTW7G7zJGX)
-
-## Twórcy:
+### Twórcy poprzednich etapów projektu
 - 200e200w - tłumaczenie, aktualizacja readme
 - Batziy - polskie czcionki
 - blizzer92 - tłumaczenie
@@ -168,3 +116,12 @@ W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu 
 * voythas - grafiki okołoprojektowe
 * Ysska - tłumaczenie, korekta, organizacja
 * zenn - tłumaczenie
+
+
+## Licencje i informacje prawne
+
+Kod, pliki i materiały odziedziczone z projektu bazowego podlegają warunkom licencji właściwym dla tych komponentów. W szczególności repozytorium zawiera plik [LICENSE](./LICENSE) z tekstem Apache License 2.0. Poszczególne narzędzia mogą posiadać odrębne licencje — należy respektować pliki licencyjne znajdujące się w ich katalogach, w tym licencję [LocaleParser](./tools/LocaleParser/LICENSE).
+
+Przy redystrybucji materiałów pochodzących z projektu bazowego należy zachować wymagane informacje o licencji, autorstwie i zmianach zgodnie z właściwymi warunkami licencyjnymi. Oznaczenie projektu jako edycji 2.0 nie oznacza przejęcia autorstwa wcześniejszych prac.
+
+**Europa Universalis IV** oraz związane z grą znaki towarowe i materiały należą do ich odpowiednich właścicieli. EU4 CT 2.0 jest nieoficjalnym projektem fanowskim.
