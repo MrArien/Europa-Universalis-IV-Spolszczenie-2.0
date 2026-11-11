@@ -1586,14 +1586,12 @@
  promoting_art_events.3.b: "Podarujmy mu hojną sumę dukatów."
  promoting_art_events.3.c: "Zapewnijmy mu wszystkie potrzebne zasoby."
  promoting_art_events.4.t: "Artysta czyni znaczne postępy"
- promoting_art_events.4.desc: "Na dwór dotarły wieści od zatrudnionego artysty. Najwyraźniej znalazł on ważne źródło inspiracji, które pozwoliło mu szybko posunąć prace naprzód.
-Wspomina również, że chciałby poddać swoje dzieło wstępnej ocenie — najlepiej przez kogoś innego niż [Root.Monarch.GetTitle]."
+ promoting_art_events.4.desc: "Na dwór dotarły wieści od zatrudnionego artysty. Najwyraźniej znalazł on ważne źródło inspiracji, które pozwoliło mu szybko posunąć prace naprzód.\nWspomina również, że chciałby poddać swoje dzieło wstępnej ocenie — najlepiej przez kogoś innego niż [Root.Monarch.GetTitle]."
  promoting_art_events.4.a: "Wyślijmy do niego jednego z naszych znawców sztuki."
  promoting_art_events.4.b: "Z pewnością jeden z doradców może wcześniej ocenić dzieło."
  promoting_art_events.4.c: "Zaufajmy jego umiejętnościom. Ocena nie jest potrzebna."
  promoting_art_events.5.t: "Kryzys twórczy"
- promoting_art_events.5.desc: "W życiu artysty niewiele rzeczy jest gorszych od utraty twórczej weny. Nawet najprostszy obraz, najbardziej banalny wzór czy najkrótszy opis stają się wówczas większym wyzwaniem niż podbój obcego imperium.
-Nasz zatrudniony artysta przeżywa właśnie taki kryzys, co znacznie spowalnia jego pracę."
+ promoting_art_events.5.desc: "W życiu artysty niewiele rzeczy jest gorszych od utraty twórczej weny. Nawet najprostszy obraz, najbardziej banalny wzór czy najkrótszy opis stają się wówczas większym wyzwaniem niż podbój obcego imperium.\nNasz zatrudniony artysta przeżywa właśnie taki kryzys, co znacznie spowalnia jego pracę."
  promoting_art_events.5.a: "«Zmotywujmy» artystę do powrotu do pracy."
  promoting_art_events.5.b: "Zapewnijmy mu trochę wolnego czasu na dworze."
  promoting_art_events.5.c: "Na dobre rzeczy trzeba poczekać."
@@ -1606,8 +1604,7 @@ Nasz zatrudniony artysta przeżywa właśnie taki kryzys, co znacznie spowalnia 
  promoting_art_events.6.d: "Skontaktujmy się z dworem państwa [target_country.GetAdjective] i zapowiedzmy jego przybycie."
  per_traveling_artist: "Podróżujący artysta"
  promoting_art_events.7.t: "Artysta potrzebuje dodatkowych materiałów"
- promoting_art_events.7.desc: "Niektórzy artyści mają bardzo niekonwencjonalne metody pracy. Niestety, zatrudniony przez nas twórca należy właśnie do tej grupy. Wkroczył na nasz dwór, zaprezentował prawdziwe znaczenie ekscentryzmu i przedstawił listę niezwykle nietypowych przedmiotów.
-Zazwyczaj takie zachowanie skończyłoby się szybkim uwięzieniem w [Root.GetAdjective] lochach. [Root.Monarch.GetTitle] wykazuje jednak cierpliwość, ponieważ chce zobaczyć dzieło tego artysty."
+ promoting_art_events.7.desc: "Niektórzy artyści mają bardzo niekonwencjonalne metody pracy. Niestety, zatrudniony przez nas twórca należy właśnie do tej grupy. Wkroczył na nasz dwór, zaprezentował prawdziwe znaczenie ekscentryzmu i przedstawił listę niezwykle nietypowych przedmiotów.\nZazwyczaj takie zachowanie skończyłoby się szybkim uwięzieniem w [Root.GetAdjective] lochach. [Root.Monarch.GetTitle] wykazuje jednak cierpliwość, ponieważ chce zobaczyć dzieło tego artysty."
  promoting_art_events.7.a: "Spełnijmy jego życzenie."
  promoting_art_events.7.b: "Zdobądźmy te towary od stanu [Root.GetBurghersOrFallbackName]."
  promoting_art_events.7.c: ""
