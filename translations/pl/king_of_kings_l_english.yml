@@ -1524,14 +1524,7 @@
  persian_influence_mechanic: "Perskie wpływy"
  ability_persian_influence_mechanic: "Perskie wpływy"
  persian_influence: "Perskie wpływy"
- persian_influence_desc: "Perskie wpływy to zasób odzwierciedlający rozwój i znaczenie kultury [Root.Culture.GetName] na świecie oraz uznanie, jakim darzą ją obce ludy. Można je wykorzystać do ustanowienia §Ysfery wpływów kulturowych§!, która umożliwia ekspansję państwa bez konieczności prowadzenia wojen.
-Perskie wpływy zyskujemy w następujący sposób:
- - §G+0,03§! miesięcznych perskich wpływów za każdy poziom §Ydoradcy administracyjnego§!
- - Dodatkowe §G+0,07§! miesięcznych perskich wpływów za każdy poziom doradcy typu §YArtysta§! lub §YFilozof§!
- - Wydarzenia związane z decyzją §YWspieraj sztukę§!
-
-Perskie wpływy tracimy w następujący sposób:
- - §R-0,01§! miesięcznych perskich wpływów za każdą prowincję, która nie należy do grupy kulturowej §Y[Root.Culture.GetGroupName]§!"
+ persian_influence_desc: "Perskie wpływy to zasób odzwierciedlający rozwój i znaczenie kultury [Root.Culture.GetName] na świecie oraz uznanie, jakim darzą ją obce ludy. Można je wykorzystać do ustanowienia §Ysfery wpływów kulturowych§!, która umożliwia ekspansję państwa bez konieczności prowadzenia wojen.\nPerskie wpływy zyskujemy w następujący sposób:\n - §G+0,03§! miesięcznych perskich wpływów za każdy poziom §Ydoradcy administracyjnego§!\n - Dodatkowe §G+0,07§! miesięcznych perskich wpływów za każdy poziom doradcy typu §YArtysta§! lub §YFilozof§!\n - Wydarzenia związane z decyzją §YWspieraj sztukę§!\n\nPerskie wpływy tracimy w następujący sposób:\n - §R-0,01§! miesięcznych perskich wpływów za każdą prowincję, która nie należy do grupy kulturowej §Y[Root.Culture.GetGroupName]§!"
  monthly_persian_influence: "Miesięczne perskie wpływy"
  persian_influence_gain_modifier: "Modyfikator przyrostu perskich wpływów"
  influence_to_vassal_elevation_cost: "Koszt podniesienia rangi wasala"
