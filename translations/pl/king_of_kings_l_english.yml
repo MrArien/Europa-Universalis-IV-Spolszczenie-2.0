@@ -1836,10 +1836,7 @@ Nie stracimy żadnego §YAsha Wahišta§!, ponieważ działanie to jest zgodne z
  remove_asha_vahishta_loss_from_missionaries_tt: "Nawracanie prowincji za pomocą §Ymisjonarzy§! nie będzie już zmniejszać §YAsha Wahišta§!."
  upgrade_the_three_fire_tt: "Ulepsza zdolność rządową §YTrzy Królewskie Ognie§!."
  remove_asha_vahishta_loss_from_force_conversion_tt: "Wymuszenie konwersji państwa nie będzie już zmniejszać §YAsha Wahišta§!."
- free_religious_diplomats_for_all_zoro_countries_tt: "Przywilej stanowy §YDyplomaci religijni§! dla stanu §Y[Root.GetChurchOrFallbackName]§! zapewni wszystkim §Yzaratusztriańskim§! państwom dodatkowe efekty:
-Wpływy stanu [Root.GetChurchOrFallbackName]: §Y-10,0%§!
-Maksymalny absolutyzm: §G+10§!
-Maksymalna liczba przywilejów stanu [Root.GetChurchOrFallbackName]: §G+1§!"
+ free_religious_diplomats_for_all_zoro_countries_tt: "Przywilej stanowy §YDyplomaci religijni§! dla stanu §Y[Root.GetChurchOrFallbackName]§! zapewni wszystkim §Yzaratusztriańskim§! państwom dodatkowe efekty:\nWpływy stanu [Root.GetChurchOrFallbackName]: §Y-10,0%§!\nMaksymalny absolutyzm: §G+10§!\nMaksymalna liczba przywilejów stanu [Root.GetChurchOrFallbackName]: §G+1§!"
  enable_three_royal_fires_mana_generation_tt: ""
  maximize_profit_upgraded: ""
  hostile_trading_upgraded: ""
