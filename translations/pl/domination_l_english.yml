@@ -5440,7 +5440,7 @@ Aby temu zaradzić, zaproponowano wprowadzenie gwarantowanego żołdu, który za
  flavor_gbr.2.t: "Zakup prowincji [369.GetName]"
  flavor_gbr.2.desc: "Po podporządkowaniu Szkocji północna część Wysp Brytyjskich znalazła się pod panowaniem państwa [Root.GetAdjective]. Nadal jednak wymykają się nam północne wyspy [369.GetName], [1978.GetName] i [1979.GetName]. Dwie ostatnie mają niewielkie znaczenie, lecz wyspa [369.GetName] musi zostać włączona do naszego państwa.\nByć może udałoby się kupić ją od państwa [369.Owner.GetName]."
  flavor_gbr.2.a: "Kupmy [369.GetName]."
- flavor_gbr.2.a.tt: "Państwo §Y[Root.GetName]§! zaoferuje §Y200§! ¤ państwu §Y[369.Owner.GetName]§! w zamian za prowincję §Y[369.GetName]§!.\n§YGotaowość do sprzedaży prowincji zależy od stosunków między państwami [Root.GetName] i [369.Owner.GetName].§!"
+ flavor_gbr.2.a.tt: "Państwo §Y[Root.GetName]§! zaoferuje §Y200§! ¤ państwu §Y[369.Owner.GetName]§! w zamian za prowincję §Y[369.GetName]§!.\n§YGotowość do sprzedaży prowincji zależy od stosunków między państwami [Root.GetName] i [369.Owner.GetName].§!"
  flavor_gbr.2.b: "Nie stać nas teraz na taki wydatek."
  flavor_gbr.2.b.tt: "Odblokowuje decyzję pozwalającą zaoferować państwu §Y[369.Owner.GetName]§! zakup prowincji §Y[369.GetName]§!."
  flavor_gbr.3.t: "Oferta zakupu prowincji [369.GetName]"
