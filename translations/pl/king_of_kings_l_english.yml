@@ -1986,7 +1986,7 @@ Nie stracimy żadnego §YAsha Wahišta§!, ponieważ działanie to jest zgodne z
  adur_farnbag_interaction_desc: ""
  adur_farnbag_interaction_ct: "§R- §Y[Root.GetName]§! nie ustanowiło jeszcze nowego §Ycentrum nawracania§!.§!"
  adur_farnbag_interaction_bt: "§RNie można już utworzyć kolejnych §Ycentrów nawracania§! religii §Y[Root.Religion.GetName]§!, ponieważ w tej kampanii powstało już §Y[GetZoroCoRCounter]§! takich centrów.§!"
- adur_farnbag_interaction_at: "Wzniesienie kolejnej §Y[Root.GetTempleName]§! nawróci docelową prowincję na religię §Y[Root.Religion.GetName]§! i utworzy w niej §Ycentrum nawracania§! (§Y[GetZoroCoRCounter]§!/§Y3§!).\n§YProwincje o rozwoju powyżej §R30§! lub posiadające aktywne §Rcentrum religijne§! nie mogą zostać przekształcone w centra nawracania.§!"
+ adur_farnbag_interaction_at: "Wzniesienie kolejnej §Y[Root.GetTempleName]§! nawróci docelową prowincję na religię §Y[Root.Religion.GetName]§! i utworzy w niej §Ycentrum nawracania religii [Root.Religion.GetName]§! (§Y[GetZoroCoRCounter]§!/§Y3§!).\n§YProwincje o rozwoju powyżej §R30§! lub posiadające aktywne §Rcentrum religijne§! nie mogą zostać przekształcone w centra nawracania.§!"
  zoroastrian_reform_center_counter_tt: "[1.zoroastrian_reform_center_counter.GetValue]"
  adur_farnbag_mod: "Ponownie rozpalony Adur Farnbag"
  desc_adur_farnbag_mod: ""
