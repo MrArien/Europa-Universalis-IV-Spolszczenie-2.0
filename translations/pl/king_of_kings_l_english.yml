@@ -590,7 +590,7 @@ Aby zaanektować §Ydziedzicznego pronoiara§!, należy najpierw przekształcić
  MEE_Byzantine_Events.17.d: "Wschodni Kościół prawosławny od stuleci nieustannie podupadał. Zniszczony przez najazdy arabskie i schizmę z 1054 roku, zdawał się już na zawsze utracić pentarchię. Na szczęście ambicja dynastii [Root.Monarch.Dynasty.GetName] pozwoliła ją odbudować, dzięki czemu pięciu patriarchów może ponownie się spotkać i zjednoczyć chrześcijan."
  MEE_Byzantine_Events.17.a: "Wschód znów jest jednością."
  MEE_Byzantine_Events.18.t: "Sobór ekumeniczny"
- MEE_Byzantine_Events.18.d: "Na prośbę [Root.Monarch.GetTitle] wszyscy pięciu patriarchowie zebrali się w prowincji [byz_council_prov.GetName], aby omówić sprawy wiary i jedności. Wśród poruszanych tematów znalazły się debata na temat drukowania Biblii, niedawny spór dotyczący doktryny religijnej oraz próba umocnienia władzy patriarchy Konstantynopola."
+ MEE_Byzantine_Events.18.d: "Na prośbę [Root.Monarch.GetTitle] wszyscy patriarchowie zebrali się w prowincji [byz_council_prov.GetName], aby omówić sprawy wiary i jedności. Wśród poruszanych tematów znalazły się debata na temat drukowania Biblii, niedawny spór dotyczący doktryny religijnej oraz próba umocnienia władzy patriarchy Konstantynopola."
  MEE_Byzantine_Events.18.a: "Musimy ściśle kontrolować drukowanie ksiąg."
  MEE_Byzantine_Events.18.b: "Musimy rozstrzygnąć spór dotyczący doktryny religijnej."
  MEE_Byzantine_Events.18.c: "Wesprzyjmy patriarchę Konstantynopola."
