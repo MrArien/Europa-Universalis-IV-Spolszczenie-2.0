@@ -694,7 +694,7 @@
  mng_trade_ideas_tt: "\nJeśli wykonamy misję gdy §Yidee handlowe§! są aktywne:"
  mng_estates_govcap_now_grants_another_50_gov_cap_tt: "Czy powinniśmy wybrać §Ywspółpracę z klasami§! przyznając im prawa do naszych ziem, przywilej zostanie §Guzupełniony§! przez §Gobniżenie kosztów stabilności§! jak również:"
  mng_alternatively_pop_census_improved: "\nAlternatywnie, każdy §YDekret spisu ludności§! przyzna również §G+1§! miesięcznej władzy administracyjnej oraz:"
- mng_exam_system_reward_tt: "Jeśli zakończymy misję mając reformę rządową §Ysystem egzaminacyjny§! zyskamy:"
+ mng_exam_system_reward_tt: "Jeśli ukończymy misję poprzez wprowadzenie reformy ustrojowej §YSystem egzaminacyjny§!, otrzymamy:\n "
  mng_cmb_reward_tt: "\nAlternatywnie, jeśli zakończymy misję z jakąkolwiek inną reformą rządową poziomu 3, wydamy §R250§! postępu w reformach i zdobędziemy odpowiednią nagrodę:\n\n§MScentralizowana biurokracja§!: Zmniejszenie modyfikatora '§Yprzerost administracji§!' o §G-5%§! minimalnej autonomii"
  mng_db_reward_1_tt: "\n§MZdecentralizowana biurokracja§!:"
  mng_erc_reward_tt: "\n§MRozbudowany dwór królewski§!: Zdobądź §Y20§! £adm£ £dip£ i £mil£ za każdy przywilej Eunuchów, a także zwiększony §YWpływ Eunuchów§! i przywilej klasy, zwiększający nasz wzrost §Ymandatu§! i zmniejszający naszą §Ykorupcję§! dla Eunuchów"
@@ -719,7 +719,7 @@
  mng_no_inward_perfection_reward_tt: "\nAlternatywnie uzyskamy dostęp do przywileju klasy §Ydoskonałość zewnętrzna§! i zdobędziemy następującą nagrodę:"
  mng_all_provinces_in_mission_req_tt: "Każda prowincja wymieniona w wymaganiach misji:"
  mng_flood_events_less_devastating_tt: "\n§YPotencjalne powodzie wzdłuż Żółtej Rzeki będą dla nas znacznie mniej niszczycielskie§!"
- mng_inform_about_potosi_tt: "\n§YCerro Rico del Potosí§! znacznie powiększy swoją §Yprodukcję§! srebra w celu ułatwienia zaspokojenia potrzeby nowego §systemu podatkowego§! naszego narodu"
+ mng_inform_about_potosi_tt: "\n§YCerro Rico del Potosí§! znacznie zwiększy swoją §Yprodukcję§! srebra, aby zaspokoić potrzeby nowej §Yreformy podatkowej§! naszego państwa."
  mng_zhishi_trigger_desc_tt: "Następujące wymagania są konieczne dla otrzymania nagrody §YZhishi§!:"
  mng_shengshi_trigger_tt: "Następujące wymagania są konieczne dla otrzymania nagrody §YShengshi§!:"
  mng_zhishi_reward_tt: "§MNagroda Zhishi§!:"
@@ -1187,11 +1187,11 @@
  inclusive_monarchy_decision_title: "Monarchia otwarta na wszystkich"
  inclusive_monarchy_decision_desc: "Nasze państwo obejmuje rozległe ziemie, a liczba naszych poddanych jest ogromna. Musimy zatem wykazać się doskonałością i tolerancją godną samych Niebios oraz dążyć do stworzenia społeczeństwa, które traktuje wszystkich z godnością i współczuciem."
  promote_bureaucratic_faction_decision_title: "§OPopieranie biurokratów§!"
- promote_bureaucratic_faction_decision_desc: "Dusza naszego państwa tkwi w sprawności procedur administracyjnych. Wspierając i wyróżniając urzędników zamiast zwolenników rozwiązań siłowych, zapobiegniemy przyszłym wewnętrznym walkom o władzę.
+ promote_bureaucratic_faction_decision_desc: "Dusza naszego państwa tkwi w sprawności procedur administracyjnych. Wspierając i wyróżniając urzędników zamiast zwolenników rozwiązań siłowych, zapobiegniemy przyszłym wewnętrznym walkom o władzę.\n§YReforma wzajemnie wyklucza się z reformą „Promowanie generałów”.§!\n"
 §YWzajemnie wyklucza się z reformą „Popieranie generałów”§!
 "
  promote_military_faction_decision_title: "§OPopieranie generałów§!"
- promote_military_faction_decision_desc: "Ci, którzy narażają życie, by zapewnić nam wolność, zasługują na większe uznanie niż wygodni biurokraci, bez końca mnożący procedury i wikłający się w gąszcz przepisów.
+ promote_military_faction_decision_desc: "Ci, którzy narażają życie, by zapewnić nam wolność, zasługują na większe uznanie niż wygodni biurokraci, bez końca mnożący procedury i wikłający się w gąszcz przepisów.\n§YReforma wzajemnie wyklucza się z reformą „Promowanie biurokratów”.§!\n"
 §YWzajemnie wyklucza się z reformą „Popieranie biurokratów”§!
 "
  unifed_trade_market_decision_title: "Zjednoczenie rynków Azji"
