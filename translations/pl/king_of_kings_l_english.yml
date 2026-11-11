@@ -1563,16 +1563,27 @@
  NOTEWORTHY_BUILDING_STRING: "Choć interesująca i piękna sama w sobie, [Root.GetTempleName] zaprojektowana przez architekta nie robi większego wrażenia na [Root.Monarch.GetTitle] ani jego dworze. Mimo to z pewnością stanie się obiektem zazdrości naszych rywali.\nJej formy nie dorównują wspaniałości wielkich monumentów, lecz nadają budowli dostojny charakter. Kolorystyka również cieszy oko, zachowując przy tym umiar. Jest to bez wątpienia budowla godna uwagi."
  GREAT_BUILDING_STRING: "Architekt wyraźnie przesadził, opisując jakość i prestiż, jakie miała przynieść nam jego budowla. Jego dzieło ma pewien potencjał, a [Root.Monarch.GetTitle] potrafi dostrzec w nim ślady kunsztu artystycznego. Nie jest to jednak dzieło, które warto przekazywać potomnym.\n[Root.GetTempleName] została wzniesiona przede wszystkim z myślą o funkcjonalności, a nie pięknie. Jej formy są proste, a barwy niemal całkowicie nieobecne. Budowla spełnia swoje zadanie, lecz wyraźnie brakuje jej duszy."
  PATHETIC_BUILDING_STRING: "[Root.Monarch.GetTitle] musi na chwilę przystanąć, spoglądając na koszmarną konstrukcję przedstawioną [Root.Monarch.GetHerHim]. Słowa nie są w stanie opisać odrazy, jaką [Root.Monarch.GetHerHis] budzi dzieło stworzone przez architekta.\nPrzypomina [Root.GetTempleName] jedynie z grubsza swoim kształtem. Użyte materiały z pewnością widziały niejedno pole bitwy, a funkcjonalność budowli jest co najmniej wątpliwa. Jeden z doradców [Root.Monarch.GetHerHis] wysokości odważył się wejść do tej nędznej chaty i ledwo uszedł z życiem, gdy ominęła go o włos jedna z belek podporowych."
- MAGNIFICENT_CARPETS_STRING: ""
- SIGNIFICANT_CARPETS_STRING: ""
- NOTEWORTHY_CARPETS_STRING: ""
- GREAT_CARPETS_STRING: ""
- PATHETIC_CARPETS_STRING: ""
- MAGNIFICENT_PAINTING_STRING: ""
- SIGNIFICANT_PAINTING_STRING: ""
- NOTEWORTHY_PAINTING_STRING: ""
- GREAT_PAINTING_STRING: ""
- PATHETIC_PAINTING_STRING: ""
+ MAGNIFICENT_CARPETS_STRING: "Na widok wspaniałych dywanów [Root.Monarch.GetTitle] z trudem powstrzymuje łzy wzruszenia. Ani [Root.Monarch.GetSheHe], ani żaden z członków dworu nigdy wcześniej nie widział tak niezwykłego dzieła sztuki tkackiej.
+Powierzchnia jest niezwykle miękka, a zarazem wytrzymała. Wzory cieszą oko i nadają dywanowi wyjątkowo szlachetny wygląd. Krawiec naprawdę przeszedł samego siebie!"
+ SIGNIFICANT_CARPETS_STRING: "Oczy [Root.Monarch.GetTitle] podziwiają imponujący przykład [Root.GetAdjective] rzemiosła. Taki dywan jest rzadkością nawet w państwie [Root.GetName], które tak wiele uwagi poświęca sztuce i kulturze.
+Tkanina jest delikatna, a mimo to zachowuje swój kształt i barwy nawet po długim użytkowaniu. Wzory są złożone, a czasem wręcz trudne do odczytania, lecz nadają dywanowi niepowtarzalne piękno. To bez wątpienia dzieło najwyższej jakości."
+ NOTEWORTHY_CARPETS_STRING: "Choć interesujący i piękny sam w sobie, dywan przedstawiony przez tkacza nie robi większego wrażenia na [Root.Monarch.GetTitle] ani jego dworze. Mimo to z pewnością stanie się obiektem zazdrości naszych rywali.
+Tkanina jest delikatna i tak cienka, że dywan nie nadaje się do położenia na podłodze. Jego wzornictwo i dobór materiału sprawiają jednak, że będzie godną uwagi ozdobą ściany."
+ GREAT_CARPETS_STRING: "Krawiec wyraźnie przesadził, opisując jakość i prestiż, jakie miał przynieść nam jego dywan. Jego dzieło ma pewien potencjał, a [Root.Monarch.GetTitle] potrafi dostrzec w nim ślady kunsztu artystycznego. Nie jest to jednak dzieło, które warto przekazywać potomnym.
+Wzór dywanu jest prosty, a jego powierzchnia szorstka w dotyku, choć świetnie sprawdzi się jako wycieraczka. Przedmiot jest funkcjonalny, lecz wyraźnie nie został stworzony po to, by cieszyć oko."
+ PATHETIC_CARPETS_STRING: "[Root.Monarch.GetTitle] musi na chwilę przystanąć, spoglądając na kawałek materiału przedstawiony [Root.Monarch.GetHerHim]. Słowa nie są w stanie opisać odrazy, jaką [Root.Monarch.GetHerHis] budzi dzieło stworzone przez rzemieślnika.
+[Root.Monarch.GetTitle] nie jest nawet pewien, czy użyty materiał to rzeczywiście jedwab. Dotknięcie rzekomego dywanu sprawia, że [Root.Monarch.GetName] odruchowo się cofa. Na tkaninie znajduje się coś wyjątkowo odrażającego, a [Root.Monarch.GetTitle] woli nie wiedzieć, z czego wykonano te wzory..."
+ MAGNIFICENT_PAINTING_STRING: "Na widok wspaniałego portretu [Root.Monarch.GetTitle] z trudem powstrzymuje łzy wzruszenia. Ani [Root.Monarch.GetSheHe], ani żaden z członków dworu nigdy wcześniej nie widział tak niezwykłego dzieła sztuki.
+Portret przedstawia z profilu samego [Root.Monarch.GetTitle] [Root.Monarch.GetName]. Linie doskonale oddają kształt [Root.Monarch.GetHerHis] twarzy, a kolorystyka nadaje wizerunkowi niemal realistyczny wygląd. Jeden z doradców zażartował, że artysta może być szarlatanem, skoro portret bardziej przypomina lustro niż obraz."
+ SIGNIFICANT_PAINTING_STRING: "Oczy [Root.Monarch.GetTitle] podziwiają imponujący przykład [Root.GetAdjective] rzemiosła. Taki obraz jest rzadkością nawet w państwie [Root.GetName], które tak wiele uwagi poświęca sztuce i kulturze.
+Portret przedstawia [Root.Monarch.GetTitle] [Root.Monarch.GetName] we własnej osobie. Linie oddające sylwetkę [Root.Monarch.GetHerHis] majestatu doskonale ukazują aurę władcy, a kolorystyka łączy artystyczną wizję z realistycznym przedstawieniem [Root.Monarch.GetHerHis] wyglądu."
+ NOTEWORTHY_PAINTING_STRING: "Choć interesujący i piękny sam w sobie, portret przedstawiony przez artystę nie robi większego wrażenia na [Root.Monarch.GetTitle] ani jego dworze. Mimo to z pewnością stanie się obiektem zazdrości naszych rywali.
+Przedstawia [Root.Monarch.GetName] stojącego w sali tronowej. Wyraźnie jednak widać, że malarz bardziej skupił się na samym dworze, przez co liczne postacie odwracają uwagę od głównego tematu. Obraz i tak doskonale nadaje się do ozdobienia pałacu."
+ GREAT_PAINTING_STRING: "Malarz wyraźnie przesadził, opisując jakość i prestiż, jakie miało przynieść nam jego dzieło. Jego praca ma pewien potencjał, a [Root.Monarch.GetTitle] potrafi dostrzec w niej ślady kunsztu artystycznego. Nie jest to jednak dzieło, które warto przekazywać potomnym.
+Obraz przedstawia miskę wypełnioną jabłkami. Autor nazywa to martwą naturą. Choć nie można odmówić mu pewnej jakości, obraz przedstawiający miskę jabłek pozostaje po prostu obrazem miski jabłek."
+ PATHETIC_PAINTING_STRING: "[Root.Monarch.GetTitle] musi na chwilę przystanąć, spoglądając na zabrudzony papier przedstawiony [Root.Monarch.GetHerHim]. Słowa nie są w stanie opisać odrazy, jaką [Root.Monarch.GetHerHis] budzi dzieło stworzone przez rzemieślnika.
+Obraz rzekomo przedstawia [Root.Monarch.GetName] — przynajmniej tak twierdzi artysta. Sylwetka domniemanego [Root.Monarch.GetTitle] jest całkowicie zniekształcona. Proporcje są nierealistyczne, a miejscami wręcz koszmarne. Po lekach, które przyjmował malarz, widać, że zdecydowanie było ich za mało.
+Oburzony artysta twierdzi, że przyszłe pokolenia zrozumieją jego styl, a nasz najbardziej prestiżowy dwór jest zbyt «nieoświecony, by dostrzec finezję sztuki»."
  FALLBACK_ART_STRING: ""
  promoting_art_events.2.a: ""
  promoting_art_events.2.b: ""
