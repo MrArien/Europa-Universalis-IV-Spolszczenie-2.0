@@ -431,7 +431,7 @@
  fra_restraint_wont_cost_pi_and_no_dip_penalty_and_ruler_papal_puppetmaster_tt: "Jeśli ukończymy tę misję jako wyznawcy §Mkatolicyzmu§!, nasz podbój prowincji [118.GetName] zostanie zalegalizowany i nie spowoduje żadnych §Mkar dyplomatycznych§! ani §Mkar papieskich§!."
  fra_stronger_than_any_cath_tt: "Posiada większą armię niż jakiekolwiek państwo §Ykatolickie§!."
  fra_religious_cb_on_every_muslim_gp_tt: "\nOtrzymamy casus belli §YŚwięta wojna§! przeciwko każdemu §Ymuzułmańskiemu§! mocarstwu, nawet jeśli nie graniczy ono z naszym państwem."
- fra_if_we_complete_mission_while_allied_or_subject_and_175_opinion_and_100_trust_access_to_holy_orders_tt: "\nJeśli ukończymy tę misję, mając iberyjskiego §Ypoddанego§! lub §Ysojusznika§!, który ma do nas co najmniej §Y190§! opinii i §Y100§! zaufania, uzyskamy dostęp do mechaniki chrześcijańskich §YZakonów Świętych§!."
+ fra_if_we_complete_mission_while_allied_or_subject_and_175_opinion_and_100_trust_access_to_holy_orders_tt: "\nJeśli ukończymy tę misję, mając iberyjskiego §Ypoddanego§! lub §Ysojusznika§!, który ma do nas co najmniej §Y190§! opinii i §Y100§! zaufania, uzyskamy dostęp do mechaniki chrześcijańskich §YZakonów Świętych§!."
  fra_country_or_subject_or_overlord_owns_tt: "Należy do nas, naszego poddanego niebędącego państwem trybutarnym lub naszego §Ysuwerena§!."
  fra_if_choose_to_destroy_empire_tt: "Jeśli zdecydujemy się zniszczyć §YŚwięte Cesarstwo Rzymskie§!, ta misja poprowadzi nas ku rozszerzeniu §Ywschodnich granic niemieckich§! i utworzeniu §Yfrancuskiej strefy buforowej§!."
  fra_if_choose_to_lead_empire_tt: "\nJeśli jednak wybierzemy drogę przywództwa w §YŚwiętym Cesarstwie Rzymskim§!, misja pozwoli nam wpłynąć na §Yelektorów§! i doprowadzić nawet do nowego §Yincydentu cesarskiego§!."
