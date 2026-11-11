@@ -5728,7 +5728,7 @@ TIM_yuan_title: "[Root.GetPreviewColorTIM]Ambicje wobec Yuan[Root.GetPreviewColo
  MUG_din_i_ilahi_title: "Din-i Ilahi"
  MUG_din_i_ilahi_desc: "Nadszedł czas, by odrzucić ograniczenia dawnych religii. Zamiast tego powinniśmy wynieść naszego [Root.Monarch.GetTitle] do rangi istoty boskiej, a najwyższych możnych uczynić jego bezpośrednimi uczniami. Ta boska wiara pozwoli nam stworzyć więź między wszystkimi sługami państwa — silniejszą niż pokrewieństwo czy wspólnota religijna."
  MUG_taj_mahal_title: "Tadź Mahal"
- MUG_taj_mahal_desc: "Aby upamiętnić wspaniałe panowanie naszej dynastii, wznieśmy okazałe mauzoleum, w którym spocznie [Root.Monarch.GetName] oraz wszyscy jego następcy. Wykonane z najwspanialszego marmuru, powinno dorównywać przepychem życiu cesarza Mogołów."
+ MUG_taj_mahal_desc: "Aby upamiętnić wspaniałe panowanie naszej dynastii, wznieśmy okazałe mauzoleum, w którym spocznie [Root.Monarch.GetName] oraz wszyscy ci, którzy po [Root.Monarch.GetHerHim] obejmą tron. Wykonane z najwspanialszego marmuru, powinno dorównywać przepychem życiu cesarza Mogołów."
  MUG_red_fort_title: "Czerwony Fort"
  MUG_red_fort_desc: "W miarę jak umacniamy Agrę i jej okolice jako centrum naszej władzy, rośnie ryzyko skoncentrowanego ataku na te równiny. Wznieśmy w pobliskim Delhi nową, wspaniałą twierdzę, która osłoni nasze skrzydło i będzie świadectwem potęgi naszych rządów."
  MUG_land_assessment_title: "Powszechny pomiar ziem"
