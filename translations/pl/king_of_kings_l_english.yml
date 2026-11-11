@@ -1716,36 +1716,22 @@ Nie stracimy żadnego §YAsha Wahišta§!, ponieważ działanie to jest zgodne z
  grand_vizier_selection_desc: "Obowiązków na dworze jest wiele i mogą przytłaczać, jeśli nie są właściwie zarządzane. Potrzebujemy wielkiego wezyra, który wesprze [Root.Monarch.GetTitle] we wszystkich [Root.Monarch.GetHerHis] obowiązkach."
  grand_vizier_selection_at: "Obecnie nie wybiera §Ywielkiego wezyra§!."
  grand_vizier_selection_bt: "Nie zatrudniono §Ywielkiego wezyra§!."
- grand_vizier_selection_tt: "Zwerbuj §Ydoradcę§! spośród §Ystanów§!, który będzie pełnił funkcję §Ywielkiego wezyra§! państwa [Root.GetName].
-Wielki wezyr zapewnia następujące efekty:
-Roczna korupcja: §G-0,05§!
-Miesięczna potęga monarchy (zależna od typu doradcy): §G+1§!
-Jeden dodatkowy bonus zależny od specjalizacji doradcy"
+ grand_vizier_selection_tt: "Zwerbuj §Ydoradcę§! spośród §Ystanów§!, który będzie pełnił funkcję §Ywielkiego wezyra§! państwa [Root.GetName].\nWielki wezyr zapewnia następujące efekty:\nRoczna korupcja: §G-0,05§!\nMiesięczna potęga monarchy (zależna od typu doradcy): §G+1§!\nJeden dodatkowy bonus zależny od specjalizacji doradcy"
  curtail_estate_qizilbash_title: "Ogranicz wpływy [Root.GetQizilbashOrFallbackName]"
  curtail_estate_qizilbash_desc: "Nasze państwo znajduje się pod kontrolą [Root.GetQizilbashOrFallbackName] i ich rodów. Aby przywrócić władzę [Root.Monarch.GetTitle], musimy ograniczyć ich wpływy i przywileje."
  horse_breeding_decision_title: "Wyhoduj nowego rumaka bojowego"
  horse_breeding_decision_desc: "Tradycyjnie siłą naszej armii była służąca nam kawaleria plemienna. Wzmocnijmy nasze wojska, hodując szlachetnego rumaka, który pod potężnymi kopytami zdoła podporządkować sobie świat."
- horse_breeding_decision_ct: "Wyhodowanie silnego rumaka bojowego zajmie nam około §Y10§! lat.
-
-Wynik będzie zależał od wielu §Gczynników§!, takich jak:
-- Dyscyplina
-- Zdolności bojowe kawalerii
-- Szybkość przemieszczania się
-- Liczba prowincji z dobrem handlowym «§YŻywy inwentarz§!»"
+ horse_breeding_decision_ct: "Wyhodowanie silnego rumaka bojowego zajmie nam około §Y10§! lat.\n\nWynik będzie zależał od wielu §Gczynników§!, takich jak:\n- Dyscyplina\n- Zdolności bojowe kawalerii\n- Szybkość przemieszczania się\n- Liczba prowincji z dobrem handlowym «§YŻywy inwentarz§!»"
  trade_propagation_convert_to_zoroastrianism_title: "Przyjmij zaratusztrianizm jako religię państwową"
  trade_propagation_convert_to_zoroastrianism_desc: "Zaratusztrianizm staje się coraz bardziej dominującą religią w rządzie, wśród naszych poddanych i szlachty. Nadszedł czas, abyśmy dołączyli do odradzającej się wspólnoty wiernych."
  embrace_passive_conversion_methods_title: "Przyjmij pokojowe metody nawracania"
- embrace_passive_conversion_methods_desc: "Nasza religia nigdy nie próbowała nawracać mas za pomocą misjonarzy i przemocy. Zamiast tego opierała się na przekazie ustnym i dawaniu dobrego przykładu.
-Przyjmijmy tę zasadę i pozwólmy, aby nasze czyny świadczyły o wartości naszej wiary."
- embrace_passive_conversion_methods_tt: "Zdolność rządowa §YAdur Farnbag§! z mechaniki §YTrzech Królewskich Ogni§! pozwoli nam teraz utworzyć §Yzaratusztriańskie centrum nawracania§! poprzez zbudowanie świątyni w docelowej prowincji.
-§RW trakcie całej gry można utworzyć maksymalnie §Y3§! zaratusztriańskie centra nawracania.§!"
+ embrace_passive_conversion_methods_desc: "Nasza religia nigdy nie próbowała nawracać mas za pomocą misjonarzy i przemocy. Zamiast tego opierała się na przekazie ustnym i dawaniu dobrego przykładu.\nPrzyjmijmy tę zasadę i pozwólmy, aby nasze czyny świadczyły o wartości naszej wiary."
+ embrace_passive_conversion_methods_tt: "Zdolność rządowa §YAdur Farnbag§! z mechaniki §YTrzech Królewskich Ogni§! pozwoli nam teraz utworzyć §Yzaratusztriańskie centrum nawracania§! poprzez zbudowanie świątyni w docelowej prowincji.\n§RW trakcie całej gry można utworzyć maksymalnie §Y3§! zaratusztriańskie centra nawracania.§!"
  revoke_passive_conversion_methods_title: "Odrzuć pokojowe metody nawracania"
  revoke_passive_conversion_methods_desc: "Choć jest to sprzeczne z etyką naszej religii, pokojowe metody nawracania nie wystarczą, aby zapewnić przetrwanie zaratusztrianizmu. Musimy ponownie polegać na misjonarzach."
- revoke_passive_conversion_methods_tt: "Nie będziemy już mogli budować §Ycentrów nawracania§!.
-Wszystkie §Yzaratusztriańskie§! centra nawracania w naszym państwie zostaną usunięte."
+ revoke_passive_conversion_methods_tt: "Nie będziemy już mogli budować §Ycentrów nawracania§!.\nWszystkie §Yzaratusztriańskie§! centra nawracania w naszym państwie zostaną usunięte."
  embraced_passive_conversion_methods: "Przyjęto pokojowe metody nawracania"
- desc_embraced_passive_conversion_methods: "Odblokowuje budowę §Ycentrów nawracania§! po użyciu zdolności §YAdur Farnbag§!.
-Postanowiliśmy naśladować Zaratustrę i szerzyć naszą wiarę nie za pomocą misjonarzy, lecz poprzez handel, działalność gospodarczą i dawanie dobrego przykładu."
+ desc_embraced_passive_conversion_methods: "Odblokowuje budowę §Ycentrów nawracania§! po użyciu zdolności §YAdur Farnbag§!.\nPostanowiliśmy naśladować Zaratustrę i szerzyć naszą wiarę nie za pomocą misjonarzy, lecz poprzez handel, działalność gospodarczą i dawanie dobrego przykładu."
  rename_to_iran_title: "Przywróć nazwę Iran"
  rename_to_iran_desc: "Dla naszego ludu Iran zawsze był nazwą ojczyzny. Wielu niewykształconych obcokrajowców wciąż jednak używa greckiej nazwy naszego wspaniałego państwa — «Persja». Powinniśmy wymusić stosowanie naszej prawdziwej nazwy na mapach świata."
  rename_to_iran_non_rev_title: "Przywróć nazwę Iran"
