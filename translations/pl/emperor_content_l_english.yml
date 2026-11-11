@@ -2051,7 +2051,7 @@
  center_of_revolution.14.a: "Koloniści powinni znać swoje miejsce."
  colony_inspired_by_revolution: "Marzenia o wolności"
  desc_colony_inspired_by_revolution: "Zainspirowane rewolucją w Starym Świecie ruchy w koloniach dążą do własnej wolności."
- sistine_chapel_tt: "§YK aplica Sykstyńska§! zostanie dodana do prowincji §Y[118.GetName]§!, zapewniając następujący efekt:\nRoczna pobożność: §G+0,10§!"
+ sistine_chapel_tt: "§YKaplica Sykstyńska§! zostanie dodana do prowincji §Y[118.GetName]§!, zapewniając następujący efekt:\nRoczna pobożność: §G+0,10§!"
  pap_sistinechapel_botticelli_tt: "§YKaplica Sykstyńska ozdobiona przez Botticellego§! zostanie dodana do prowincji §Y[118.GetName]§!, zapewniając następujące efekty:\nRoczna pobożność: §G+0,10§!\nNiepokoje narodowe: §G-1§!"
  pap_sistinechapel_ghirlandaio_tt: "§YKaplica Sykstyńska ozdobiona przez Ghirlandaia§! zostanie dodana do prowincji §Y[118.GetName]§!, zapewniając następujące efekty:\nRoczna pobożność: §G+0,10§!\nRoczny prestiż: §G0,5§!"
  pap_sistinechapel_perugino_tt: "§YKaplica Sykstyńska ozdobiona przez Perugina§! zostanie dodana do prowincji §Y[118.GetName]§!, zapewniając następujące efekty:\nRoczna pobożność: §G+0,10§!\nPoprawa stosunków: §G+10%§!"
