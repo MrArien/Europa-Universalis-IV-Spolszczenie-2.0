@@ -1152,7 +1152,7 @@
  EVTDESC3091: "[Root.Monarch.GetName] po przez ciągłe intrygi i knowania rozwścieczyły szlachtę i co przysporzyło [Root.Monarch.GetHerHim] o kilku potężnych wrogów wśród arystokracji. Teraz sprawy osiągnęły punkt kulminacyjny, gdy szepty i plotki o spiskach mających na celu zakończenie [Root.Monarch.GetHerHis] rządów stały się rzeczywistością: [Root.upstart_pretender.GetName], jeden z najostrzejszych krytyków władcy wśród szlachty, zgromadził wokół siebie armię i otwarcie kwestionuje [Root.Monarch.GetHerHis] panowanie."
  EVTOPTA3091: "Zmiażdżyć opozycję!"
  EVTNAME3092: "Wołanie o pomoc"
- EVTDESC3092: "Opozycja przeciwko władcy, którym jest $MONARCH$ z każdym dniem zdobywa nowych zwolenników i możliwość jego usunięcia staje się bardzo realna. W desperackiej próbie ratowania tronu i przywrócenia porządku, $MONARCH$ zwraca się do sojuszników z państwa $COUNTRY$ o pomoc w utrzymaniu tronu i przywróceniu porządku.\n\nrozważa zwrócenie się do zagranicznych sojuszników państwa $COUNTRY$ w państwie [ally_country.GetName] z prośbą o pomoc."
+ EVTDESC3092: "Opozycja przeciwko $MONARCH$ z każdym dniem zdobywa nowych zwolenników, a możliwość pozbawienia go tronu staje się coraz bardziej realna. W desperackiej próbie ocalenia tronu i przywrócenia porządku $MONARCH$ rozważa zwrócenie się o pomoc do zagranicznych sojuszników państwa $COUNTRY$, w tym do [ally_country.GetUsableName]."
  EVTOPTA3092: "Poproś o pomoc państwo [ally_country.GetName]."
  EVTOPTB3092: "Polegaj na naszych własnych siłach."
  EVTNAME3093: "Bezwzględni krewni"
