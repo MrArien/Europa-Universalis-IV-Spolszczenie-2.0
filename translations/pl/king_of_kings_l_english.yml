@@ -1611,12 +1611,7 @@
  invite_into_cultural_sphere_of_influence: "Zaproś do sfery wpływów kulturowych"
  invite_into_cultural_sphere_of_influence_title: "Zaproś do sfery wpływów kulturowych"
  invite_into_cultural_sphere_of_influence_tooltip: "Zaprosimy ich do naszej §Ysfery wpływów kulturowych§!, czyniąc z nich dobrowolne państwo zależne."
- invite_into_cultural_sphere_of_influence_desc: "Czy chcesz zaprosić państwo §Y[From.GetName]§! do swojej §Ysfery wpływów kulturowych§! i uczynić z niego państwo zależne?
-Jako suweren otrzymasz wezwanie do wojny, jeśli zostanie ono zaatakowane przez obce mocarstwo. Państwo zależne zachowa możliwość prowadzenia niezależnych stosunków dyplomatycznych z innymi krajami.
-Możesz inwestować §Yperskie wpływy§! w państwo §Y[From.GetName]§!, aby przekształcić je w §Ywasala§!.
-
-Każde §Ypaństwo pod wpływem kulturowym§! zwiększa koszt podniesienia rangi państwa zależnego do wasala o §R+20,00§! i powoduje utrzymanie w wysokości §R-0,20§! perskich wpływów miesięcznie (chyba że posiada ono kulturę główną §Y[Root.Culture.GetName]§!).
-§YPaństwo pod wpływem kulturowym natychmiast opuści sferę, jeśli jego religia przestanie być zgodna z naszą.§!"
+ invite_into_cultural_sphere_of_influence_desc: "Czy chcesz zaprosić państwo §Y[From.GetName]§! do swojej §Ysfery wpływów kulturowych§! i uczynić z niego państwo zależne?\nJako suweren otrzymasz wezwanie do wojny, jeśli zostanie ono zaatakowane przez obce mocarstwo. Państwo zależne zachowa możliwość prowadzenia niezależnych stosunków dyplomatycznych z innymi krajami.\nMożesz inwestować §Yperskie wpływy§! w państwo §Y[From.GetName]§!, aby przekształcić je w §Ywasala§!.\n\nKażde §Ypaństwo pod wpływem kulturowym§! zwiększa koszt podniesienia rangi państwa zależnego do wasala o §R+20,00§! i powoduje utrzymanie w wysokości §R-0,20§! perskich wpływów miesięcznie (chyba że posiada ono kulturę główną §Y[Root.Culture.GetName]§!).\n§YPaństwo pod wpływem kulturowym natychmiast opuści sferę, jeśli jego religia przestanie być zgodna z naszą.§!"
  invite_into_cultural_sphere_of_influence_alert_tooltip: "Zaproszenie do ich §Ysfery wpływów kulturowych§!"
  invite_into_cultural_sphere_of_influence_dialog: "Państwo [This.GetName] chce zaprosić nas do swojej sfery wpływów kulturowych, obiecując ochronę przed zagrożeniami zewnętrznymi w zamian za comiesięczną opłatę."
  remove_them_from_cultural_sphere_of_influece: "Usuń ze sfery wpływów kulturowych"
