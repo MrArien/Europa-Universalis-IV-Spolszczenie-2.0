@@ -305,7 +305,7 @@
  new_flavour_bav.27.desc: ""
  new_flavour_bav.27.A: "Musimy zdławić ten bunt!"
  new_flavour_bav.21.name: ""
- new_flavour_bav.21.desc: ""
+ new_flavour_bav.21.desc: "W ciągu ostatnich dziesięcioleci miasto Ratyzbona zgromadziło znaczne zadłużenie wobec cesarza Świętego Cesarstwa Rzymskiego z dynastii [HAB.Monarch.Dynasty.GetName]. Choć [HAB.Monarch.GetSheHe] nie zażądał jeszcze spłaty [HAB.Monarch.GetHerHis] należności, nasza pozycja jest znacznie osłabiona przez fakt, że [HAB.Monarch.GetSheHe] może to zrobić w każdej chwili."
  new_flavour_bav.21.A: ""
  new_flavour_bav.21.B: ""
  new_flavour_bav.22.name: ""
