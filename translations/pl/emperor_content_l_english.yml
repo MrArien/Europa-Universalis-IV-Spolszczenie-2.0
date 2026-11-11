@@ -1672,7 +1672,7 @@
  emp_lan_next_pope_medici_tt: "Następny wybrany papież będzie utrzymywał szczególne stosunki z naszym państwem."
  opinion_our_pope_on_throne: "Nasz papież zasiada na tronie"
  opinion_pope_tuscan_homeland: "Ojczyzna papieża"
- WORLD_CRUSADE_WAR_NAME: "$ORDER$$ORDER$Wielka Święta Wojna $FIRST$ z państwem $SECOND$"
+ WORLD_CRUSADE_WAR_NAME: "$ORDER$FIRST$ rozpoczyna wielką świętą wojnę przeciwko państwu $SECOND$"
  cb_world_crusade: "Wielka Święta Wojna"
  cb_world_crusade_desc: "Świat jest bluźnierczy i zepsuty. Musimy oczyścić go z występku i grzechu!"
  flavor_efr.EVTNAME1: "Roszczenia [Root.Monarch.GetName] do Fryzji Wschodniej"
