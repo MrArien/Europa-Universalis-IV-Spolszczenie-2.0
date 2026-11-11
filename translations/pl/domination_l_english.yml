@@ -2352,60 +2352,100 @@ Miejsca w parlamencie zmniejszają miesięczne lokalne spustoszenie o §G-0,5%§
  mechanic_buffed_streltsy_button_yes: "Interakcja §YWyposaż strzelców§! zmniejsza koszt uzupełniania strat §Ystrzelców§! o §G-10,0%§! i zwiększa szybkość uzupełniania o §G+10,0%§!."
  mechanic_new_order_regiment_buff_yes: "Interakcja §YMobilizuj pułki nowego wzoru§! zapewnia §G+15,0%§! skuteczności bojowej piechoty na §Y10 lat§!."
  mechanic_has_weaker_harem_events_yes: "Posiada mechanikę §YZabezpieczona sukcesja§!."
- mechanic_manpower_sailors_on_build_yes: ""
- mechanic_is_peasants_republic_yes: ""
- mechanic_is_peasants_republic_no: ""
- mechanic_is_peasants_republic: ""
- mechanic_has_dutch_election_yes: ""
- mechanic_has_dutch_election_no: ""
- mechanic_has_dutch_election: ""
- mechanic_has_polish_election_yes: ""
- mechanic_has_polish_election_no: ""
- mechanic_has_polish_election: ""
- mechanic_cannot_form_alliances_yes: ""
- CANNOT_MAKE_ALLIANCES: ""
- FROM_CANNOT_MAKE_ALLIANCES: ""
+ mechanic_manpower_sailors_on_build_yes: "Zbudowanie §Ykoszar§!, §Ypól ćwiczeń§!, §Ydoków§! lub §Ysuchych doków§! zapewnia §G1000§! zasobów ludzkich albo §G200§! marynarzy."
+ mechanic_is_peasants_republic_yes: "Jest §Yrepubliką chłopską§!."
+ mechanic_is_peasants_republic_no: "Nie jest §Yrepubliką chłopską§!."
+ mechanic_is_peasants_republic: "Jest republiką chłopską"
+ mechanic_has_dutch_election_yes: "Przeprowadza §Yelekcję niderlandzką§!."
+ mechanic_has_dutch_election_no: "Nie przeprowadza §Yelekcji niderlandzkiej§!."
+ mechanic_has_dutch_election: "Przeprowadza elekcję niderlandzką"
+ mechanic_has_polish_election_yes: "Przeprowadza §Ywolną elekcję§!."
+ mechanic_has_polish_election_no: "Nie przeprowadza §Ywolnej elekcji§!."
+ mechanic_has_polish_election: "Przeprowadza wolną elekcję"
+ mechanic_cannot_form_alliances_yes: "Nie może zawierać sojuszy."
+ CANNOT_MAKE_ALLIANCES: "Nie możemy zawierać sojuszy."
+ FROM_CANNOT_MAKE_ALLIANCES: "Reforma rządowa państwa [From.GetName] nie pozwala mu zawrzeć sojuszu."
  RES_PUBLICA: "Res Publica"
- CENSUS: ""
- appanages_event.1.t: ""
- appanages_event.1.desc: ""
- appanages_event.1.a: ""
- equipped_streltsy_modifier_weaker: ""
- equipped_streltsy_modifier: ""
- prepared_streltsy_modifier: ""
- new_order_regiment_mobilized_modifier: ""
- parliament_vs_monarchy_mechanic: ""
- ability_parliament_vs_monarchy_mechanic: ""
- parliament_vs_monarchy_mechanic_at: ""
- parliament_vs_monarchy_mechanic_bt: ""
- governmental_power: ""
- governmental_power_desc: ""
- monthly_governmental_power: ""
- governmental_power_gain_modifier: ""
- end_time_mechanic: ""
- ability_end_time_mechanic: ""
- fanatic_zeal: ""
- fanatic_zeal_desc: ""
- monthly_fanatic_zeal: ""
- fanatic_zeal_gain_modifier: ""
- end_time_mechanic_end_tt: ""
- russian_mechanic: ""
- ability_devshirme_mechanic: ""
- devshirme_assign_local_pashas: ""
+ CENSUS: "Spis ludności"
+ appanages_event.1.t: "Szlachta dawnego księstwa udzielnego oburzona"
+ appanages_event.1.desc: "Po aneksji jednego z naszych poddanych szlachta tych ziem wyraziła oburzenie i niezadowolenie ze swojej nowej pozycji w państwie [Root.GetUsableName]. Ludzie ci, niegdyś dzierżący tytuły i ziemie, są teraz jedynie kolejnymi poddanymi, którzy mają służyć [Root.Monarch.GetTitle]."
+ appanages_event.1.a: "Z czasem zaakceptują swoje miejsce."
+ equipped_streltsy_modifier_weaker: "Wyposażeni strzelcy"
+ equipped_streltsy_modifier: "Wyposażeni strzelcy"
+ prepared_streltsy_modifier: "Przygotowani strzelcy"
+ new_order_regiment_mobilized_modifier: "Zagraniczne podręczniki wojskowe"
+ parliament_vs_monarchy_mechanic: "Parlament kontra monarchia"
+ ability_parliament_vs_monarchy_mechanic: "Parlament kontra monarchia"
+ parliament_vs_monarchy_mechanic_at: "§RParlamentarzyści mogą wywołać wojnę domową!§!"
+ parliament_vs_monarchy_mechanic_bt: "§RMonarchiści mogą wywołać wojnę domową!§!"
+ governmental_power: "Władza absolutna"
+ governmental_power_desc: "Władza absolutna wzrasta lub maleje w zależności od naszych działań związanych z [Root.GetParliamentOrFallbackName].
+
+Władza absolutna wzrasta, gdy:
+ - Unieważniamy debatę parlamentarną: §Y+20§!
+ - Tracimy miejsce w parlamencie: §Y+5§!
+ - Przegrywamy debatę parlamentarną: §Y+33§!
+
+Władza absolutna maleje, gdy:
+ - Wygrywamy debatę parlamentarną: §Y-20§!
+ - Przyznajemy miejsce w parlamencie: §Y-5§!
+
+Przy wartości §Y100§! otrzymujemy następujące efekty:
+    Maksymalny absolutyzm: §G+50,00§!
+    Miesięczna zmiana autonomii: §G-0,20§!
+    Niepokoje narodowe: §R+4,00§!
+
+Przy wartości §Y-100§! otrzymujemy następujące efekty:
+    Niepokoje narodowe: §G-4,00§!
+    Koszt idei: §R+10,0%§!
+    Lata separatyzmu: §R+10§!
+    Roczny absolutyzm: §G+1,00§!"
+ monthly_governmental_power: "Miesięczna władza absolutna"
+ governmental_power_gain_modifier: "Modyfikator przyrostu władzy absolutnej"
+ end_time_mechanic: "Wiara w koniec czasów"
+ ability_end_time_mechanic: "Wiara w koniec czasów"
+ fanatic_zeal: "Fanatyczny zapał"
+ fanatic_zeal_desc: "Fanatyczny zapał to zbiorowe przekonanie, że koniec jest bliski. Im większy zapał, tym bardziej agresywnie państwo występuje przeciwko tym, którzy sprzeciwiają się nadejściu końca czasów – zarówno wrogom zewnętrznym, jak i wewnętrznym.
+
+Fanatyczny zapał wzrasta o §Y1§! miesięcznie i zmniejsza się o §Y5§! po każdym zwycięstwie w wojnie (osobne traktaty pokojowe nie są uwzględniane)."
+ monthly_fanatic_zeal: "Miesięczny fanatyczny zapał"
+ fanatic_zeal_gain_modifier: "Modyfikator przyrostu fanatycznego zapału"
+ end_time_mechanic_end_tt: "§RJeśli osiągniemy §Y100§! fanatycznego zapału, zanim będziemy posiadać §Y1000§! prowincji, społeczeństwo i rząd państwa §Y[Root.GetUsableName]§! upadną.§!"
+ russian_mechanic: "Mechanika rosyjska"
+ ability_devshirme_mechanic: "Mechanika dewszirme"
+ devshirme_assign_local_pashas: "Wyznacz lokalnych paszów"
  devshirme_assign_local_pashas_desc: ""
- devshirme_recruit_new_grand_vizier: ""
+ devshirme_recruit_new_grand_vizier: "Zrekrutuj nowego wielkiego wezyra"
  devshirme_recruit_new_grand_vizier_desc: ""
- devshirme_conscript_heathen_recruits: ""
+ devshirme_conscript_heathen_recruits: "Powołaj rekrutów wyznających obce religie"
  devshirme_conscript_heathen_recruits_desc: ""
- ability_ottoman_decadence_mechanic: ""
- ottoman_decadence: ""
- ottoman_decadence_desc: ""
- ability_perfectionism_mechanic: ""
- inward_focus: ""
+ ability_ottoman_decadence_mechanic: "Wskaźnik dekadencji"
+ ottoman_decadence: "Dekadencja"
+ ottoman_decadence_desc: "Dekadencja określa, ile rzeczywistej władzy znajduje się w rękach władcy oraz w jakim stopniu obecny stan państwa jest traktowany jako coś oczywistego. Im większa dekadencja, tym trudniej utrzymać państwo i dorównać innym wielkim potęgom.
+
+Dekadencja wzrasta z następujących powodów:
+ - Pozostawanie w pokoju
+ - Nielojalność janczarów i posiadanie przez nich ziemi koronnej
+ - Ujemna stabilność
+ - Korupcja
+ - Przekroczenie zdolności administracyjnej
+ - Średnie pragnienie wolności poddanych
+ - Średnia autonomia krajowa
+ - Przegrywanie bitew, w których [Root.Monarch.GetTitle] dowodzi armią
+
+Dekadencja maleje z następujących powodów:
+ - Absolutyzm
+ - Realizacja zadań stanowych
+ - Wygrywanie bitew, w których [Root.Monarch.GetTitle] dowodzi armią
+ - Dodatnia stabilność
+
+Jeśli dekadencja osiągnie §R100§!, może wybuchnąć katastrofa §RWewnętrzna walka o władzę§!."
+ ability_perfectionism_mechanic: "Mechanika perfekcjonizmu"
+ inward_focus: "Skupienie wewnętrzne"
  inward_focus_desc: ""
- outward_focus: ""
+ outward_focus: "Skupienie zewnętrzne"
  outward_focus_desc: ""
- expansion_focus: ""
+ expansion_focus: "Skupienie na ekspansji"
  expansion_focus_desc: ""
  no_perfectionism_focus: ""
  desc_no_perfectionism_focus: ""
