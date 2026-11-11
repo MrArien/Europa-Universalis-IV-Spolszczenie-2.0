@@ -1372,16 +1372,14 @@
  estate_qizilbash_protected_communities_gt: "Każda prowincja z kulturą §Yazerską§!, §Yturkmeńską§!, §Yturkoirańską§! lub §Yturecką§! otrzymuje następujące efekty:"
  estate_qizilbash_protected_communities_rt: "Usuń modyfikator §YChroniona wspólnota§! ze wszystkich prowincji."
  estate_qizilbash_military_leadership: "Dowództwo [Root.GetQizilbashName]"
- estate_qizilbash_military_leadership_desc: "[Root.GetQizilbashName] to zahartowani w boju żołnierze, których doświadczenie będzie bezcenne w nadchodzących wojnach.
-Jeśli zaczniemy polegać na generałach wywodzących się z [Root.GetQizilbashName], będziemy jednak musieli zmierzyć się ze sprzeciwem stanu [Root.GetNobilityOrFallbackName] oraz [Root.GetGhulamsOrFallbackName]."
+ estate_qizilbash_military_leadership_desc: "[Root.GetQizilbashName] to zahartowani w boju żołnierze, których doświadczenie będzie bezcenne w nadchodzących wojnach.\nJeśli zaczniemy polegać na generałach wywodzących się z [Root.GetQizilbashName], będziemy jednak musieli zmierzyć się ze sprzeciwem stanu [Root.GetNobilityOrFallbackName] oraz [Root.GetGhulamsOrFallbackName]."
  estate_qizilbash_supremacy_over_the_aristocracy: "[Root.GetQizilbashSupremacyOverAristoPrivilegeName]"
  estate_qizilbash_supremacy_over_the_aristocracy_qizilbash_name: "Przewaga nad arystokracją"
  estate_qizilbash_supremacy_over_the_aristocracy_aswaran_name: "Przywileje [Root.GetQizilbashOrFallbackName]"
  estate_qizilbash_supremacy_over_the_aristocracy_desc: "[Root.GetQizilbashSupremacyOverAristoPrivilegeDesc]"
  estate_qizilbash_supremacy_over_the_aristocracy_desc_qizilbash: "[Root.GetQizilbashOrFallbackName], [Root.GetNobilityOrFallbackName] i [Root.GetGhulamsOrFallbackName] rywalizują ze sobą, ponieważ reprezentują siłę militarną naszego państwa. Tylko jeden stan może zdobyć dominującą pozycję i przychylność rządu [Root.GovernmentName]."
  estate_qizilbash_supremacy_over_the_aristocracy_desc_aswaran: "[Root.GetQizilbashOrFallbackName] mogą należeć do stanu [Root.GetNobilityOrFallbackName], lecz nie każdy szlachcic jest prawdziwym wojownikiem [Root.GetQizilbashOrFallbackName]. Odtąd każdy szlachcic powinien poświęcić się sprawie [Root.GetQizilbashOrFallbackName] albo zapłacić im grzywnę w zamian za zwolnienie ze służby wojskowej."
- horse_breeding_decision_at: "Decyzja pozwala wyhodować nową rasę koni dla §Y[Root.GetQizilbashOrFallbackName]§! i pozostałej części armii.
-§YMożna ją podjąć tylko raz.§!"
+ horse_breeding_decision_at: "Decyzja pozwala wyhodować nową rasę koni dla §Y[Root.GetQizilbashOrFallbackName]§! i pozostałej części armii.\n§YMożna ją podjąć tylko raz.§!"
  estate_qizilbash_horse_responsibilities: "Przyznaj prawa do hodowli koni"
  estate_qizilbash_horse_responsibilities_desc: "[Root.GetQizilbashName] dorastali wśród swoich wierzchowców. Są najlepszymi kawalerzystami, jakich może wystawić państwo [Root.GetName]. Naturalne jest więc przyznanie im prawa do nadzorowania hodowli, szkolenia i wyposażania koni [Root.GetAdjective]."
  4_QIZILBASH_CAVALRY_FOR_ROOT: "Utwórz §G4§! regimenty §Ykawalerii kizylbaszy§! dla państwa §Y[Root.GetName]§!."
@@ -1397,8 +1395,7 @@ Jeśli zaczniemy polegać na generałach wywodzących się z [Root.GetQizilbashN
  estate_ghulams_levies_desc: "[Root.GetGhilmanName] to żołnierze-niewolnicy rekrutowani z naszych chrześcijańskich prowincji. W naszym interesie leży zatem stworzenie systemu zapewniającego stały napływ nowych ghulamów do armii."
  estate_ghulams_levies_non_muslims: "Zwiększona rekrutacja [Root.GetGhilmanName]"
  estate_ghulams_levies_non_muslims_desc: "Dawniej [Root.GetGhilmanName] byli żołnierzami-niewolnikami, a dziś określenie to oznacza główną formację naszych wojsk. Ponieważ nie jesteśmy już państwem muzułmańskim, wykorzystywanie niewolników jest niewłaściwe. Zamiast tego skupimy się na bardziej tradycyjnych metodach rekrutacji nowych [Root.GetGhilmanName]."
- estate_ghulams_levies_effect_tooltip: "Każda posiadana prowincja wyznająca §Ychrześcijaństwo§! lub §Yzaratusztrianizm§! otrzyma modyfikator §YZwiększona rekrutacja [Root.GetGhilmanName]§!, zapewniający:
-Lokalny modyfikator zasobów ludzkich: §G+30,0%§!"
+ estate_ghulams_levies_effect_tooltip: "Każda posiadana prowincja wyznająca §Ychrześcijaństwo§! lub §Yzaratusztrianizm§! otrzyma modyfikator §YZwiększona rekrutacja [Root.GetGhilmanName]§!, zapewniający:\nLokalny modyfikator zasobów ludzkich: §G+30,0%§!"
  estate_ghulams_levies_revoke_tooltip: "Modyfikator §YZwiększona rekrutacja [Root.GetGhilmanName]§! zostanie usunięty ze wszystkich posiadanych prowincji §Ychrześcijańskich§! i §Yzaratusztriańskich§!."
  estate_ghulams_levies_mod: "Zwiększona rekrutacja ghulamów"
  desc_estate_ghulams_levies_mod: "Państwo znacznie zwiększyło rekrutację ghulamów w tej prowincji. Chrześcijanie są przymusowo wcielani do armii."
