@@ -699,7 +699,7 @@
  mother_of_nations: "Matka Narodów"
  desc_mother_of_nations: "Matka Narodów błogosławi nasz lud swoim przewodnictwem."
  burghers_estate_events.17.1.t: "tropikalne planowanie miasta"
- burghers_estate_events.17.1.d: "Wraz z rozwojem naszego państwa i przyłączaniem nowych prowincji tropikalnych mieszczanie z [Root.GetName] rozpoczęli planowanie zagospodarowania tych ziem, aby dzięki swoim technikom uczynić je wielkimi i potężnymi."
+ burghers_estate_events.17.1.d: "Wraz z rozwojem naszego państwa i przyłączaniem nowych prowincji tropikalnych stan $ESTATE_BURGHERS$ w [Root.GetName] rozpoczął planowanie zagospodarowania tych ziem, aby dzięki swoim technikom uczynić je wielkimi i potężnymi."
  burghers_estate_events.17.1.a: "Rozumiem."
  have_crown_colony_tt: "Posiadaj poddaną kolonię typu §YKrólewska kolonia§!."
  have_private_enterprise_tt: "Posiadaj poddaną kolonię typu §YPrywatne przedsiębiorstwo§!."
