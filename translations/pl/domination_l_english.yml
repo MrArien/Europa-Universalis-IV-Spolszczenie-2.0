@@ -2442,82 +2442,126 @@ Dekadencja maleje z następujących powodów:
 Jeśli dekadencja osiągnie §R100§!, może wybuchnąć katastrofa §RWewnętrzna walka o władzę§!."
  ability_perfectionism_mechanic: "Mechanika perfekcjonizmu"
  inward_focus: "Skupienie wewnętrzne"
- inward_focus_desc: ""
+ inward_focus_desc: "Nasze państwo postanowiło skupić się na sprawach wewnętrznych, przez co przywiązuje mniejszą wagę do dyplomacji i działań wojennych."
  outward_focus: "Skupienie zewnętrzne"
- outward_focus_desc: ""
+ outward_focus_desc: "Nasze państwo postanowiło skupić się na sprawach zewnętrznych, przez co przywiązuje mniejszą wagę do rozwoju wewnętrznego i działań wojennych."
  expansion_focus: "Skupienie na ekspansji"
- expansion_focus_desc: ""
- no_perfectionism_focus: ""
- desc_no_perfectionism_focus: ""
- has_no_perfectionism_focus: ""
- inward_focus_modifier: ""
- desc_inward_focus_modifier: ""
- outward_focus_modifier: ""
- desc_outward_focus_modifier: ""
- expansion_focus_modifier: ""
- desc_expansion_focus_modifier: ""
- until_different_focus_tt: ""
- PERFECTIONISM_POLICY: ""
- ability_russian_modernization_mechanic: ""
- russian_modernization: ""
- russian_modernization_desc: ""
- ability_russian_rule_mechanic: ""
- russian_administrative_rule: ""
- russian_diplomatic_rule: ""
- russian_military_rule: ""
+ expansion_focus_desc: "Nasze państwo postanowiło skupić się na ekspansji, przez co przywiązuje mniejszą wagę do dyplomacji i rozwoju wewnętrznego."
+ no_perfectionism_focus: "Brak wybranego kierunku"
+ desc_no_perfectionism_focus: "Dopóki nasze państwo nie zdecyduje, na czym się skupić, będzie zmagać się z problemami wewnętrznymi.
+
+§YTrwa do momentu wybrania jednego z kierunków perfekcjonizmu.§!"
+ has_no_perfectionism_focus: "do czasu wybrania jednego z trzech kierunków"
+ inward_focus_modifier: "Skupienie wewnętrzne"
+ desc_inward_focus_modifier: "Nasze państwo postanowiło skupić się na sprawach wewnętrznych, przez co przywiązuje mniejszą wagę do dyplomacji i działań wojennych."
+ outward_focus_modifier: "Skupienie zewnętrzne"
+ desc_outward_focus_modifier: "Nasze państwo postanowiło skupić się na sprawach zewnętrznych, przez co przywiązuje mniejszą wagę do rozwoju wewnętrznego i działań wojennych."
+ expansion_focus_modifier: "Skupienie na ekspansji"
+ desc_expansion_focus_modifier: "Nasze państwo postanowiło skupić się na ekspansji, przez co przywiązuje mniejszą wagę do dyplomacji i rozwoju wewnętrznego."
+ until_different_focus_tt: "do czasu wybrania innego §Ykierunku§!"
+ PERFECTIONISM_POLICY: "Kierunek perfekcjonizmu"
+ ability_russian_modernization_mechanic: "Mechanika modernizacji"
+ russian_modernization: "Modernizacja"
+ russian_modernization_desc: "Modernizacja mierzy rozpowszechnienie nowoczesnych idei w państwie i całym społeczeństwie.
+
+Modernizacja wzrasta dzięki następującym czynnikom:
+ - Zatrudnianiu doradców spoza grupy kulturowej [Root.Culture.GetGroupName]
+ - Otrzymywaniu pomocy w przekazywaniu wiedzy
+ - Posiadaniu przewagi technologicznej
+ - Umiejętnościom administracyjnym władcy
+ - Kradzieży lub kupowaniu nowoczesnych idei
+
+Modernizacja maleje z następujących powodów:
+ - Ujemna stabilność
+ - Korupcja
+ - Inflacja
+ - Bankructwo
+ - Przywileje stanowe"
+ ability_russian_rule_mechanic: "Rządy rosyjskie"
+ russian_administrative_rule: "Rządy administracyjne"
+ russian_diplomatic_rule: "Rządy dyplomatyczne"
+ russian_military_rule: "Rządy wojskowe"
  ability_hessian_militarization_mechanic: "Militaryzacja najemników"
  hessian_militarization: "Militaryzacja najemników"
- promote_hessian_militarization: ""
+ promote_hessian_militarization: "Uatrakcyjnij kontrakty najemnicze"
  promote_hessian_militarization_desc: ""
- ability_table_of_ranks_mechanic: ""
- table_of_ranks_adm_power: ""
- table_of_ranks_dip_power: ""
- table_of_ranks_mil_power: ""
- appoint_chancellor: ""
+ ability_table_of_ranks_mechanic: "Tabela rang"
+ table_of_ranks_adm_power: "Postęp kanclerza"
+ table_of_ranks_dip_power: "Postęp admirała generała"
+ table_of_ranks_mil_power: "Postęp generała feldmarszałka"
+ appoint_chancellor: "Mianuj kanclerza"
  appoint_chancellor_desc: ""
- appoint_general_admiral: ""
+ appoint_general_admiral: "Mianuj admirała generała"
  appoint_general_admiral_desc: ""
- appoint_general_admiral_ct: ""
- appoint_general_field_marshal_ct: ""
- appoint_general_field_marshal: ""
+ appoint_general_admiral_ct: "§YAdmirał§! otrzyma dodatkowo §G+1§! do §Yostrzału§! i §G+2§! do §Ymanewrowości§!."
+ appoint_general_field_marshal_ct: "§YGenerał§! otrzyma dodatkowo §G+2§! do §Yostrzału§! i §G+1§! do §Yoblężeń§!."
+ appoint_general_field_marshal: "Mianuj generała feldmarszałka"
  appoint_general_field_marshal_desc: ""
- one_year_from_heathen_provinces_tt: ""
- ability_system_of_councils_mechanic: ""
- system_of_councils_mechanic: ""
- system_of_councils_mechanic_desc: ""
- royal_council_interaction: ""
+ one_year_from_heathen_provinces_tt: "z prowincji wyznających §Yobcą religię§!."
+ ability_system_of_councils_mechanic: "Mechanika systemu rad"
+ system_of_councils_mechanic: "System rad"
+ system_of_councils_mechanic_desc: "System rad został opracowany przez monarchię hiszpańską, aby umożliwić zarządzanie bardzo odległymi i zróżnicowanymi ziemiami za pomocą rozbudowanej biurokracji, zorganizowanej w rady tematyczne lub terytorialne. System osiągnął szczyt rozwoju za panowania Filipa II, zwanego również „Królem Biurokratą”."
+ royal_council_interaction: "Zwołaj Radę Królewską"
  royal_council_interaction_desc: ""
- royal_council_interaction_tooltip: ""
- state_council_interaction: ""
+ royal_council_interaction_tooltip: "Można wybrać jeden z następujących modyfikatorów na §Y10 lat§!:
+§YRada Kameralna§!:
+    Możliwi doradcy: §G+1§!
+    Koszt doradców: §G-10,0%§!
+
+§YRada Finansów§!:
+    Roczne zmniejszenie inflacji: §G-0,05§!
+    Roczne oprocentowanie: §G-1,00§!
+
+§YRada Inkwizycji§!:
+    Misjonarze: §G+1§!
+    Siła misjonarzy przeciw heretykom: §G+2,0%§!"
+ state_council_interaction: "Zwołaj Radę Państwa"
  state_council_interaction_desc: ""
- state_council_interaction_tooltip: ""
- war_council_interaction: ""
+ state_council_interaction_tooltip: "Można wybrać jeden z następujących modyfikatorów na §Y10 lat§!:
+§YRada Europy§!:
+    Reputacja dyplomatyczna: §G+2,00§!
+
+§YRada Śródziemnomorska§!:
+    Skuteczność bojowa galer: §G+15,0%§!
+
+§YRada Indii§!:
+    Globalny przyrost osadników: §G+15,00§!
+    Zmniejszenie pragnienia wolności poddanych na innym kontynencie: §G-10,00%§!"
+ war_council_interaction: "Zwołaj Radę Wojenną"
  war_council_interaction_desc: ""
- war_council_interaction_tooltip: ""
- royal_council_meeting_mod: ""
- state_council_meeting_mod: ""
- war_council_meeting_mod: ""
- council_consensus: ""
- monthly_council_consensus: ""
- council_consensus_gain_modifier: ""
- council_of_the_chamber_mod: ""
- desc_council_of_the_chamber_mod: ""
- council_of_finance_mod: ""
- desc_council_of_finance_mod: ""
- council_of_the_inquisition_mod: ""
- desc_council_of_the_inquisition_mod: ""
- council_of_europe_mod: ""
- desc_council_of_europe_mod: ""
- council_of_mediterranean_mod: ""
- desc_council_of_mediterranean_mod: ""
- council_of_the_indies_mod: ""
- desc_council_of_the_indies_mod: ""
- council_of_the_crusade_mod: ""
- desc_council_of_the_crusade_mod: ""
- council_of_military_orders_mod: ""
- desc_council_of_military_orders_mod: ""
- council_of_the_armada_mod: ""
- desc_council_of_the_armada_mod: ""
+ war_council_interaction_tooltip: "Można wybrać jeden z następujących modyfikatorów na §Y10 lat§!:
+§YRada Krucjaty§!:
+    Szybkość odzyskiwania zasobów ludzkich: §G+15,0%§!
+
+§YRada Zakonów Rycerskich§!:
+    Roczna tradycja armii: §G+1,00§!
+
+§YRada Armady§!:
+    Roczna tradycja floty: §G+1,00§!"
+ royal_council_meeting_mod: "Zwołano Radę Królewską"
+ state_council_meeting_mod: "Zwołano Radę Państwa"
+ war_council_meeting_mod: "Zwołano Radę Wojenną"
+ council_consensus: "Konsensus rad"
+ monthly_council_consensus: "Miesięczny konsensus rad"
+ council_consensus_gain_modifier: "Modyfikator przyrostu konsensusu rad"
+ council_of_the_chamber_mod: "Priorytet Rady Kameralnej"
+ desc_council_of_the_chamber_mod: "Zwołano Radę Hiszpańską."
+ council_of_finance_mod: "Priorytet Rady Finansów"
+ desc_council_of_finance_mod: "Zwołano Radę Hiszpańską."
+ council_of_the_inquisition_mod: "Priorytet Rady Inkwizycji"
+ desc_council_of_the_inquisition_mod: "Zwołano Radę Hiszpańską."
+ council_of_europe_mod: "Priorytet Rady Europy"
+ desc_council_of_europe_mod: "Zwołano Radę Hiszpańską."
+ council_of_mediterranean_mod: "Priorytet Rady Śródziemnomorskiej"
+ desc_council_of_mediterranean_mod: "Zwołano Radę Hiszpańską."
+ council_of_the_indies_mod: "Priorytet Rady Indii"
+ desc_council_of_the_indies_mod: "Zwołano Radę Hiszpańską."
+ council_of_the_crusade_mod: "Priorytet Rady Krucjaty"
+ desc_council_of_the_crusade_mod: "Zwołano Radę Hiszpańską."
+ council_of_military_orders_mod: "Priorytet Rady Zakonów Rycerskich"
+ desc_council_of_military_orders_mod: "Zwołano Radę Hiszpańską."
+ council_of_the_armada_mod: "Priorytet Rady Armady"
+ desc_council_of_the_armada_mod: "Zwołano Radę Hiszpańską."
  ability_naval_professionalism_mechanic: ""
  naval_professionalism_mechanic: ""
  naval_professionalism: ""
