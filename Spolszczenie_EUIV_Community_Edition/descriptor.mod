@@ -1,4 +1,4 @@
-name="Spolszczenie EUIV Community Edition"
+name="Europa Universalis IV Community Translation 2.0"
 picture="thumbnail.png"
 version="3.7.0"
 tags={
