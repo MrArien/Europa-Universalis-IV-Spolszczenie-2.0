@@ -52,6 +52,21 @@ W zgłoszeniu warto podać:
 
 Pull requesty z poprawkami są mile widziane. Zmiany powinny zachowywać klucze lokalizacyjne, placeholdery, tagi i strukturę wymaganą przez grę.
 
+## Wsparcie AI i współtwórcy techniczni
+
+W rozwój projektu Europa Universalis IV Community Translation 2.0 aktywnie zaangażowany jest również **ChatGPT (OpenAI, GPT-6)**.
+
+Zakres współpracy obejmuje:
+- tłumaczenie nowych treści i wydarzeń;
+- korektę oraz redakcję istniejących tłumaczeń;
+- analizę kontekstu historycznego i terminologii;
+- opracowywanie spójnego słownictwa dla mechanik gry;
+- audyt jakości i spójności lokalizacji;
+- kontrolę techniczną plików oraz poprawności ich struktury;
+- dokumentowanie i organizację procesu rozwoju projektu.
+
+ChatGPT pełni rolę asystenta tłumaczeniowego, redaktora i konsultanta technicznego. Za ostateczne decyzje, weryfikację i publikację odpowiada maintainer projektu – [MrArien](https://github.com/MrArien).
+
 ## Autorzy i podziękowania
 
 Edycja 2.0 korzysta z dorobku wcześniejszego projektu społecznościowego. Wszystkim osobom, które uczestniczyły w tłumaczeniu, korekcie, testach, organizacji, przygotowaniu czcionek, grafiki i narzędzi, należy się uznanie za ich wkład.
