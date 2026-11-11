@@ -1629,14 +1629,7 @@
  join_cultural_sphere_of_influence: "Dołącz do sfery wpływów kulturowych"
  join_cultural_sphere_of_influence_title: "Dołącz do sfery wpływów kulturowych"
  join_cultural_sphere_of_influence_tooltip: "Zapytaj, czy możemy dołączyć do ich §Ysfery wpływów kulturowych§! i stać się państwem zależnym chronionym przed obcymi mocarstwami w zamian za comiesięczną opłatę."
- join_cultural_sphere_of_influence_desc: "Czy chcesz dołączyć do §Ysfery wpływów kulturowych§! państwa §Y[From.GetName]§!?
-Jeśli zaakceptują naszą prośbę, będą chronić nas przed obcymi mocarstwami.
-Zachowamy możliwość prowadzenia niezależnych stosunków dyplomatycznych z innymi państwami.
-Mogą inwestować §Yperskie wpływy§! w państwo §Y[Root.GetName]§!, aby przekształcić nas w §Ywasala§!.
-
-Każde §Ypaństwo pod wpływem kulturowym§! zwiększa koszt podniesienia rangi państwa zależnego do wasala o §R+20,00§! i powoduje utrzymanie w wysokości §R-0,20§! perskich wpływów miesięcznie (chyba że posiadamy kulturę główną §Y[From.Culture.GetName]§!).
-Jako państwo zależne otrzymamy §G+10§! opinii od innych państw wyznających tę samą religię.
-§YPaństwo pod wpływem kulturowym natychmiast opuści sferę, jeśli jego religia przestanie być zgodna z naszą.§!"
+ join_cultural_sphere_of_influence_desc: "Czy chcesz dołączyć do §Ysfery wpływów kulturowych§! państwa §Y[From.GetName]§!?\nJeśli zaakceptują naszą prośbę, będą chronić nas przed obcymi mocarstwami.\nZachowamy możliwość prowadzenia niezależnych stosunków dyplomatycznych z innymi państwami.\nMogą inwestować §Yperskie wpływy§! w państwo §Y[Root.GetName]§!, aby przekształcić nas w §Ywasala§!.\n\nKażde §Ypaństwo pod wpływem kulturowym§! zwiększa koszt podniesienia rangi państwa zależnego do wasala o §R+20,00§! i powoduje utrzymanie w wysokości §R-0,20§! perskich wpływów miesięcznie (chyba że posiadamy kulturę główną §Y[From.Culture.GetName]§!).\nJako państwo zależne otrzymamy §G+10§! opinii od innych państw wyznających tę samą religię.\n§YPaństwo pod wpływem kulturowym natychmiast opuści sferę, jeśli jego religia przestanie być zgodna z naszą.§!"
  join_cultural_sphere_of_influence_alert_tooltip: "Prośba o dołączenie do naszej §Ysfery wpływów kulturowych§!"
  join_cultural_sphere_of_influence_dialog: "Państwo [This.GetName] chce dołączyć do naszej sfery wpływów kulturowych i stać się naszym państwem zależnym."
  elevate_influenced_country_to_vassal: "Podnieś rangę państwa pod wpływem kulturowym"
@@ -1657,16 +1650,11 @@ Jako państwo zależne otrzymamy §G+10§! opinii od innych państw wyznających
  ROOT_MORE_DEV_THAN_FROM_TT: "§R- Państwo §Y[Root.GetName]§! ma tyle samo lub więcej rozwoju niż państwo §Y[From.GetName]§!.§!"
  HAS_SPREAD_THE_TRUE_FAITH_CB_ALREADY_TT: "§R- Państwo §Y[Root.GetName]§! ma już casus belli «§YSzerzenie prawdziwej wiary§!» przeciwko państwu §Y[From.GetName]§!.§!"
  unlock_fabricate_spread_the_true_faith_cb_tt: "Odblokowuje działanie dyplomatyczne «§YSfabrykuj konflikt religijny§!»."
- fabricate_spread_the_true_faith_cb: "Sf fabrykuj konflikt religijny"
- fabricate_spread_the_true_faith_cb_title: "Sf fabrykuj konflikt religijny"
+ fabricate_spread_the_true_faith_cb: "Sfabrykuj konflikt religijny"
+ fabricate_spread_the_true_faith_cb_title: "Sfabrykuj konflikt religijny"
  fabricate_spread_the_true_faith_cb_tooltip: "Ci niewierni nie zdają sobie sprawy z grzechu, jakim jest ich istnienie. Możemy sfabrykować powód, aby natychmiast przywrócić ich na łono prawdziwej wiary."
- fabricate_spread_the_true_faith_cb_desc: "Sf fabrykowanie konfliktu religijnego zmniejszy rozmiar naszej siatki szpiegowskiej w państwie §Y[From.GetAdjective]§! o §R[Root.GetFabricateReligiousConflictCost]§! i zapewni nam casus belli «§YSzerzenie prawdziwej wiary§!» przeciwko państwu §Y[From.GetName]§!, pozwalający narzucić mu religię §Y[Root.Religion.GetName]§! przy znacznie niższym koszcie punktów wojennych.
-
-Ten casus belli będzie ważny przez §Y5 lat§!.
-
-§YTen casus belli nie pozwala nam na zajęcie żadnych prowincji państwa [From.GetName].§!"
- fabricate_spread_the_true_faith_cb_tt: "To działanie dyplomatyczne pozwala wykorzystać naszą siatkę szpiegowską w państwach §Yheretyckich§! i §Ypogańskich§!, aby sfabrykować casus belli «§YSzerzenie prawdziwej wiary§!». Nie pozwala ono na podbój prowincji przeciwnika, ale znacznie obniża koszt narzucenia mu religii.
-Państwa docelowe muszą znajdować się w §Yzasięgu handlowym§!."
+ fabricate_spread_the_true_faith_cb_desc: "Sfabrykowanie konfliktu religijnego zmniejszy rozmiar naszej siatki szpiegowskiej w państwie §Y[From.GetAdjective]§! o §R[Root.GetFabricateReligiousConflictCost]§! i zapewni nam casus belli «§YSzerzenie prawdziwej wiary§!» przeciwko państwu §Y[From.GetName]§!, pozwalający narzucić mu religię §Y[Root.Religion.GetName]§! przy znacznie niższym koszcie punktów wojennych.\n\nTen casus belli będzie ważny przez §Y5 lat§!.\n\n§YTen casus belli nie pozwala nam na zajęcie żadnych prowincji państwa [From.GetName].§!"
+ fabricate_spread_the_true_faith_cb_tt: "To działanie dyplomatyczne pozwala wykorzystać naszą siatkę szpiegowską w państwach §Yheretyckich§! i §Ypogańskich§!, aby sfabrykować casus belli «§YSzerzenie prawdziwej wiary§!». Nie pozwala ono na podbój prowincji przeciwnika, ale znacznie obniża koszt narzucenia mu religii.\nPaństwa docelowe muszą znajdować się w §Yzasięgu handlowym§!."
  ADDITIONAL_REASONS_FROM_EVENTS_AND_MISSIONS_TO_ACCEPT_TT: ""
  promote_primary_culture: ""
  promote_primary_culture_title: ""
