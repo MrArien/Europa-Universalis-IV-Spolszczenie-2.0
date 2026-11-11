@@ -6494,7 +6494,7 @@ Aby temu zaradzić, zaproponowano wprowadzenie gwarantowanego żołdu, który za
  jap_onna_musha_modifier: "Onna-musha"
  chinese_iron_key: ""
  fabricate_tributary_cb: "Sfabrykować roszczenie trybutarne"
- fabricate_tributary_cb_title: "Sf abrykować roszczenie trybutarne"
+ fabricate_tributary_cb_title: "Sfabrykować roszczenie trybutarne"
  fabricate_tributary_cb_desc: "Wydaj §R[Root.GetSpyCostHardCodedTributary]§! punktów sieci szpiegowskiej, aby uzyskać przeciwko temu państwu casus belli „Wymuszenie trybutu”."
  fabricate_tributary_cb_tooltip: "Wykorzystajmy nasz boski mandat i tajne działania, aby podporządkować ich §YCesarzowi Chin§!."
  requires_100_spy_network: "§RNie posiadamy wystarczającej sieci szpiegowskiej, aby przeprowadzić tę akcję.§!"
