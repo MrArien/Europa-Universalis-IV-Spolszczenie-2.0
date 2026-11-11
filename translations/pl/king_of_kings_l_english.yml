@@ -1550,19 +1550,26 @@
  persian_influence_events.3001.t: "Koniec wpływów państwa [From.GetAdjective]"
  persian_influence_events.3001.desc: "Z dworu [From.Monarch.Getname] dotarły do nas wieści! W wyniku katastrof politycznych i wewnętrznego chaosu administracja tego państwa całkowicie utraciła zdolność zarządzania państwami zależnymi. Ich niegdyś opiekuńcza sfera wpływów kulturowych stała się jedynie odległym wspomnieniem."
  persian_influence_events.3001.a: "Czas ruszyć dalej."
- promoting_art_events.1.t: ""
- promoting_art_events.1.desc: ""
- promoting_art_events.1.a: ""
- promoting_art_events.1.b: ""
- promoting_art_events.1.c: ""
- UNTIL_ART_COMPLETION_TT: ""
- promoting_art_events.2.t: ""
- promoting_art_events.2.desc: ""
- MAGNIFICENT_BUILDING_STRING: ""
- SIGNIFICANT_BUILDING_STRING: ""
- NOTEWORTHY_BUILDING_STRING: ""
- GREAT_BUILDING_STRING: ""
- PATHETIC_BUILDING_STRING: ""
+ promoting_art_events.1.t: "Mecenat nad sztuką"
+ promoting_art_events.1.desc: "Dwór [Root.GetAdjective] od zawsze interesował się pięknem sztuk świeckich, takich jak malarstwo, architektura i tkactwo. Nic więc dziwnego, że [Root.Monarch.GetTitle] [Root.Monarch.GetName] zaprosił na swój dwór najlepszych artystów, rzemieślników i krawców, aby mogli zaprezentować kunszt swojego fachu."
+ promoting_art_events.1.a: "Architekt wzniesie w moim imieniu wspaniałą [Root.GetTempleName]."
+ promoting_art_events.1.b: "Krawiec przygotuje najwspanialsze dywany dla mojego dworu."
+ promoting_art_events.1.c: "Artysta namaluje najwspanialszy portret mojej skromnej osoby."
+ UNTIL_ART_COMPLETION_TT: "do czasu ukończenia dzieła"
+ promoting_art_events.2.t: "Ukończenie dzieła sztuki"
+ promoting_art_events.2.desc: "Wielki artysta powrócił na nasz dwór! Jest pełen entuzjazmu z powodu swojego dzieła i zaprasza [Root.Monarch.GetTitle] do jego obejrzenia.
+[Root.GetWorkOfArtDescription]"
+ MAGNIFICENT_BUILDING_STRING: "Na widok wspaniałej [Root.GetTempleName] [Root.Monarch.GetTitle] z trudem powstrzymuje łzy wzruszenia. Ani [Root.Monarch.GetSheHe], ani żaden z członków dworu nigdy wcześniej nie widział tak majestatycznej budowli.
+Zewnętrzne ściany zdobią złożone, a zarazem pełne finezji wzory. Same drzwi przypominają wejście do miejsca, które niektórzy mogliby uznać za bramę do zaświatów. A sama bryła...
+To prawdziwe dzieło sztuki, które zasługuje na miano monumentu państwa [Root.GetName]."
+ SIGNIFICANT_BUILDING_STRING: "Oczy [Root.Monarch.GetTitle] podziwiają imponujący przykład [Root.GetAdjective] rzemiosła. Tak wspaniała budowla jest rzadkością, nawet w państwie [Root.GetName], które tak wiele uwagi poświęca sztuce i kulturze.
+Kształt [Root.GetTempleName] symbolizuje boskość niebios, a jej barwy odzwierciedlają dobro tkwiące w ludzie [Root.GetAdjective]. Świątynia ta służy nie tylko praktycznym celom, lecz także dowodzi, że sztuka świecka i mistyczna mogą współistnieć w harmonii."
+ NOTEWORTHY_BUILDING_STRING: "Choć interesująca i piękna sama w sobie, [Root.GetTempleName] zaprojektowana przez architekta nie robi większego wrażenia na [Root.Monarch.GetTitle] ani jego dworze. Mimo to z pewnością stanie się obiektem zazdrości naszych rywali.
+Jej formy nie dorównują wspaniałości wielkich monumentów, lecz nadają budowli dostojny charakter. Kolorystyka również cieszy oko, zachowując przy tym umiar. Jest to bez wątpienia budowla godna uwagi."
+ GREAT_BUILDING_STRING: "Architekt wyraźnie przesadził, opisując jakość i prestiż, jakie miała przynieść nam jego budowla. Jego dzieło ma pewien potencjał, a [Root.Monarch.GetTitle] potrafi dostrzec w nim ślady kunsztu artystycznego. Nie jest to jednak dzieło, które warto przekazywać potomnym.
+[Root.GetTempleName] została wzniesiona przede wszystkim z myślą o funkcjonalności, a nie pięknie. Jej formy są proste, a barwy niemal całkowicie nieobecne. Budowla spełnia swoje zadanie, lecz wyraźnie brakuje jej duszy."
+ PATHETIC_BUILDING_STRING: "[Root.Monarch.GetTitle] musi na chwilę przystanąć, spoglądając na koszmarną konstrukcję przedstawioną [Root.Monarch.GetHerHim]. Słowa nie są w stanie opisać odrazy, jaką [Root.Monarch.GetHerHis] budzi dzieło stworzone przez architekta.
+Przypomina [Root.GetTempleName] jedynie z grubsza swoim kształtem. Użyte materiały z pewnością widziały niejedno pole bitwy, a funkcjonalność budowli jest co najmniej wątpliwa. Jeden z doradców [Root.Monarch.GetHerHis] wysokości odważył się wejść do tej nędznej chaty i ledwo uszedł z życiem, gdy ominęła go o włos jedna z belek podporowych."
  MAGNIFICENT_CARPETS_STRING: ""
  SIGNIFICANT_CARPETS_STRING: ""
  NOTEWORTHY_CARPETS_STRING: ""
