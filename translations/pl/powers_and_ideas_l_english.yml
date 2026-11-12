@@ -22,7 +22,7 @@
  MODIFIER_REDUCED_STAB_IMPACTS: "Zmniejszono wpływ działań dyplomatycznych na stabilność."
  MODIFIER_EXTRA_MANPOWER_AT_RELIGIOUS_WAR: "Potrójny wzrost zasobów ludzkich w wojnach religijnych."
  MODIFIER_CLAIM_COLONIES: "Może tworzyć roszczenia w regionie kolonialnym należącym do innego państwa, które traktuje go jako zamorski lub należy do jego państw kolonialnych."
- CLAIM_TRADE_COMPANIES: ""
+ CLAIM_TRADE_COMPANIES: "Można sfabrykować roszczenia w regionach kompanii handlowych."
  MAY_SABOTAGE_REPUTATION: "Można sabotować reputację."
  MAY_SABOTAGE_RECRUITMENT: "Można sabotować werbunek.\n"
  MAY_SLANDER_MERCHANTS: "Można oczerniać kupców.\n"
