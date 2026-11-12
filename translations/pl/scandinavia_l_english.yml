@@ -1121,7 +1121,7 @@
  dan_the_german_trade_cities_title: "Miasta Hanzy"
  dan_the_german_trade_cities_desc: "Nadbrzeżne miasta Świętego Cesarstwa Rzymskiego należą w większości do Hanzy. Jeśli chcemy rozwiązać tę ligę, która od tak dawna zagraża naszej dominacji handlowej w cieśninie Sund, powinniśmy zablokować, zająć lub zaanektować te miasta."
  dan_the_german_trade_cities_ct: "Otrzymujemy dochód handlowy z okresu §G4 lat§!."
- dan_the_german_trade_cities_tt: ""
+ dan_the_german_trade_cities_tt: "Następujące warunki muszą być spełnione dla §Y3§! spośród prowincji §Y[47.GetName]§!, §Y[1858.GetName]§!, §Y[45.GetName]§!, §Y[44.GetName]§! i §Y[1874.GetName]§!:\n    Należy do państwa §Y[Root.GetName]§! lub jego poddanych\n    Jest kontrolowana przez państwo §Y[Root.GetName]§!\n    Jest blokowana przez państwo §Y[Root.GetName]§!, gdy jej właściciel prowadzi wojnę z państwem §Y[Root.GetName]§!\n    Jej właściciel §Ypodporządkował się§! dominacji handlowej państwa §Y[Root.GetName]§!, gdy państwo §Y[Root.GetName]§! podejmie decyzję „§YWywołaj konflikt handlowy z Hanzą§!”."
  dan_the_german_trade: "Duńskie wpływy handlowe w Niemczech"
  dan_the_sound_toll_title: "Rozbuduj cło sundzkie"
  dan_the_sound_toll_desc: "Cło sundzkie jest jednym z najważniejszych, jeśli nie najważniejszym źródłem dochodów duńskiej korony. Zapewnia królowi niezależność od szlachty i pozwala nam żelazną ręką kontrolować przepływ handlu między Morzem Bałtyckim a Morzem Północnym. Warto rozbudować system poboru cła, wznosząc dodatkowe baterie nadbrzeżne i targowiska, na których kupcy będą musieli uiszczać opłaty."
