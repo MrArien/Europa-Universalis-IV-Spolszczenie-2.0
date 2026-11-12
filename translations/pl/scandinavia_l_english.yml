@@ -3365,7 +3365,7 @@
  mechanic_absolutism_reduction_on_ruler_death_yes: ""
  mechanic_absolutism_resets_on_ruler_death_yes: ""
  mechanic_reelection_increases_absolutism_yes: ""
- ADD_ABSOLUTISM_BASED_ON_ELECTION_TERM: ""
+ ADD_ABSOLUTISM_BASED_ON_ELECTION_TERM: "Uzyskany absolutyzm zostaje pomnożony przez §G[Root.election_term.GetValue]§! ze względu na liczbę kadencji (§Y[Root.election_term.GetValue]§!) §Y[Root.Monarch.GetName]§!."
  consolidate_power_to_the_ruler_reform: ""
  consolidate_power_to_the_ruler_reform_desc: ""
  consolidate_power_into_different_candidates_reform: ""
