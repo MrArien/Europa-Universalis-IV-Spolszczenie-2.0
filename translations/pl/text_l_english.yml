@@ -98,7 +98,7 @@
  RELATION_CHANGE: "Stosunki między §Y$ACTIVE$§W i §Y$PASSIVE$§W zależne od $MUCH$.\n"
  CULTURE_CHANGE: "Kultura §Y$NEW$§W stała się nową główną kulturą.\n"
  ADD_ACCEPTED_CULTURE: "Kultura §Y$NEW$§W uzyska status akceptowanej.\n"
- REM_ACCEPTED_CULTURE: "Utrata statusu kultury akceptowanej przez §Y$LOSE$§W.\n"
+ REM_ACCEPTED_CULTURE: "Kultura §Y$LOSE$§W utraci status kultury akceptowanej.\n"
  BECOME_EMPEROR: "Zostałeś cesarzem.\n"
  LOSE_EMPEROR: "Rezygnujesz z korony cesarskiej.\n"
  BECOME_ELECTOR: "Zostajesz elektorem.\n"
