@@ -3029,7 +3029,7 @@
  got_monarchy_execute_the_wrong_king_title: "Stracić niewłaściwego króla"
  got_monarchy_execute_the_wrong_king_desc: "Eryk Pomorski, niegdyś wielki król Danii i suwerenny władca Skandynawii... Gdy możnowładcy unii kalmarskiej wspólnie postanowili go zdetronizować, jego bratanek Christoph III von Wittelsbach zasiadł na tronie unii. Od tamtej pory ziemiami skandynawskimi rządzi obcokrajowiec — pozbawiony ogłady i kompetencji.\n\nNadszedł czas, by powiesić fałszywego króla w jego własnej stolicy i raz na zawsze przejąć tron Danii."
  got_monarchy_execute_the_wrong_king_tt: "Prowadzi wojnę z państwem §Y[DAN.GetName]§! od co najmniej §Y3 lat§!."
- got_monarchy_execute_the_wrong_king_ct: ""
+ got_monarchy_execute_the_wrong_king_ct: "Nagroda zależy od sposobu ukończenia misji.\n\nJeśli ukończymy ją, mając państwo §Y[DAN.GetName]§! w unii personalnej z państwem §Y[Root.GetName]§! albo prowadząc wojnę z państwem §Y[DAN.GetName]§! i kontrolując §Y[DAN.Capital.GetName]§!, zostanie uruchomione wydarzenie „§YEgzekucja [DAN.Monarch.GetName]§!”.\n\nW przeciwnym razie otrzymamy §G100§! punktów administracyjnych, dyplomatycznych i wojskowych oraz casus belli §YPrzywrócenie unii§! przeciwko państwom §Y[DAN.GetName]§!, §Y[NOR.GetName]§! i §Y[SWE.GetName]§!, jeśli są niepodległe."
  got_monarchy_king_of_denmark_title: "Ponownie u steru"
  got_monarchy_king_of_denmark_desc: "Nadszedł czas, by porzucić tożsamość Gotlandii — ponownie jesteśmy królem unii kalmarskiej!"
  got_monarchy_pomerania_title: "Stosunki dynastyczne"
