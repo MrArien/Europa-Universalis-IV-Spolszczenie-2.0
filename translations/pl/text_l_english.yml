@@ -3358,7 +3358,7 @@
  LEDGER_STRATEGIC_GOODS: "Towary strategiczne"
  NOMAD_NO_OCCUPATION: "Musisz najpierw okupować tę prowincję."
  MESSAGE_IS_ICON: "Ten rodzaj wiadomości aktualnie $TRUTH$ wyświetlany jako ikonka wiadomości (w stosownych przypadkach)."
- MESSAGE_IS_POPUPPAUSE: "Wiadomość typu $TRUTH$ jest obecnie wyświetlana jako okno wyskakujące i wstrzymuje grę."
+ MESSAGE_IS_POPUPPAUSE: "Wiadomość typu $TRUTH$ jest obecnie wyświetlana jako okno wyskakujące; parametr $TRUTH02$ określa, czy gra zostanie wstrzymana."
  become_king_of_gonder_title: "Zostań królem Gonderu"
  HISTORY_SETTLED: "Zajęte przez osadników: §Y$NEW$§W."
  HISTORY_DEFECTED: "Przechodzi na stronę: §Y$NEW$§W."
