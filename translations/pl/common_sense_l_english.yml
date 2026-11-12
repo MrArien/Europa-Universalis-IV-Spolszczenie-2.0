@@ -1514,7 +1514,7 @@
  desc_fc_league_reforms: "Nowe reformy ligi miast rozprzestrzeniają się wśród Wolnych Miast i pomogą wszystkim tym państwom osiągnąć wielkość."
  ADD_SEAT_IN_PARLIAMENT_SHORT: "Przyznaj miejsce w parlamencie $NAME$"
  SEAT_PARLIAMENT_DESC: "Ma to następujące skutki:\n"
- ADD_SEAT_IN_PARLIAMENT_LONG: "Przyznanie prowincji miejsca w parlamencie da pewną premię, ale w każdej kwestii większość delegatów zasiadających w parlamencie musi być zgodnych."
+ ADD_SEAT_IN_PARLIAMENT_LONG: "Przyznanie prowincji miejsca w $NAME$ da pewną premię, ale w każdej kwestii większość delegatów zasiadających w parlamencie musi być zgodnych."
  withdrawn_parliamentary_seat: "Odebrane miejsce w parlamencie"
  desc_withdrawn_parliamentary_seat: "Mieszkańcy tej prowincji uważają, że pozbawiono ich należnego wpływu na politykę naszego kraju."
  rotten_borough: "Zgniły okręg wyborczy"
