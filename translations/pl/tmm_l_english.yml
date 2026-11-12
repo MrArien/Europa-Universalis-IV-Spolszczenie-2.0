@@ -2179,7 +2179,7 @@
  alert_can_use_government_interaction_instant: "§YMożesz użyć interakcji rządowej!§!"
  alert_can_use_government_interaction_delayed: "$POWERS|Y$"
  GOV_MECHANIC_LOSE: "Tracimy $LOSS$ $NAME|Y$ każdego miesiąca, aż do osiągnięcia minimalnej wartości $MIN|Y$."
- GOV_MECHANIC_GAIN: "Zyskujemy $GAIN|$ $NAME|Y$ każdego miesiąca, aż do osiągnięcia maksymalnej wartości $MAX|Y$."
+ GOV_MECHANIC_GAIN: "Zyskujemy $GAIN$ $NAME|Y$ każdego miesiąca, aż do osiągnięcia maksymalnej wartości $MAX|Y$."
  MAX_POWER_FOLLOWING_EFFECTS: "Przy maksymalnej sile $POWER|Y$ zapewnia następujące efekty:"
  ability_shogunate_mechanic: "Mechanika szogunatu"
  HAS_SUBJECTS_OF_TYPE_WITH_LIBERTY_DESIRE: "Ma co najmniej $NUM|Y$ państw podległych typu $SUBJECTTYPE|Y$ z dążeniem do niepodległości wynoszącym co najmniej $LD|Y$."
