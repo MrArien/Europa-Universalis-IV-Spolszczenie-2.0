@@ -2838,7 +2838,7 @@
  dan_sca_balticum_dominance_tt: "Cała linia brzegowa §YMorza Bałtyckiego§! jest własnością §Y[Root.GetName]§!, lub jego poddanych."
  dan_establish_merc_contracts_title: "Niemieccy najemnicy"
  dan_establish_merc_contracts_desc: "Ziemie duńskie są bogate i mogą utrzymać liczną ludność, która w zamian może służyć krajowi jako żołnierze.\nDlaczego jednak mielibyśmy poświęcać życie dobrych duńskich poddanych w naszych wojnach, skoro możemy wynająć kogoś innego? Na południu, w Niemczech, znajduje się wiele kompetentnych i dobrze wyposażonych kompanii najemników. Powinniśmy nawiązać z nimi kontakt."
- dan_establish_merc_contracts_tt: ""
+ dan_establish_merc_contracts_tt: " siedzib §YGermaniańskich kompanii najemniczych§!:\nWłaścicielem jest państwo §Y[Root.GetName]§! lub jego poddany albo ma co najmniej §Y100§! punktów opinii o państwie §Y[Root.GetName]§!."
  dan_establish_merc_contracts_ct: "Wydarzenie odblokuje kompanie najemnicze zależnie od tego, które siedziby utrzymują więzi z państwem §Y[Root.GetName]§! poprzez opinię lub posiadanie."
  dan_grand_merc_army_title: "Armia najemna"
  dan_grand_merc_army_desc: "Armie walczące w Europie stają się coraz liczniejsze. Musimy nadążać za nowymi standardami prowadzenia wojny, a zatem utrzymywać więcej najemników, którzy będą walczyć w naszych kampaniach."
