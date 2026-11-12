@@ -1684,13 +1684,7 @@
  bng_conquest_burma: "Bengalskie rządy w Birmie"
  desc_bng_conquest_burma: "Rozszerzamy zasięg naszej administracji na Birmę, likwidując lokalne tradycje zdecentralizowanych rządów."
  tiger_triumphant: "Triumf tygrysa"
- desc_tiger_triumphant: "Tygrysie, tygrysie, płoniesz jasno,
-
-Wśród nocnych lasów lśnisz;
-
-Jaka nieśmiertelna dłoń lub oko
-
-Mogły stworzyć twą straszną symetrię?"
+ desc_tiger_triumphant: "Tygrysie, tygrysie, płoniesz jasno,\\n\\nWśród nocnych lasów lśnisz;\\n\\nJaka nieśmiertelna dłoń lub oko\\n\\nMogły stworzyć twą straszną symetrię?"
  mlw_gujarat_modifier: "Gudźarackie szkutnictwo"
  desc_mlw_gujarat_modifier: "Przejęliśmy usługi gudźarackich szkutników, aby budować własne floty handlowe."
  mlw_conquest_delhi: "Podbój Doabu"
@@ -2141,13 +2135,7 @@ Mogły stworzyć twą straszną symetrię?"
  fortified_navarra: "Ufortyfikowana Nawarra"
  desc_fortified_navarra: "Ufortyfikowaliśmy zamki Nawarry, przygotowując je do obrony przed naszymi wrogami."
  viceroyalty_of_new_spain: "Nowa Hiszpania"
- desc_viceroyalty_of_new_spain: "Czyż niebo, litując się nad biednymi,
-
-Nie zostawiło pustkowi nieprzebytych,
-
-Nieodkrytych brzegów, wysp na bezkresnym morzu,
-
-Ni spokojnej pustyni, której Hiszpania jeszcze nie zagarnęła?"
+ desc_viceroyalty_of_new_spain: "Czyż niebo, litując się nad biednymi,\\n\\nNie zostawiło pustkowi nieprzebytych,\\n\\nNieodkrytych brzegów, wysp na bezkresnym morzu,\\n\\nNi spokojnej pustyni, której Hiszpania jeszcze nie zagarnęła?"
  spa_native_reductions: "Ograniczenie tubylców"
  desc_spa_native_reductions: "Zamiast mordować lub zniewalać rdzenną ludność Ameryk, powinniśmy zapewnić jej opiekę. A przy okazji pozbawić ją ostatnich śladów własnej kultury."
  spa_prepared_armada: "Przygotowana Armada"
