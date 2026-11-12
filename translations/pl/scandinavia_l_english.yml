@@ -3097,7 +3097,7 @@
  got_pirate_raid_the_north_sea_desc: "Dotychczas skupialiśmy się wyłącznie na piractwie na Morzu Bałtyckim. Na razie może to wystarczyć, lecz nie jest długoterminowym rozwiązaniem naszego zapotrzebowania na złoto. Musimy rozszerzyć działalność na Morze Północne i nauczyć Anglików oraz Holendrów bać się piratów [Root.GetAdjective]."
  got_pirate_loot_the_lowlands_title: "Złupić Niderlandy"
  got_pirate_loot_the_lowlands_desc: "Państwa Niderlandów produkują jedne z najlepszych i najbardziej cenionych tkanin w Europie. Byłoby wielką szkodą, gdyby flota okrętów [Root.GetAdjective] przypadkiem odwiedziła Niderlandy, zabrała te tkaniny i sprzedała je na czarnym rynku..."
- got_pirate_loot_the_lowlands_tt: ""
+ got_pirate_loot_the_lowlands_tt: "Każda prowincja w §YNiderlandach§! produkująca §Ytkaniny§! otrzymuje następujący efekt:\n\nJeśli prowincja należy do państwa §Y[Root.GetName]§! lub jego poddanych, otrzymuje modyfikator „§YGocka kontrola§!” na §Y25 lat§!, zapewniający następujące efekty:\nLokalna produkcja dóbr: §G+25.0%§!\n\nJeśli prowincja jest kontrolowana, lecz nie należy do państwa §Y[Root.GetName]§!, zostaje złupiona przez państwo §Y[Root.GetName]§!, które otrzymuje §G15§! ¤ oraz §G0.05§! rocznego dochodu państwa [Root.GetName]. Prowincja otrzymuje również modyfikator „§YGocki najazd§!” na §Y25 lat§!, zapewniający następujące efekty:\nLokalny przyrost dobrobytu: §R-0.15§!\nLokalny koszt rozwoju: §R+10.0%§!\n\nJeśli prowincja zostanie jedynie złupiona, lecz nie będzie kontrolowana, efekty te będą miały §Y50%§! swojej siły, jeśli nie znajduje się pod kontrolą państwa §Y[Root.GetName]§!."
  got_pirate_the_curia_treasure_title: ""
  got_pirate_the_curia_treasure_desc: ""
  got_pirate_raid_the_baltics_title: ""
