@@ -1892,7 +1892,7 @@
  CANNOT_CREATE_JANISSARIES_NOT_STATE: "Nie można werbować janczarów na terytorium. Najpierw przekształć je w stan."
  MODIFIER_CAN_RECRUIT_JANISSARIES: "Umożliwia werbunek janczarów"
  MODIFIER_ALLOW_JANISSARIES_FROM_OWN_FAITH: "Umożliwia werbunek janczarów w prowincjach prawdziwej wiary"
- JANISSARY_FORCELIMIT_TRUE_FAITH: "Możemy rekrutować do $VAL|%Y$ janczarów w stosunku do naszego limitu sił zbrojnych wynoszącego $FL$, ponieważ możemy werbować ich również w prowincjach prawdziwej wiary, a nie tylko w prowincjach pogan: §Gjanczarów§!\n"
+ JANISSARY_FORCELIMIT_TRUE_FAITH: "Możemy rekrutować do $VAL|%Y$ naszego limitu sił zbrojnych wynoszącego $FL$ jako §Gjanczarów§!, ponieważ możemy werbować ich również w prowincjach prawdziwej wiary, a nie tylko w prowincjach pogan.\n"
  MODIFIER_VASSAL_NAVAL_FORCELIMIT_BONUS: "Wkład wasali do limitu sił morskich"
  MODIFIER_VASSAL_MANPOWER_BONUS: "Wkład wasali do siły ludzkiej"
  MODIFIER_VASSAL_SAILORS_BONUS: "Wkład wasali do liczby marynarzy"
