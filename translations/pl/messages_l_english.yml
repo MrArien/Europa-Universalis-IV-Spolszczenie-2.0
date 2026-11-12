@@ -4431,7 +4431,7 @@
  OTHERCHARTERCOMPANY_2: "$ACTOR$, szukając możliwości handlowych dla swoich kompani handlowych, złożył hojną ofertę dla $RECIPIENT$"
  OTHERCHARTERCOMPANY_3: "na zakup prowincji $PROVINCE$."
  OTHERCHARTERCOMPANY_4: "Miejmy nadzieję, że nie jest to preludium do militarnej inwazji w regionie."
- OTHERCHARTERCOMPANY_LOG: "$RECIPIENT$ sprzedał prowincję $PROV$ państwu $ACTOR$ i utworzyli z niej kompanię handlową."
+ OTHERCHARTERCOMPANY_LOG: "$RECIPIENT$ sprzedał prowincję $PROVINCE$ państwu $ACTOR$ i utworzyli z niej kompanię handlową."
  OTHERCHARTERCOMPANY_BTN1: "Rozumiem."
  OTHERCHARTERCOMPANY_BTN2: "Rozumiem."
  OTHERCHARTERCOMPANY_BTN3: "Idź do"
