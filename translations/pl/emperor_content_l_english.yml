@@ -2596,9 +2596,7 @@ l_english:
  AUS_bushrangers: "Wcielenie do służby buszrendżerów"
  AUS_bushrangers_desc: "Znaczna część osadników wysłanych z kontynentu do Australii była skazańcami i osobami niepożądanymi, przymusowo zesłanymi na wygnanie. Szczególnie przebiegli spośród tych złodziei i rzezimieszków stawali się buszrendżerami — zatwardziałymi przestępcami, którzy wykorzystywali bezlitosny australijski busz jako bazę wypadową do rabunków. Ich potęga i bogactwo szczególnie wzrosły podczas australijskiej gorączki złota. Teraz jednak, gdy wywalczyliśmy wolność spod jarzma kolonialnych ciemiężycieli, ludzie ci nie są już niczyimi skazańcami. Warto wykorzystać ich taktykę zasadzek przeciw naszym wrogom!"
  AUS_waltzing_matilda: "Waltzing Matilda"
- AUS_waltzing_matilda_desc: "[Fragment tradycyjnej australijskiej pieśni ludowej pominięty]
-
-Ta tradycyjna australijska pieśń ludowa symbolizuje wartości wyznawane przez nasz naród. Opowiada historię zbiegłego skazańca, który kradnie owcę i ginie w walce z prawem. Dla nas, Australijczyków, to nie chwała zwycięstwa, lecz honor walki definiuje to, kim jesteśmy!"
+ AUS_waltzing_matilda_desc: "[Fragment tradycyjnej australijskiej pieśni ludowej pominięty]\n\nTa tradycyjna australijska pieśń ludowa symbolizuje wartości wyznawane przez nasz naród. Opowiada historię zbiegłego skazańca, który kradnie owcę i ginie w walce z prawem. Dla nas, Australijczyków, to nie chwała zwycięstwa, lecz honor walki definiuje to, kim jesteśmy!"
  swabian_ideas: "Idee szwabskich państw-miast"
  swabian_ideas_start: "Tradycje szwabskich państw-miast"
  swabian_ideas_bonus: "Ambicja szwabskich państw-miast"
@@ -2728,11 +2726,7 @@ Ta tradycyjna australijska pieśń ludowa symbolizuje wartości wyznawane przez 
  PROV4789: "Segowia"
  PROV_ADJ4789: "Segowii"
  nahuatl_events.32.t: "Muxe na dworze"
- nahuatl_events.32.d: "W społeczeństwie Zapoteków wyróżnia się trzy określone płcie: męską, żeńską oraz muxe. Muxe to osoby, którym przy urodzeniu przypisano płeć męską, lecz które z czasem zaczęły postrzegać siebie jako kobiety. Noszą tradycyjne kobiece stroje, posługują się tytułami żeńskimi i zazwyczaj porzucają imiona nadane przy narodzinach na rzecz imion uznawanych za bardziej kobiece.
-
-Zazwyczaj muxe nie wzbudzają większego zainteresowania [Root.Monarch.GetTitle]. Jednak nasz doradca ds. administracji [Root.Adm_Advisor.GetTitle] [Root.Adm_Advisor.GetName] wyznała, że należy do społeczności muxe, i przybyła na dwór, przedstawiając się jako [Root.muxe_advisor_name.GetName]. Jako kobieta nie może nadal służyć u boku [Root.Monarch.GetTitle], lecz jej wyjątkowe talenty sprawiają, że trudno z niej zrezygnować.
-
-Niektórzy wysoko postawieni urzędnicy dworscy sugerują, że zdolności [Root.muxe_advisor_name.GetName] dowodzą, jak wiele talentów tracimy, zakazując kobietom służby na dworze. Nasz [Root.Monarch.GetTitle] powinien zatem rozważyć zmianę wymogów prawnych dotyczących obejmowania stanowisk królewskich doradców."
+ nahuatl_events.32.d: "W społeczeństwie Zapoteków wyróżnia się trzy określone płcie: męską, żeńską oraz muxe. Muxe to osoby, którym przy urodzeniu przypisano płeć męską, lecz które z czasem zaczęły postrzegać siebie jako kobiety. Noszą tradycyjne kobiece stroje, posługują się tytułami żeńskimi i zazwyczaj porzucają imiona nadane przy narodzinach na rzecz imion uznawanych za bardziej kobiece.\n\nZazwyczaj muxe nie wzbudzają większego zainteresowania [Root.Monarch.GetTitle]. Jednak nasz doradca ds. administracji [Root.Adm_Advisor.GetTitle] [Root.Adm_Advisor.GetName] wyznała, że należy do społeczności muxe, i przybyła na dwór, przedstawiając się jako [Root.muxe_advisor_name.GetName]. Jako kobieta nie może nadal służyć u boku [Root.Monarch.GetTitle], lecz jej wyjątkowe talenty sprawiają, że trudno z niej zrezygnować.\n\nNiektórzy wysoko postawieni urzędnicy dworscy sugerują, że zdolności [Root.muxe_advisor_name.GetName] dowodzą, jak wiele talentów tracimy, zakazując kobietom służby na dworze. Nasz [Root.Monarch.GetTitle] powinien zatem rozważyć zmianę wymogów prawnych dotyczących obejmowania stanowisk królewskich doradców."
  nahuatl_events.32.a: "Kobiety nie mają miejsca na dworze — muxe czy nie."
  nahuatl_events.32.b: "Mężczyzna, kobieta czy muxe — nie możemy stracić naszego doradcy [Root.Adm_Advisor.GetTitle]!"
  nahuatl_events.321.t: "Muxe w wojsku"
@@ -2780,9 +2774,7 @@ Niektórzy wysoko postawieni urzędnicy dworscy sugerują, że zdolności [Root.
  NZL_rejecting_australia: "Odrzucenie konstytucji australijskiej"
  NZL_rejecting_australia_desc: "Nasz niewielki kraj otrzymał niegdyś propozycję przyłączenia się do kolonistów w Australii jako ich państwo podległe. Dzięki demokracji nasi mieszkańcy podjęli jednak słuszną decyzję i na zawsze zachowali niepodległość Zelandii. Odrzucając i odpierając wszelkie próby podporządkowania naszego narodu, zapewnimy sobie dalsze przetrwanie."
  NZL_pokarekare_ana: "Pokarekare Ana"
- NZL_pokarekare_ana_desc: "[Fragment tradycyjnej pieśni maoryskiej pominięty]
-
-Pieśń opowiada o długiej podróży, jaką żołnierz musi odbyć, zanim powróci do żony i ukochanej. Nie możemy marnować życia młodych mężczyzn w niepotrzebnych wojnach. Powinniśmy poświęcić się zachowaniu pokoju i spokoju w Krainie Długiej Białej Chmury."
+ NZL_pokarekare_ana_desc: "[Fragment tradycyjnej pieśni maoryskiej pominięty]\n\nPieśń opowiada o długiej podróży, jaką żołnierz musi odbyć, zanim powróci do żony i ukochanej. Nie możemy marnować życia młodych mężczyzn w niepotrzebnych wojnach. Powinniśmy poświęcić się zachowaniu pokoju i spokoju w Krainie Długiej Białej Chmury."
  ALA_ideas: "Alaskie idee"
  ALA_ideas_start: "Alaskie tradycje"
  ALA_ideas_bonus: "Alaska ambicja"
@@ -2988,9 +2980,7 @@ Pieśń opowiada o długiej podróży, jaką żołnierz musi odbyć, zanim powr�
  hussite.3.a: "Zachęcajmy duchownych do składania ślubów."
  hussite.3.b: "Silny Kościół ma swoje zalety."
  hussite.4.t: "Grzeszny szlachcic"
- hussite.4.d: "Kościół [Root.GetAdjective] uważa, że nikt — niezależnie od majątku czy pozycji społecznej — nie stoi ponad prawami Boga. Każdy grzesznik musi zostać odpowiednio ukarany.
-
-[Root.sinful_noble.GetName] dopuścił się publicznie i bezwstydnie grzechu: [Root.GetRandom_Sin], czym ciężko obraził duchowieństwo i wywołał żądania ukarania winowajcy."
+ hussite.4.d: "Kościół [Root.GetAdjective] uważa, że nikt — niezależnie od majątku czy pozycji społecznej — nie stoi ponad prawami Boga. Każdy grzesznik musi zostać odpowiednio ukarany.\n\n[Root.sinful_noble.GetName] dopuścił się publicznie i bezwstydnie grzechu: [Root.GetRandom_Sin], czym ciężko obraził duchowieństwo i wywołał żądania ukarania winowajcy."
  hussite.4.a: "Nikt nie stoi ponad prawami Boga."
  hussite.4.b: "Niech kara będzie wyłącznie symboliczna."
  hussite.5.t: "Defenestracje"
