@@ -809,7 +809,7 @@
  estate_nobles_leidang_elite_conscription_mod: ""
  desc_estate_nobles_leidang_elite_conscription_mod: ""
  norse_events.1.t: ""
- norse_events.1.desc: ""
+ norse_events.1.desc: "[Root.Monarch.GetName], wielki [Root.Monarch.GetTitle] państwa [Root.GetName], wybrał ścieżkę jednego z naszych bogów. Jednak [Root.Monarch.GetSheHe] nie ma pewności, czy obecny kult zaprowadzi [Root.Monarch.GetHerHim] do wspaniałych sal Walhalli. [Root.Monarch.GetSheHeCap] szuka teraz rady u stanu [Root.GetChurchOrFallbackName], aby ponownie rozważyć wybór osobistego bóstwa i wybrać takie, które przyniesie zwycięstwo oraz chwałę [Root.Monarch.GetHerHim] i ludowi [Root.GetAdjective]."
  norse_events.1.a: ""
  norse_events.1.b: ""
  norse_events.1.c: "Thor będzie nas chronić."
