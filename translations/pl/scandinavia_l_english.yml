@@ -3992,7 +3992,7 @@
  pol_impact_future_missions_tt: "\n§RTa nagroda będzie miała wpływ na przyszłe misje§!"
  pol_alternatively_every_required_province_tt: ""
  pol_every_mil_building_1_base_development_mil_tt: ""
- pol_if_mercantilism_reward_tt: ""
+ pol_if_mercantilism_reward_tt: "Jeśli ukończymy misję dzięki §Ymerkantylizmowi§!, poziom każdego kolejnego doradcy typu §Ykupiec§! będzie zmniejszał „§MKoszt promowania merkantylizmu§!”, a nasz władca otrzyma cechę §YPrzedsiębiorczy§! lub §G1§! punkt umiejętności dyplomatycznych."
  pol_every_grain_province_tt: ""
  polish_grain: "Polskie zboże"
  pol_better_chance_to_spawn_industrialization_tt: ""
