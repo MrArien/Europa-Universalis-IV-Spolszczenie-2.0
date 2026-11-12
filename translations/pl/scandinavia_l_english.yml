@@ -157,7 +157,7 @@
  fifty_percent_merc_army_professionalism_cost_tt: "Zmniejsza koszt werbunku najemników wyrażony w profesjonalizmie armii o §G50,0%§!."
  halves_parliament_bribe_costs_tt: "Koszty §Yprzekupienia parlamentu§! są zmniejszone o §G50%§!."
  allow_earlier_scandinavia_formation_tt: "Kraj §YSkandynawia§! nie potrzebuje już §YTechnologii administracyjnej§! na poziomie §Y20§!, żeby zostać uformowana."
- scandinavian_nation_tt: "Ukończono misję, która znosi wymóg posiadania §Y20§! poziomu §Ytechnologii administracyjnej§! do utworzenia §YSkandynawii§!."
+ scandinavian_nation_tt: "Ukończono misję znoszącą wymóg posiadania §YSkandynawii§! do utworzenia państwa z wykorzystaniem §Ytechnologii administracyjnej§!."
  scandinavian_nation_ct: "Otrzymujesz §Ystałe roszczenia§! do regionów i obszarów wymaganych do odblokowania misji dostępnych po utworzeniu §YSkandynawii§!."
  temples_are_currently_in_power_tt: "\nPonieważ obecnie władzę sprawują §YKomandorie Pięciu Armii§!, wystąpią następujące efekty:"
  temples_in_power_tt: "\n§gJeśli władzę sprawują §YKomandorie Pięciu Armii§!, wystąpią następujące efekty:§!"
