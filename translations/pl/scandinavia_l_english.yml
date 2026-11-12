@@ -3312,7 +3312,7 @@
  livonian_nation_batlic_german_title: "Utworzyć Inflanty"
  livonian_nation_batlic_german_desc: ""
  sell_indulgence_title: ""
- sell_indulgence_desc: ""
+ sell_indulgence_desc: "Zaoferuj odpust [From.Monarch.GetTitle] państwa [From.GetName] @[From.GetTag], aby [From.Monarch.GetHerHis] odpokutował za swoje grzechy.\n\nWydaj §Y50§! punktów wpływu papieskiego, aby zaoferować odpust państwu §Y[From.GetName]§!. Jeśli oferta zostanie przyjęta, państwo [From.GetName] przekaże dochód z §G3 miesięcy§! państwu §Y[Root.GetName]§!, a w zamian otrzyma §G1§! punkt stabilności i §G10§! prestiżu.\n\n§YZwiększa pragnienie reformacji o §R0.25%§!.§!"
  sell_indulgence_tooltip: ""
  sell_indulgence_dialog: ""
  sell_indulgence_alert_tooltip: ""
