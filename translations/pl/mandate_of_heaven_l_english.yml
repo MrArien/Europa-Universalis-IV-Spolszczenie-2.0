@@ -318,7 +318,7 @@
  confucian_events.18.a: "Taki [Root.Heir.GetWomanMan] nie nadaje się do Pałacu Wschodniego."
  confucian_events.18.b: "Potrzebujemy poparcia stronnictw stojących za [Root.Heir.GetTitle]."
  confucian_events.19.t: "Popularna powieść"
- confucian_events.19.d: "Powieść napisana językiem potocznym, opowiadająca znaną historię z epoki [Root.GetOldEra], szybko zyskuje popularność wśród naszych poddanych. Samo w sobie nie stanowi to problemu, lecz dotarły do nas informacje, że jej treść narusza podstawowe zasady ideologii konfucjańskiej, ponieważ można ją odczytać jako zachętę do nieposłuszeństwa wobec władzy centralnej i naszego [Root.Monarch.GetTitle]. Nasi urzędnicy uważają, że książkę należy zakazać, choć niektórzy obawiają się, że zakaz jedynie zwiększy zainteresowanie nią wśród czytelników."
+ confucian_events.19.d: "Powieść napisana językiem potocznym, opowiadająca znaną historię z epoki [Root.GetOldEra], szybko zyskuje popularność wśród naszych poddanych. Samo w sobie nie stanowi to problemu, lecz dotarły do nas informacje, że jej treść narusza podstawowe zasady ideologii konfucjańskiej, ponieważ można ją odczytać jako zachętę do nieposłuszeństwa wobec władzy centralnej i naszego [Root.Monarch.GetTitle].\nNasi urzędnicy uważają, że książkę należy zakazać, choć niektórzy obawiają się, że zakaz jedynie zwiększy zainteresowanie nią wśród czytelników."
  confucian_events.19.a: "Należy natychmiast jej zakazać."
  confucian_events.19.b: "Przewodzimy przykładem, a nie dekretami. Pozwólmy jej pozostać w obiegu."
  confucian_events.20.t: "Służba cywilna"
