@@ -1081,25 +1081,14 @@
  zoroastrian_unrest: "Napięcia religijne"
  desc_zoroastrian_unrest: "Napięcia między wyznawcami nowego kultu mazdaistycznego a zwolennikami naszych dawnych tradycji osiągnęły wysoki poziom."
  TRADING_CITY_TOOLTIP: "§YUtwórz miasto handlowe§!"
- TRADING_CITY_ONLY_TRADE_LEAGUE_LEADER: "
-Tylko przywódca ligi handlowej może utworzyć miasto handlowe."
- TRADING_CITY_ONLY_ONE_PER_TRADE_NODE: "
-Twoja liga handlowa może mieć tylko jedno miasto handlowe w danym węźle handlowym."
- TRADING_CITY_CAPITAL: "
-Nie możesz przekazać swojej prowincji stołecznej miastu handlowemu."
- CANT_LEAD_TRADE_LEAGUE: "
-Nie możesz przewodzić lidze handlowej, ponieważ:
-"
+ TRADING_CITY_ONLY_TRADE_LEAGUE_LEADER: "\nTylko przywódca ligi handlowej może utworzyć miasto handlowe."
+ TRADING_CITY_ONLY_ONE_PER_TRADE_NODE: "\nTwoja liga handlowa może mieć tylko jedno miasto handlowe w danym węźle handlowym."
+ TRADING_CITY_CAPITAL: "\nNie możesz przekazać swojej prowincji stołecznej miastu handlowemu."
+ CANT_LEAD_TRADE_LEAGUE: "\nNie możesz przewodzić lidze handlowej, ponieważ:\n"
  trading_city: "Miasto handlowe"
- trading_city_desc: "Forma rządów, w której państwo jest republiką opierającą się w dużej mierze na handlu i kupiectwie.
-Miasta handlowe mogą być tworzone wyłącznie przez przywódcę ligi handlowej.
-Jeśli miasto handlowe rozrośnie się do więcej niż jednej prowincji, jego forma rządów zmieni się w §Yrepublikę kupiecką§!.
-"
+ trading_city_desc: "Forma rządów, w której państwo jest republiką opierającą się w dużej mierze na handlu i kupiectwie.\nMiasta handlowe mogą być tworzone wyłącznie przez przywódcę ligi handlowej.\nJeśli miasto handlowe rozrośnie się do więcej niż jednej prowincji, jego forma rządów zmieni się w §Yrepublikę kupiecką§!.\n"
  trading_city_legacy: "Miasto handlowe"
- trading_city_legacy_desc: "Forma rządów, w której państwo jest republiką opierającą się w dużej mierze na handlu i kupiectwie.
-Miasta handlowe mogą być tworzone wyłącznie przez przywódcę ligi handlowej.
-Jeśli miasto handlowe rozrośnie się do więcej niż jednej prowincji, jego forma rządów zmieni się w §Yrepublikę kupiecką§!.
-"
+ trading_city_legacy_desc: "Forma rządów, w której państwo jest republiką opierającą się w dużej mierze na handlu i kupiectwie.\nMiasta handlowe mogą być tworzone wyłącznie przez przywódcę ligi handlowej.\nJeśli miasto handlowe rozrośnie się do więcej niż jednej prowincji, jego forma rządów zmieni się w §Yrepublikę kupiecką§!.\n"
  fetishist_flavor.500.t: "Rada w [Root.Capital.GetCapitalName]"
  fetishist_flavor.500.d: "Nasi starsi obawiają się, że pokój i pomyślność osłabiły kolejne pokolenia naszej społeczności — twierdzą, że wojownicy stali się zniewieściali, a umysły uczonych przytępione. „Tak nie powinien wyglądać kult Teotla” — argumentują. Aby zaspokoić tych światłych członków społeczeństwa, moglibyśmy wznieść budynek, w którym uczeni i wróżbici będą badać gwiazdy. Możemy również złożyć krwawą ofiarę ku czci boga Słońca."
  fetishist_flavor.500.a: "Zbuduj obserwatorium."
@@ -1116,11 +1105,7 @@ Jeśli miasto handlowe rozrośnie się do więcej niż jednej prowincji, jego fo
  fetishist_flavor.503.d: "Zła pogoda i nieudolne zarządzanie sprawiły, że robotnicy porzucili narzędzia i zrezygnowali z budowy obserwatorium. Zamiast tego skarżą się na niesprawiedliwe wynagrodzenie i warunki pracy, które musieli znosić zbyt długo — niektórzy zaczęli nawet podpalać wyznaczony teren budowy. Rozczarowani członkowie rady starszych kręcą głowami."
  fetishist_flavor.503.a: "Typowe!"
  fetishist_flavor.504.t: "Pod osądem przodków"
- fetishist_flavor.504.d: "[Root.Monarch.GetTitle] [Root.Monarch.GetName] nerwowo podszedł do ołtarza. Ostrze drżało w [Root.Monarch.GetHerHis] dłoni, a tłum wstrzymał oddech. Zamknąwszy oczy, [Root.Monarch.GetSheHe] przycisnął sztylet do [Root.Monarch.GetHerHis] skóry... 
-
-Cięcie, które wykonał [Root.Monarch.GetSheHe], musiało być głębokie, gdyż krew spływająca na kamienną posadzkę szybko zabarwiła ją na czerwono i ściekała po stopniach. Ciecz lśniła w żarze zmierzchu, a [Root.Monarch.GetTitle] zdążył jedynie usłyszeć, jak kapłani przerywają śpiew i wzdychają, zanim [Root.Monarch.GetSheHe] stracił przytomność.
-
-Gdy [Root.Monarch.GetName] ponownie się ocknął, nie był już całkiem tą samą osobą."
+ fetishist_flavor.504.d: "[Root.Monarch.GetTitle] [Root.Monarch.GetName] nerwowo podszedł do ołtarza. Ostrze drżało w [Root.Monarch.GetHerHis] dłoni, a tłum wstrzymał oddech. Zamknąwszy oczy, [Root.Monarch.GetSheHe] przycisnął sztylet do [Root.Monarch.GetHerHis] skóry... \n\nCięcie, które wykonał [Root.Monarch.GetSheHe], musiało być głębokie, gdyż krew spływająca na kamienną posadzkę szybko zabarwiła ją na czerwono i ściekała po stopniach. Ciecz lśniła w żarze zmierzchu, a [Root.Monarch.GetTitle] zdążył jedynie usłyszeć, jak kapłani przerywają śpiew i wzdychają, zanim [Root.Monarch.GetSheHe] stracił przytomność.\n\nGdy [Root.Monarch.GetName] ponownie się ocknął, nie był już całkiem tą samą osobą."
  fetishist_flavor.504.a: "Co za upokorzenie!"
  fetishist_flavor.505.t: "Złote bożki"
  fetishist_flavor.505.d: "Znakomity rzemieślnik wykonujący złotą biżuterię zdobył sławę w naszym kraju. Jego popularność pozwoliła mu znacznie rozbudować warsztat, a pod jego opieką kształci się już kilku uczniów. Nasza szlachta jest szczególnie zafascynowana jego specjalnością — delikatnymi złotymi bożkami przedstawiającymi rozmaitych bogów, które nosi się dla boskiej ochrony. Przybierają one kształty węży, orłów i jaguarów. Nic dziwnego, że noszenie tych totemów, najlepiej w formie zawieszki na szyi, stało się najnowszą modą."
@@ -1134,9 +1119,7 @@ Gdy [Root.Monarch.GetName] ponownie się ocknął, nie był już całkiem tą sa
  fetishist_flavor.507.a: "Powinniśmy kiedyś to powtórzyć."
  fetishist_flavor.507.b: "Takie jest nasze życie."
  fetishist_flavor.508.t: "Zmarnowany wysiłek"
- fetishist_flavor.508.d: "Był ciemny, pochmurny wieczór, gdy mieszkańcy prowincji [worried_province.GetName], zgodnie z poleceniem starszych, zebrali się, by być świadkami wielkiej ofiary. „To uratuje [worried_province.GetName]” — oznajmił najwyższy kapłan. „Położy kres suszy, choć chyba nie jest już potrzebne” — mruczeli ludzie, spoglądając w niebo. Czy to były chmury deszczowe? 
-Przeznaczone Pierzastemu Wężowi dary krzyczały i płakały w proteście, gdy wleczono je na miejsce ceremonii. Napięcie było ogromne, a jeden ze starszych nerwowo przenosił ciężar ciała z nogi na nogę.
-Nagle niebo rozdarł grzmot i deszcz lunął na zgromadzonych. Tłum ogarnął chaos, rozległy się krzyki i nawoływania — niektórzy wieśniacy próbowali ratować bliskich, którzy mieli zostać złożeni na próżno w ofierze! Najwyższy kapłan wzniósł ceremonialny nóż w panicznej obronie i zaczął nim ciąć ludzi, podczas gdy czcigodni starsi próbowali uciec z podestu."
+ fetishist_flavor.508.d: "Był ciemny, pochmurny wieczór, gdy mieszkańcy prowincji [worried_province.GetName], zgodnie z poleceniem starszych, zebrali się, by być świadkami wielkiej ofiary. „To uratuje [worried_province.GetName]” — oznajmił najwyższy kapłan. „Położy kres suszy, choć chyba nie jest już potrzebne” — mruczeli ludzie, spoglądając w niebo. Czy to były chmury deszczowe? \nPrzeznaczone Pierzastemu Wężowi dary krzyczały i płakały w proteście, gdy wleczono je na miejsce ceremonii. Napięcie było ogromne, a jeden ze starszych nerwowo przenosił ciężar ciała z nogi na nogę.\nNagle niebo rozdarł grzmot i deszcz lunął na zgromadzonych. Tłum ogarnął chaos, rozległy się krzyki i nawoływania — niektórzy wieśniacy próbowali ratować bliskich, którzy mieli zostać złożeni na próżno w ofierze! Najwyższy kapłan wzniósł ceremonialny nóż w panicznej obronie i zaczął nim ciąć ludzi, podczas gdy czcigodni starsi próbowali uciec z podestu."
  fetishist_flavor.508.a: "Tragiczne wieści!"
  distrust_of_the_elders: "Nieufność wobec starszych"
  desc_distrust_of_the_elders: "Starsi z tej prowincji wygłosili kilka bardzo nietrafnych przepowiedni."
