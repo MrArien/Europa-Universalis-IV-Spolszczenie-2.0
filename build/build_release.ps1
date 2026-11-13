@@ -62,7 +62,8 @@ try {
     Write-Host "   Tłumaczenia PL: $($plFiles.Count)"
     Write-Host "   Pliki referencyjne EN: $($enFiles.Count)"
     Write-Host "   Pliki Custom Localisation: $($clFiles.Count)"
-    Write-Host "   Java: $($javaVersionMatch.Groups[\"version\"].Value)"
+    $javaVersion = $javaVersionMatch.Groups["version"].Value
+    Write-Host "   Java: $javaVersion"
 
     Write-Step "Przygotowanie czystego katalogu roboczego"
     if (Test-Path -LiteralPath $workRoot) { Remove-Item -LiteralPath $workRoot -Recurse -Force }
