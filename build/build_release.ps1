@@ -86,9 +86,11 @@ try {
 
     Write-Step "Konwersja lokalizacji do formatu EU4 (charset polish)"
     Invoke-Checked "java" @("-jar", $parser, "folder_to_eu4", $supplyDir, $eu4Dir, "polish") "LocaleParser folder_to_eu4"
-    $builtFiles = @(Get-ChildItem -LiteralPath $eu4Dir -File -Filter "*.yml")
+    $builtFiles = @(Get-ChildItem -LiteralPath $eu4Dir -File | Where-Object { $_.Extension -in @(".yml", ".txt") })
     $expectedFiles = $plFiles.Count + $clFiles.Count
-    if ($builtFiles.Count -ne $expectedFiles) { throw "Nieprawidłowa liczba wygenerowanych plików: oczekiwano $expectedFiles, otrzymano $($builtFiles.Count)." }
+    if ($builtFiles.Count -ne $expectedFiles) { throw "Nieprawidłowa liczba wygenerowanych plików (.yml i .txt): oczekiwano $expectedFiles, otrzymano $($builtFiles.Count)." }
+    $specialHintFile = Join-Path $eu4Dir "missing_correct_english_tut_hint.txt"
+    if (-not (Test-Path -LiteralPath $specialHintFile -PathType Leaf)) { throw "Brakuje pliku missing_correct_english_tut_hint.txt generowanego przez LocaleParser." }
     $emptyFiles = @($builtFiles | Where-Object { $_.Length -eq 0 })
     if ($emptyFiles.Count -gt 0) { throw "Wynik zawiera puste pliki: $($emptyFiles.Name -join ', ')" }
 
@@ -105,7 +107,7 @@ try {
     $descriptorText = [System.Text.RegularExpressions.Regex]::Replace($descriptorText, '(?m)^\s*(?:path|remote_file_id)\s*=.*(?:\r?\n|$)', '')
     [System.IO.File]::WriteAllText($descriptor, $descriptorText, [System.Text.UTF8Encoding]::new($false))
 
-    $stagedFiles = @(Get-ChildItem -LiteralPath $stageLocalisation -File -Filter "*.yml")
+    $stagedFiles = @(Get-ChildItem -LiteralPath $stageLocalisation -File | Where-Object { $_.Extension -in @(".yml", ".txt") })
     if ($stagedFiles.Count -ne $expectedFiles) { throw "Walidacja stagingu nie powiodła się: lokalizacje=$($stagedFiles.Count), oczekiwano=$expectedFiles." }
 
     Write-Step "Tworzenie i sprawdzanie archiwum ZIP"
@@ -117,8 +119,10 @@ try {
         $prefix = "Spolszczenie_EUIV_Community_Edition/"
         $hasDescriptor = $archive.Entries | Where-Object { $_.FullName -eq ($prefix + "descriptor.mod") }
         $hasLocalisation = $archive.Entries | Where-Object { $_.FullName -like ($prefix + "localisation/*.yml") } | Select-Object -First 1
+        $hasSpecialHint = $archive.Entries | Where-Object { $_.FullName -eq ($prefix + "localisation/missing_correct_english_tut_hint.txt") }
         if (-not $hasDescriptor) { throw "Archiwum ZIP nie zawiera descriptor.mod." }
         if (-not $hasLocalisation) { throw "Archiwum ZIP nie zawiera plików lokalizacji." }
+        if (-not $hasSpecialHint) { throw "Archiwum ZIP nie zawiera missing_correct_english_tut_hint.txt." }
     } finally { $archive.Dispose() }
 
     Move-Item -LiteralPath $tempZip -Destination $finalZip -Force
