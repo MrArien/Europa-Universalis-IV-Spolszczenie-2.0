@@ -5314,7 +5314,6 @@
  NED_IF_COMPLETED_THROUGH_DIPLOMACY: "Jeśli misję ukończono drogą §Mdyplomatyczną§!:"
  NED_IF_COMPLETED_THROUGH_HOSTILITY: "Jeśli misji NIE ukończono drogą §Mdyplomatyczną§!:"
  NED_HANSA_ALLIANCES: "Sojusze hanzeatyckie"
- TIM_yuan_title: "[Root.GetPreviewColorTIM]Ambicje w państwie Yuan[Root.GetPreviewColorTIM_end]"
  TIM_rumors_of_rebellion_title: "Pogłoski o buncie"
  TIM_rumors_of_rebellion_desc: "Powierzyliśmy Muhammadowi bin Bajsankorowi zarządzanie ziemiami na zachodzie. Od tamtej pory okazuje nam wyłącznie lekceważenie, umacniając tam własną władzę i ignorując Herat. Takiej zuchwałości nie możemy tolerować."
  TIM_mushasha_title: "Zaprowadzenie porządku w Chuzestanie"
