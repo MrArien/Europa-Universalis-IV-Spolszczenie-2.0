@@ -2398,7 +2398,7 @@ l_english:
  system_of_councils_mechanic_desc: "System rad został opracowany przez monarchię hiszpańską, aby umożliwić zarządzanie bardzo odległymi i zróżnicowanymi ziemiami za pomocą rozbudowanej biurokracji, zorganizowanej w rady tematyczne lub terytorialne. System osiągnął szczyt rozwoju za panowania Filipa II, zwanego również „Królem Biurokratą”."
  royal_council_interaction: "Zwołaj Radę Królewską"
  royal_council_interaction_desc: ""
- royal_council_interaction_tooltip: "Można wybrać jeden z następujących modyfikatorów na §Y10 lat§!:\n§YRada Kameralna§!:\n    Możliwi doradcy: §G+1§!\n    Koszt doradców: §G-10,0%§!\n\n§YRada Finansów§!:\n    Roczne zmniejszenie inflacji: §G-0,05§!\n    Roczne oprocentowanie: §G-1,00§!\n\n§YRada Inkwizycji§!:"\n    Misjonarze: §G+1§!\n    Siła misjonarzy przeciw heretykom: §G+2,0%§!"
+ royal_council_interaction_tooltip: "Można wybrać jeden z następujących modyfikatorów na §Y10 lat§!:\n§YRada Kameralna§!:\n    Możliwi doradcy: §G+1§!\n    Koszt doradców: §G-10,0%§!\n\n§YRada Finansów§!:\n    Roczne zmniejszenie inflacji: §G-0,05§!\n    Roczne oprocentowanie: §G-1,00§!\n\n§YRada Inkwizycji§!:\n    Misjonarze: §G+1§!\n    Siła misjonarzy przeciw heretykom: §G+2,0%§!"
  state_council_interaction: "Zwołaj Radę Państwa"
  state_council_interaction_desc: ""
  state_council_interaction_tooltip: "Można wybrać jeden z następujących modyfikatorów na §Y10 lat§!:\n§YRada Europy§!:\n    Reputacja dyplomatyczna: §G+2,00§!\n\n§YRada Śródziemnomorska§!:\n    Skuteczność bojowa galer: §G+15,0%§!\n\n§YRada Indii§!:\n    Globalny przyrost osadników: §G+15,00§!\n    Zmniejszenie pragnienia wolności poddanych na innym kontynencie: §G-10,00%§!"
