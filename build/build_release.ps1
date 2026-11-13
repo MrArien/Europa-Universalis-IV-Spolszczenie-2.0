@@ -1,5 +1,13 @@
 ﻿[CmdletBinding()]
-param([string]$ProjectRoot = (Split-Path -Parent $PSScriptRoot))
+param([string]$ProjectRoot)
+
+if ([string]::IsNullOrWhiteSpace($ProjectRoot)) {
+    $scriptDirectory = $PSScriptRoot
+    if ([string]::IsNullOrWhiteSpace($scriptDirectory)) {
+        $scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Path
+    }
+    $ProjectRoot = Split-Path -Parent $scriptDirectory
+}
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 function Write-Step([string]$Message) { Write-Host ""; Write-Host "==> $Message" -ForegroundColor Cyan }
