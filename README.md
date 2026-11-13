@@ -1,8 +1,8 @@
-# Europa Universalis IV Community Translation 2.0
+# Europa Universalis IV CE 2.0
 
 **Niezależnie rozwijana kontynuacja społecznościowego polskiego tłumaczenia Europa Universalis IV.**
 
-Europa Universalis IV Community Translation 2.0 (dalej: **EU4 CT 2.0**) rozwija dorobek wcześniejszego projektu *Europa Universalis IV Community Translation / Spolszczenie*. Celem edycji 2.0 jest dalsze tłumaczenie gry i dodatków, systematyczna korekta istniejących tekstów, ujednolicenie terminologii oraz kontrola jakości i zgodności plików lokalizacyjnych z aktualną wersją gry.
+Europa Universalis IV CE 2.0 (dalej: **EU4 CT 2.0**) rozwija dorobek wcześniejszego projektu *Europa Universalis IV CE / Spolszczenie*. Celem edycji 2.0 jest dalsze tłumaczenie gry i dodatków, systematyczna korekta istniejących tekstów, ujednolicenie terminologii oraz kontrola jakości i zgodności plików lokalizacyjnych z aktualną wersją gry.
 
 Projekt jest fanowską, nieoficjalną modyfikacją. Nie jest powiązany z Paradox Interactive ani przez tę firmę zatwierdzony.
 
@@ -54,7 +54,7 @@ Pull requesty z poprawkami są mile widziane. Zmiany powinny zachowywać klucze 
 
 ## Wsparcie AI i współtwórcy techniczni
 
-W rozwój projektu Europa Universalis IV Community Translation 2.0 aktywnie zaangażowany jest również **ChatGPT (OpenAI, GPT-6)**.
+W rozwój projektu Europa Universalis IV CE 2.0 aktywnie zaangażowany jest również **ChatGPT (OpenAI, GPT-6)**.
 
 Zakres współpracy obejmuje:
 - tłumaczenie nowych treści i wydarzeń;
