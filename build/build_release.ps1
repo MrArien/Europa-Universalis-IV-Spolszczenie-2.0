@@ -37,7 +37,7 @@ try {
 
     Write-Step "Sprawdzanie wymagań i plików wejściowych"
     if (-not (Get-Command java -ErrorAction SilentlyContinue)) { throw "Nie znaleziono Java. Zainstaluj JDK/JRE 17 lub nowsze i dodaj java do PATH." }
-    $javaVersionOutput = (& java -version 2>&1 | Out-String)
+    $javaVersionOutput = (& $env:ComSpec /d /c "java -version 2>&1" | Out-String)
     $javaVersionMatch = [System.Text.RegularExpressions.Regex]::Match($javaVersionOutput, '(?m)^(?:openjdk|java)(?: version)?\s+"?(?<version>\d+(?:\.\d+)*)')
     if (-not $javaVersionMatch.Success) { throw "Nie można odczytać wersji Java: $javaVersionOutput" }
     $javaVersionParts = $javaVersionMatch.Groups["version"].Value.Split(".")
@@ -62,7 +62,7 @@ try {
     Write-Host "   Tłumaczenia PL: $($plFiles.Count)"
     Write-Host "   Pliki referencyjne EN: $($enFiles.Count)"
     Write-Host "   Pliki Custom Localisation: $($clFiles.Count)"
-    Write-Host "   Java: $(& java -version 2>&1 | Select-Object -First 1)"
+    Write-Host "   Java: $($javaVersionMatch.Groups[\"version\"].Value)"
 
     Write-Step "Przygotowanie czystego katalogu roboczego"
     if (Test-Path -LiteralPath $workRoot) { Remove-Item -LiteralPath $workRoot -Recurse -Force }
