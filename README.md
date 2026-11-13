@@ -1,8 +1,8 @@
-# Europa Universalis IV CE 2.0
+# Europa Universalis IV Community Translation 2.0
 
 **Niezależnie rozwijana kontynuacja społecznościowego polskiego tłumaczenia Europa Universalis IV.**
 
-Europa Universalis IV CE 2.0 (dalej: **EU4 CT 2.0**) rozwija dorobek wcześniejszego projektu *Europa Universalis IV CE / Spolszczenie*. Celem edycji 2.0 jest dalsze tłumaczenie gry i dodatków, systematyczna korekta istniejących tekstów, ujednolicenie terminologii oraz kontrola jakości i zgodności plików lokalizacyjnych z aktualną wersją gry.
+Europa Universalis IV Community Translation 2.0 (dalej: **EU4 CT 2.0**) rozwija dorobek wcześniejszego projektu *Europa Universalis IV CE / Spolszczenie*. Celem edycji 2.0 jest dalsze tłumaczenie gry i dodatków, systematyczna korekta istniejących tekstów, ujednolicenie terminologii oraz kontrola jakości i zgodności plików lokalizacyjnych z aktualną wersją gry.
 
 Projekt jest fanowską, nieoficjalną modyfikacją. Nie jest powiązany z Paradox Interactive ani przez tę firmę zatwierdzony.
 
@@ -12,7 +12,7 @@ EU4 CT 2.0 bazuje na publicznie dostępnym projekcie:
 
 - **Projekt bazowy:** [olokos/Europa-Universalis-IV-Spolszczenie](https://github.com/olokos/Europa-Universalis-IV-Spolszczenie)
 - **Pierwotna licencja:** Apache License 2.0
-- **Aktualne repozytorium edycji 2.0:** [MrArien/Europa-Universalis-IV-Spolszczenie](https://github.com/MrArien/Europa-Universalis-IV-Spolszczenie-2.0)
+- **Aktualne repozytorium edycji 2.0:** [MrArien/Europa-Universalis-IV-Spolszczenie-2.0](https://github.com/MrArien/Europa-Universalis-IV-Spolszczenie-2.0)
 
 Edycja 2.0 jest rozwijana niezależnie. Zachowuje uznanie dla wcześniejszego dorobku społeczności, w tym tłumaczy, korektorów, testerów, organizatorów, autorów narzędzi i materiałów graficznych. Nie przypisuje twórcom edycji 2.0 autorstwa historycznych tłumaczeń, których nie wykonali.
 
@@ -27,6 +27,19 @@ Edycja 2.0 jest rozwijana niezależnie. Zachowuje uznanie dla wcześniejszego do
 - kontrola placeholderów, parametrów, tagów i składni wymaganej przez silnik gry;
 - aktualizacja tłumaczenia wraz ze zmianami wprowadzanymi przez Paradox Interactive;
 - testy w grze i weryfikacja zgłoszeń społeczności.
+
+### Udział AI w tłumaczeniu — statystyki zmian
+
+Kontynuacja projektu jest realizowana przez **[MrArien](https://github.com/MrArien)** z wykorzystaniem **ChatGPT (OpenAI, GPT-6)** jako asystenta tłumaczeniowego, redakcyjnego i technicznego. Lista autorów wcześniejszych etapów projektu pozostaje zachowana w niezmienionej postaci poniżej.
+
+Na podstawie porównania [wersji wyjściowej `f6bea69f` z gałęzią roboczą](https://github.com/MrArien/Europa-Universalis-IV-Spolszczenie-2.0/compare/f6bea69fcef2ddf817e1736911c12607667a1be4...work/eu4-polish-translation-audit) (stan na 13 listopada 2026 r.):
+
+- **33 187 dodanych i 33 184 usuniętych linii** w **37 zmienionych plikach** katalogu `translations/pl/` (dane ze statystyk Git).
+- Dla orientacyjnej skali: 33 187 linii to **około 26,2%** referencyjnej liczby **126 577 kluczy** lokalizacyjnych. Są to jednak różne jednostki miary — linie diffu i klucze tłumaczeniowe.
+- Zmiany obejmują **nowe przekłady oraz korekty wcześniej istniejących tekstów**. Sam diff nie pozwala ustalić, ile wpisów AI przetłumaczyło od zera, dlatego **26,2% nie jest deklaracją udziału nowych tłumaczeń AI ani odsetkiem jakościowo zweryfikowanego tłumaczenia**.
+- W całym repozytorium porównanie wykazuje 34 253 dodane linie; obejmuje ono również dokumentację, skrypty i inne pliki, więc nie należy utożsamiać tej liczby z liczbą przetłumaczonych wpisów.
+
+Podane liczby są migawką postępu i mogą się zmienić po kolejnych commitach. Dokładny odsetek nowych tłumaczeń wykonanych z pomocą AI wymaga osobnego porównania wartości poszczególnych kluczy przed kontynuacją i po niej.
 
 ## Stan projektu i zgodność z grą
 
@@ -54,7 +67,7 @@ Pull requesty z poprawkami są mile widziane. Zmiany powinny zachowywać klucze 
 
 ## Wsparcie AI i współtwórcy techniczni
 
-W rozwój projektu Europa Universalis IV CE 2.0 aktywnie zaangażowany jest również **ChatGPT (OpenAI, GPT-6)**.
+W rozwój projektu Europa Universalis IV Community Translation 2.0 aktywnie zaangażowany jest również **ChatGPT (OpenAI, GPT-6)**.
 
 Zakres współpracy obejmuje:
 - tłumaczenie nowych treści i wydarzeń;
