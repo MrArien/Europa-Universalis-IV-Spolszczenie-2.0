@@ -29,6 +29,13 @@ try {
 
     Write-Step "Sprawdzanie wymagań i plików wejściowych"
     if (-not (Get-Command java -ErrorAction SilentlyContinue)) { throw "Nie znaleziono Java. Zainstaluj JDK/JRE 17 lub nowsze i dodaj java do PATH." }
+    $javaVersionOutput = (& java -version 2>&1 | Out-String)
+    $javaVersionMatch = [System.Text.RegularExpressions.Regex]::Match($javaVersionOutput, '(?m)^(?:openjdk|java)(?: version)?\s+"?(?<version>\d+(?:\.\d+)*)')
+    if (-not $javaVersionMatch.Success) { throw "Nie można odczytać wersji Java: $javaVersionOutput" }
+    $javaVersionParts = $javaVersionMatch.Groups["version"].Value.Split(".")
+    $javaMajor = [int]$javaVersionParts[0]
+    if ($javaMajor -eq 1 -and $javaVersionParts.Length -gt 1) { $javaMajor = [int]$javaVersionParts[1] }
+    if ($javaMajor -lt 17) { throw "LocaleParser wymaga Java 17 lub nowszej. Wykryto: $($javaVersionMatch.Groups["version"].Value)" }
     if (-not (Test-Path -LiteralPath $parser -PathType Leaf)) { throw "Brak LocaleParser: $parser" }
     foreach ($dir in @($plDir, $enDir, $clDir, $sourceMod)) {
         if (-not (Test-Path -LiteralPath $dir -PathType Container)) { throw "Brak wymaganego katalogu: $dir" }
