@@ -1684,7 +1684,6 @@
  invite_to_zoroastrian_community_alert_tooltip: "Zaproszenie do wspólnoty zaratusztriańskiej"
  invite_to_zoroastrian_community_dialog: "Państwo [This.GetName] zaprasza nas do wspólnoty zaratusztriańskiej i prosi o zmianę naszej religii państwowej na zaratusztrianizm."
  no_asha_vahishta_cost_diplo_action: "\nNie utracimy żadnej wartości §YAsha Wahišta§!, ponieważ to działanie jest zgodne z naukami Zaratustry."
-Nie stracimy żadnego §YAsha Wahišta§!, ponieważ działanie to jest zgodne z naukami Zaratustry."
  ROOT_HAS_NO_INVITATION_CHARGES_TT: "§R- Państwo §Y[Root.GetName]§! nie ma żadnych §Yzaproszeń zaratusztriańskich§! do wykorzystania. Ładunki można uzyskać dzięki zdolności §YAdur Burzen Mihr§!.§!"
  FROM_IS_MONARCHY: "§R- Państwo §Y[From.GetName]§! jest §Ymonarchią§!.§!"
  FROM_IS_NOT_MONARCHY: "§R- Państwo §Y[From.GetName]§! NIE jest §Ymonarchią§!.§!"
