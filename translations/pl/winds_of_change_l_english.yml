@@ -133,7 +133,7 @@
  FEO_BRANCHING_MISSION: "§YWymagania będą widoczne dopiero po wybraniu jednej z gałęzi§!"
  FEO_IF_WE_PICK_RUSSIAN_ALLIES_BRANCH: "Jeśli wybierzemy gałąź §YRosyjskie sojusze§!:"
  FEO_IF_WE_PICK_RUSSIAN_COQNUEST_BRANCH: "Jeśli wybierzemy gałąź §YRosyjskie roszczenia§!:"
- FEO_STRELTSY_BUFF_TT: "Nasze regimenty §Ystrzelców§! otrzymają następujące premie:\\n   Koszt regimentów: §R+20.0%§!\\n   Dyscyplina: §G+5.00%§!\\n   Otrzymywane obrażenia od szoku: §G-10.0%§!"
+ FEO_STRELTSY_BUFF_TT: "Nasze regimenty §Ystrzelców§! otrzymają następujące premie:\n   Koszt regimentów: §R+20.0%§!\\n   Dyscyplina: §G+5.00%§!\\n   Otrzymywane obrażenia od szoku: §G-10.0%§!"
  FEO_IS_AEGEAN_PROVINCE: "Prowincja jest §Yprowincją wybrzeża Morza Egejskiego§!"
  feo_preview_russian_conquest_missions: "Podgląd drzewa misji „§ORosyjski podbój§!”"
  feo_preview_russian_alliance_missions: "Podgląd drzewa misji „§ORosyjski sojusz§!”"
@@ -1267,9 +1267,7 @@
  GER_upgrade_primacy_of_the_nobility: "Wzmocnienie przywileju stanowego „§YPrymat [Root.GetNobilityName]§!” sprawi, że będzie on zapewniać §G-10,0%§! kosztu technologii militarnej."
  GER_if_done_via_revolution_destruction: "§YNagroda§!, jeśli misję ukończono poprzez §Mzniszczenie rewolucji§!:"
  GER_if_done_via_revolution: "§YNagroda§!, jeśli misję ukończono poprzez §Mrewolucję§!:"
- GER_bonuses_of_mercantilism: "Przy co najmniej §M60§! merkantylizmu:\\nSiła handlowa okrętów: §G+20,0%§!\\nPrzy co najmniej §M75§! merkantylizmu:\\nProdukcja dóbr: §G+0,05§!\\nPrzy co najmniej §M90§! merkantylizmu:\\nModyfikator produkcji dóbr: §G+5,0%§!"
-Siła handlowa okrętów: §G+20,0%§!
-Modyfikator produkcji dóbr: §G+5,0%§!"
+ GER_bonuses_of_mercantilism: "Przy co najmniej §M60§! merkantylizmu:\nSiła handlowa okrętów: §G+20,0%§!\\nPrzy co najmniej §M75§! merkantylizmu:\\nProdukcja dóbr: §G+0,05§!\\nPrzy co najmniej §M90§! merkantylizmu:\\nModyfikator produkcji dóbr: §G+5,0%§!"
  GER_buff_great_power_interactions: "Wzmocnione zostaną następujące działania wielkich mocarstw:\\n„§YInterwencja w wojnie§!” będzie teraz zapewniać §G+15,00§! projekcji siły, która będzie spadać o §R-1,00§! rocznie, maksymalnie do §Y30,00§!."
  GER_buff_influence_nation: "Działanie „§YWywieranie wpływu na państwo§!” będzie teraz zapewniać §G+5,00§! przysług u docelowego państwa."
  GER_unlock_reform: "Odblokowana zostanie następująca §Yreforma rządowa§!, zależna od naszej §Ykultury głównej§!:"
@@ -1298,12 +1296,9 @@ Modyfikator produkcji dóbr: §G+5,0%§!"
  incorporate_vassal: "Zintegruj wasala"
  incorporate_vassal_title: "Integracja wasala"
  incorporate_vassal_tooltip: "Włącz wasala do naszej administracji, ułatwiając proces aneksji dyplomatycznej."
- incorporate_vassal_desc: "Czy na pewno chcesz włączyć państwo [From.GetName] do naszej administracji? Zmieni to §Y[From.GetName]§! w §Yzintegrowanego wasala§! — typ poddanego, którego §Yaneksja dyplomatyczna§! jest o §G25,0%§! tańsza niż w przypadku zwykłego §Ywasala§!, ale który zmniejsza naszą zdolność administracyjną o §R-100,00§!. Integracja §Y[From.GetName]§! oznacza również, że przed jego §Yaneksją dyplomatyczną§! będziemy musieli odczekać §Y10§! lat.
-
-Integracji §Y[From.GetName]§! nie można cofnąć."
+ incorporate_vassal_desc: "Czy na pewno chcesz włączyć państwo [From.GetName] do naszej administracji? Zmieni to §Y[From.GetName]§! w §Yzintegrowanego wasala§! — typ poddanego, którego §Yaneksja dyplomatyczna§! jest o §G25,0%§! tańsza niż w przypadku zwykłego §Ywasala§!, ale który zmniejsza naszą zdolność administracyjną o §R-100,00§!. Integracja §Y[From.GetName]§! oznacza również, że przed jego §Yaneksją dyplomatyczną§! będziemy musieli odczekać §Y10§! lat.\n\nIntegracji §Y[From.GetName]§! nie można cofnąć."
  GER_unlock_diploma_andreanum: "Odblokowuje przywilej stanowy „§YOdnowienie Dyplomu Andreanum§!” dla stanu §Y[Root.GetNobilityName]§!, zapewniający §G-5,0%§! kosztu utrzymania terytoriów oraz — jeśli nasza §Yśrednia autonomia§! wynosi mniej niż §Y25,0%§! — §G+10,0%§! zasobów ludzkich w prowincjach o akceptowanej kulturze."
- GER_low_average_autonomy_buff: "Jeśli nasza §Yśrednia autonomia§! wynosi mniej niż §Y25,0%§!, otrzymamy:
-  §G+15,0%§! zasobów ludzkich w prowincjach o akceptowanej kulturze."
+ GER_low_average_autonomy_buff: "Jeśli nasza §Yśrednia autonomia§! wynosi mniej niż §Y25,0%§!, otrzymamy:\n  §G+15,0%§! zasobów ludzkich w prowincjach o akceptowanej kulturze."
  GER_distribute_10_base_tax_5_base_production: "Rozdziel §G10§! podatku bazowego i §G5§! produkcji bazowej pomiędzy nasze prowincje spoza §Ygermańskiej§! grupy kulturowej."
  GER_begin_integrating: "Rozpoczniemy integrację wybranej kultury. Proces zakończy się, gdy §Yjedność kulturowa§! osiągnie poziom §Y100,0§!."
  german_cultural_disunity_reform: "Rozdrobnienie kulturowe"
@@ -1643,9 +1638,7 @@ Integracji §Y[From.GetName]§! nie można cofnąć."
  flavor_ven.40.d: "Tycjan, a właściwie Tiziano Vecellio, był wybitnym malarzem włoskiego renesansu, urodzonym w Pieve di Cadore niedaleko Wenecji. Zasłynął mistrzowskim operowaniem barwą i nowatorską techniką pociągnięć pędzla. Jego kariera artystyczna trwała ponad siedem dekad, podczas których stworzył niezliczone dzieła: portrety, sceny mitologiczne i kompozycje religijne. Szczególnym uznaniem cieszą się jego portrety, takie jak „Portret Karola V” i „Wenus z Urbino”, słynące z głębi psychologicznej i bogatej kolorystyki. Wpływ Tycjana na rozwój sztuki weneckiej i europejskiej jest ogromny, a jego trwałe dziedzictwo czyni go jednym z najwybitniejszych malarzy renesansu."
  flavor_ven.40.a: "Cóż za wybitny człowiek!"
  flavor_ven.40.b: "Co jeszcze możesz mi powiedzieć na ten temat?"
- tell_me_more_tt: "
-§GOtrzymamy nagrodę za to wydarzenie i poznamy więcej szczegółów na ten temat historyczny§!
-"
+ tell_me_more_tt: "\n§GOtrzymamy nagrodę za to wydarzenie i poznamy więcej szczegółów na ten temat historyczny§!\n"
  flavor_ven.41.t: "Wenecja w okresie renesansu"
  flavor_ven.41.d: "W okresie renesansu sztuka i architektura Wenecji osiągnęły niezwykły poziom wyrafinowania i splendoru. Sztuka wenecka, charakteryzująca się świetlistą kolorystyką i głębią emocjonalną, znalazła wyraz w dziełach słynnych malarzy, takich jak Tycjan, Tintoretto i Veronese. Artyści ci doskonale oddawali istotę przedstawianych postaci dzięki żywej palecie barw i wyrazistemu światłocieniowi, nadając swoim dziełom niezrównany realizm. Ważnym tematem było malarstwo portretowe, w którym twórcy osiągali niezwykłą głębię charakterystyki postaci. Popularność zdobyły również alegorie i motywy mitologiczne, ukazujące różnorodność oraz emocjonalną siłę sztuki weneckiej.\n\nWyjątkowe położenie Wenecji jako ośrodka handlu między Wschodem a Zachodem odcisnęło trwałe piętno na renesansowej architekturze miasta. Wenecki gotyk łączył misterną kamieniarkę i ostrołukowe arkady z wpływami bizantyjskimi i orientalnymi. Doskonale widać to w tak charakterystycznych budowlach jak Pałac Dożów i Bazylika św. Marka. Wraz z rozwojem renesansu styl palladiański, propagowany przez architekta Andreę Palladia, wprowadził do miejskiej architektury klasyczną symetrię, kolumny i frontony. Weneckie pałace wzdłuż malowniczych kanałów, ozdobione bogatymi fasadami i dziedzińcami, stały się symbolem przepychu miasta. Sztuka i architektura renesansowej Wenecji odzwierciedlają wyjątkową syntezę kulturową miasta i do dziś zachwycają miłośników sztuki na całym świecie."
  flavor_ven.41.a: "Fascynujące!"
@@ -1706,11 +1699,7 @@ Integracji §Y[From.GetName]§! nie można cofnąć."
  ven_unlock_standing_army_missions_tt: "Kliknij, aby wyświetlić misje §YArmii stałej§!"
  ven_unlock_mercenary_army_missions_tt: "Kliknij, aby wyświetlić misje §YArmii najemnej§!"
  ven_unlock_navy_missions_tt: "Kliknij, aby wyświetlić misje §YFloty i piechoty morskiej§!"
- has_completed_either_idea_group_tt: "Ukończono jedną z następujących grup idei:
- - Idee jakościowe
- - Idee ofensywne
- - Idee defensywne
- - Idee ilościowe"
+ has_completed_either_idea_group_tt: "Ukończono jedną z następujących grup idei:\n - Idee jakościowe\n - Idee ofensywne\n - Idee defensywne\n - Idee ilościowe"
  ven_offensive_ideas_yes_tt: "\\n£yes£ Nagroda za idee §YOfensywne§!:\\nDoradcy §YReformator armii§! i §YKomendant§! zapewnią nam:\\n§G+3%§! skuteczności oblężenia za każdy poziom"
  ven_offensive_ideas_no_tt: "\\n£no£ Nagroda za idee §YOfensywne§!:\\nDoradcy §YReformator armii§! i §YKomendant§! zapewnią nam:\\n§G+3%§! skuteczności oblężenia za każdy poziom"
  ven_defensive_ideas_yes_tt: "\\n£yes£ Nagroda za idee §YDefensywne§!:\\nWznoszenie §Yfortów§! zapewni naszym prowincjom:\\n§G+20%§! obronności lokalnej\\n§G-10%§! lokalnego kosztu rozwoju\\n§G+25%§! lokalnego modyfikatora zasobów ludzkich"
@@ -1833,8 +1822,7 @@ Integracji §Y[From.GetName]§! nie można cofnąć."
  san_zanipolo: "San Zanipolo"
  ven_promissione_ducale_reform: "Promissione Ducale"
  ven_promissione_ducale_reform_desc: "Promissione ducale, wywodząca się z włoskich miast-państw, takich jak Wenecja, była przysięgą urzędową składaną przez dożów, obejmującą zobowiązania prawne i polityczne. Doża zobowiązywał się w niej do bezstronnego wymierzania sprawiedliwości, strzeżenia tajemnic państwowych i wykonywania uchwał Wielkiej Rady. Przysięga ograniczała również jego władzę, między innymi zakazując bezpośredniej korespondencji z zagranicznymi władcami oraz ingerowania w wybór patriarchy Wenecji. Z czasem dokument stawał się coraz bardziej szczegółowy i ostatecznie zaczęto go drukować; kolejne wersje dla poszczególnych dożów liczyły od 108 do 301 stron. Aby urząd nie stał się dziedziczny, ograniczenia objęły także krewnych doży, którym zakazano zasiadania w niektórych radach i obejmowania określonych stanowisk. Choć w późniejszych latach Republiki Weneckiej część restrykcji złagodzono, istotne ograniczenia nadal obowiązywały, również członków rodziny doży. Przysięga regulowała ponadto kwestie dotyczące dogaressy, w tym jej stroju i obowiązków ceremonialnych."
- unlock_ven_promissione_ducale_reform_tt: "
-Odblokowuje dostęp do reformy rządu poziomu 3: §YPromissione Ducale§!"
+ unlock_ven_promissione_ducale_reform_tt: "\nOdblokowuje dostęp do reformy rządu poziomu 3: §YPromissione Ducale§!"
  merchant_representation_reform: "Komitety Kupieckie"
  merchant_representation_reform_desc: "Reprezentując i wzmacniając kupców z całego naszego państwa, zapewnimy im większą widoczność oraz pomożemy zwiększyć skuteczność ich flot zarówno na wodach ojczystych, jak i za granicą."
  VEN_ideas_2: "Idee weneckie"
@@ -1857,45 +1845,19 @@ Odblokowuje dostęp do reformy rządu poziomu 3: §YPromissione Ducale§!"
  reform_the_uscocchi_desc: "Ludy zamieszkujące naszą granicę z ziemiami niemieckimi od dawna uprzykrzają życie naszym kupcom. Napadają na wybrzeża i wszczynają potyczki. Musimy wykorzystać ich nieustanną ingerencję i przekształcić ją w atut naszego rządu."
  maggior_consiglio: "Maggior Consiglio"
  maggior_consiglio_desc: "Wielka Rada to organ władzy określający zakres uprawnień głowy państwa. Dzięki umiejętnemu poruszaniu się na scenie politycznej i pozyskaniu odpowiednich stronników zapewnimy naszemu władcy jej przychylność."
- event_insight_flavor_ven.40: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie przedstawi historię §YTycjana§!, najsłynniejszego weneckiego artysty renesansu."
- event_insight_flavor_ven.42: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie zwiększy naszą §Ytradycję republikańską§! i pozwoli doradcom administracyjnym generować §Ysplendor§!."
- event_insight_flavor_ven.44: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie ograniczy wpływ §YRady Dziesięciu§! na naszą władzę."
- event_insight_flavor_ven.45: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie pomoże nam zarządzać §YRadą Dziesięciu§! i odzyskać nasze §Yziemie koronne§!."
- event_insight_flavor_ven.46: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie przybliży historię znaczenia teatru i zapewni nam wybitnego artystę."
- event_insight_flavor_ven.47: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie opowie historię wielkiej akademii, a także zapewni dodatkowe nagrody po przyjęciu nowej technologii."
- event_insight_flavor_ven.48: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie pozwoli nam ogłosić §YZłotą Republikę§! i potencjalnie uzyskać nowy kolor, zestaw idei lub nazwę."
- event_insight_flavor_ven.49: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie zapewni prowincji [103.GetName] nowy ratusz oraz wzmocni nasz rząd, a także sprowadzi Amedea di Castellamonta na nasz dwór."
- event_insight_flavor_ven.50: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie rozbuduje §Ystocznie§! w prowincji [112.GetName] i zapewni nam dostęp do licznych rezerw marynarzy."
- event_insight_flavor_ven.51: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie rozbuduje §Ykościół§! w prowincji [112.GetName] i przyzna dodatkową nagrodę zależną od naszego stanowiska dyplomatycznego wobec §YPaństwa Kościelnego§!."
- event_insight_flavor_ven.52: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie zapewni nam stałe roszczenia w regionie §YItalii§! i wzmocni wojskowe zdolności naszego władcy."
- event_insight_flavor_ven.53: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie zwiększy naszą §Ytradycję morską§!, §Ymerkantylizm§! oraz podstawową produkcję w prowincji [Root.Capital.GetCapitalName]."
- event_insight_flavor_ven.54: "
-§GInformacja o wydarzeniu§!:
-Wydarzenie "
+ event_insight_flavor_ven.40: "\n§GInformacja o wydarzeniu§!:\nWydarzenie przedstawi historię §YTycjana§!, najsłynniejszego weneckiego artysty renesansu."
+ event_insight_flavor_ven.42: "\n§GInformacja o wydarzeniu§!:\nWydarzenie zwiększy naszą §Ytradycję republikańską§! i pozwoli doradcom administracyjnym generować §Ysplendor§!."
+ event_insight_flavor_ven.44: "\n§GInformacja o wydarzeniu§!:\nWydarzenie ograniczy wpływ §YRady Dziesięciu§! na naszą władzę."
+ event_insight_flavor_ven.45: "\n§GInformacja o wydarzeniu§!:\nWydarzenie pomoże nam zarządzać §YRadą Dziesięciu§! i odzyskać nasze §Yziemie koronne§!."
+ event_insight_flavor_ven.46: "\n§GInformacja o wydarzeniu§!:\nWydarzenie przybliży historię znaczenia teatru i zapewni nam wybitnego artystę."
+ event_insight_flavor_ven.47: "\n§GInformacja o wydarzeniu§!:\nWydarzenie opowie historię wielkiej akademii, a także zapewni dodatkowe nagrody po przyjęciu nowej technologii."
+ event_insight_flavor_ven.48: "\n§GInformacja o wydarzeniu§!:\nWydarzenie pozwoli nam ogłosić §YZłotą Republikę§! i potencjalnie uzyskać nowy kolor, zestaw idei lub nazwę."
+ event_insight_flavor_ven.49: "\n§GInformacja o wydarzeniu§!:\nWydarzenie zapewni prowincji [103.GetName] nowy ratusz oraz wzmocni nasz rząd, a także sprowadzi Amedea di Castellamonta na nasz dwór."
+ event_insight_flavor_ven.50: "\n§GInformacja o wydarzeniu§!:\nWydarzenie rozbuduje §Ystocznie§! w prowincji [112.GetName] i zapewni nam dostęp do licznych rezerw marynarzy."
+ event_insight_flavor_ven.51: "\n§GInformacja o wydarzeniu§!:\nWydarzenie rozbuduje §Ykościół§! w prowincji [112.GetName] i przyzna dodatkową nagrodę zależną od naszego stanowiska dyplomatycznego wobec §YPaństwa Kościelnego§!."
+ event_insight_flavor_ven.52: "\n§GInformacja o wydarzeniu§!:\nWydarzenie zapewni nam stałe roszczenia w regionie §YItalii§! i wzmocni wojskowe zdolności naszego władcy."
+ event_insight_flavor_ven.53: "\n§GInformacja o wydarzeniu§!:\nWydarzenie zwiększy naszą §Ytradycję morską§!, §Ymerkantylizm§! oraz podstawową produkcję w prowincji [Root.Capital.GetCapitalName]."
+ event_insight_flavor_ven.54: "\n§GInformacja o wydarzeniu§!:\nWydarzenie "
  replenish_mercenary_ranks_title: "Uzupełnij szeregi najemników"
  replenish_mercenary_ranks_desc: "Właściwe zarządzanie żołnierzami kontraktowymi pozostającymi na naszym żołdzie oraz uzupełnianie ich szeregów ma najwyższy priorytet!"
  NED_flanders_title: "Na polach Flandrii"
@@ -2194,19 +2156,8 @@ Wydarzenie "
  support_state_reform_desc: "Państwo i jego wola są nadrzędne. Wzmacniając etatystyczny charakter naszego rządu, możemy jeszcze bardziej ugruntować pozycję państwa."
  orangist_stadholders_reform: "Oranżyści namiestnicy"
  orangist_stadholders_reform_desc: "Oraniści udowodnili, że potrafią być znakomitymi władcami. Dlatego powinniśmy zadbać o zwiększenie władzy namiestników wywodzących się z tego stronnictwa."
- mechanic_seven_provinces_organization_yes: "Odblokowuje mechanikę §YOrganizacji Siedmiu Prowincji§!, która zapewnia następujące efekty:
-Prowincje grupy naszej głównej kultury w Niderlandach zyskują:
-   §G-10,0%§! kosztu rozwoju
-   §G+10,0%§! modyfikatora produkcji dóbr
-   §G-25,0%§! kosztu zarządzania prowincją
-   §G-10%§! kosztu i czasu budowy
-
-Prowincje w §YEuropie§! poza Niderlandami zyskują:
-   §R+25,0%§! kosztu zarządzania prowincją
-   §R+33%§! minimalnej autonomii"
- mechanic_economic_golden_age_yes: "Przywilej mieszczaństwa §YWolna przedsiębiorczość§! zapewnia teraz:
-   §G+10,0%§! modyfikatora limitu sił morskich
-   §G-15,0%§! kosztu lekkich okrętów"
+ mechanic_seven_provinces_organization_yes: "Odblokowuje mechanikę §YOrganizacji Siedmiu Prowincji§!, która zapewnia następujące efekty:\nProwincje grupy naszej głównej kultury w Niderlandach zyskują:\n   §G-10,0%§! kosztu rozwoju\n   §G+10,0%§! modyfikatora produkcji dóbr\n   §G-25,0%§! kosztu zarządzania prowincją\n   §G-10%§! kosztu i czasu budowy\n\nProwincje w §YEuropie§! poza Niderlandami zyskują:\n   §R+25,0%§! kosztu zarządzania prowincją\n   §R+33%§! minimalnej autonomii"
+ mechanic_economic_golden_age_yes: "Przywilej mieszczaństwa §YWolna przedsiębiorczość§! zapewnia teraz:\n   §G+10,0%§! modyfikatora limitu sił morskich\n   §G-15,0%§! kosztu lekkich okrętów"
  mechanic_republican_virtues_yes: "Kandydaci §Yetatystyczni§! otrzymają §G+1§! do wszystkich kategorii władcy."
  mechanic_orangist_cause_yes: "Gdy władca §Yoranżystowski§! wygra co najmniej §Y25§! bitew jako generał, otrzyma cechę władcy §YOranżystowski namiestnik§!."
  estate_burghers_black_devils: "Czarne diabły"
@@ -2566,12 +2517,7 @@ Prowincje w §YEuropie§! poza Niderlandami zyskują:
  hun_dismantle_hre_tt_yes: "£yes£ Jeśli ukończymy tę misję, §Trozwiązując Cesarstwo§!, otrzymamy:"
  hun_dismantle_hre_tt_no: "£no£ Jeśli ukończymy tę misję, §Trozwiązując Cesarstwo§!, otrzymamy:"
  hun_black_legion_tt: "Rekrutacja kompanii najemników §YCzarna Armia§! zapewnia teraz §G1,00%§! profesjonalizmu armii."
- unlock_imperial_hungarian_government_tt: "Odblokowuje reformę rządu §YCesarska monarchia węgierska§!, zapewniającą następujące efekty:
-§YModyfikatory reformy:§!
-Niepokoje narodowe: §G-2,00§!
-Maksymalna liczba promowanych kultur: §G+2§!
-Umiejętność dyplomatyczna monarchy: §G+2,00§!
-Koszt promowania kultury: §G-33,0%§!"
+ unlock_imperial_hungarian_government_tt: "Odblokowuje reformę rządu §YCesarska monarchia węgierska§!, zapewniającą następujące efekty:\n§YModyfikatory reformy:§!\nNiepokoje narodowe: §G-2,00§!\nMaksymalna liczba promowanych kultur: §G+2§!\nUmiejętność dyplomatyczna monarchy: §G+2,00§!\nKoszt promowania kultury: §G-33,0%§!"
  hun_janosik_raid: "Prowincja §Y[4236.GetName]§! została złupiona przez bandę Janosika, która zabrała miejscowe łupy. Ponadto uzyskamy:"
  hun_janosik_raid_nitra: "Prowincja §Y[154.GetName]§! została złupiona przez bandę Janosika, która zabrała miejscowe łupy. Ponadto uzyskamy:"
  hun_janosik_group_tt: "Zorganizujemy grupę, której zadaniem będzie wytropienie bandytów."
@@ -2606,11 +2552,7 @@ Koszt promowania kultury: §G-33,0%§!"
  estate_burghers_hungarian_royal_cities: "Rozbuduj wolne miasta królewskie"
  estate_burghers_hungarian_royal_cities_desc: "Węgierskie miasta królewskie od stuleci są ośrodkami handlu i wymiany, przynoszącymi ogromne bogactwo całemu krajowi. Rozszerzmy ich przywileje, by przyciągnąć jeszcze więcej zagranicznych kupców i inwestorów oraz przekształcić je w prawdziwe metropolie, przyćmiewające nawet największe miasta Zachodu."
  estate_burghers_hungarian_royal_cities_tt: "Każda prowincja w regionie §YKarpat§!, posiadająca §Ycentrum handlu§! i §Y20§! poziomów rozwoju, zyskuje następujący modyfikator:"
- unlock_privilege_estate_burghers_hungarian_royal_cities_tt: "Odblokowuje przywilej stanu [Root.GetBurghersOrFallbackName] „§YRozbuduj wolne miasta królewskie§!”, obejmujący wszystkie nasze prowincje w regionie §YKarpat§! posiadające §Ycentrum handlu§! i §Y20§! poziomów rozwoju. Zapewnia im następujące modyfikatory:
-
-§G+1§! możliwa liczba manufaktur
-§G-10,0%§! lokalnego kosztu rozwoju
-§G+50,0%§! lokalnego modyfikatora produkcji dóbr"
+ unlock_privilege_estate_burghers_hungarian_royal_cities_tt: "Odblokowuje przywilej stanu [Root.GetBurghersOrFallbackName] „§YRozbuduj wolne miasta królewskie§!”, obejmujący wszystkie nasze prowincje w regionie §YKarpat§! posiadające §Ycentrum handlu§! i §Y20§! poziomów rozwoju. Zapewnia im następujące modyfikatory:\n\n§G+1§! możliwa liczba manufaktur\n§G-10,0%§! lokalnego kosztu rozwoju\n§G+50,0%§! lokalnego modyfikatora produkcji dóbr"
  estate_burghers_hungarian_royal_cities_rt: "Każda prowincja w regionie §YKarpat§!, posiadająca §Ycentrum handlu§! i §Y20§! poziomów rozwoju, traci §G+1§! możliwą liczbę manufaktur, §G-10,0%§! lokalnego kosztu rozwoju i §G+50,0%§! lokalnego modyfikatora produkcji dóbr."
  hun_royal_province_desc: "dopóki ten przywilej pozostaje aktywny"
  FEJEDELEMSEG: "Fejedelemség"
@@ -2795,9 +2737,7 @@ Koszt promowania kultury: §G-33,0%§!"
  azt_prisoners_for_sacrifices_desc: "Pomimo przelanej krwi i wygranych bitew bogowie wciąż nie są zadowoleni. Żądają kolejnych ofiar i jeszcze więcej krwi, by móc nas chronić. Spełnimy ich wolę — wyruszymy na nowe podboje i złożymy więcej ofiar."
  azt_jaguars_and_eagles_title: "Jaguarzy i Orły"
  azt_jaguars_and_eagles_desc: "Wojownicy Jaguara i Orła należą do najbardziej elitarnych formacji w społeczeństwie Azteków. Reprezentują Tezcatlipocę, boga konfliktu, oraz Huitzilopochtliego, boga wojny, i budzą postrach na polu bitwy. Wykorzystując ich reputację, będziemy mogli jeszcze skuteczniej dominować w walce."
- AZT_ADD_30_LD_WITH_SUBJECTS: "Wszyscy nasi §Ypoddani§! zyskają §R40%§! pragnienia wolności.
-
-Każdy §Ypoddany§!, którego pragnienie wolności wynosi co najmniej §Y50%§!, wyzwoli się spod naszego panowania."
+ AZT_ADD_30_LD_WITH_SUBJECTS: "Wszyscy nasi §Ypoddani§! zyskają §R40%§! pragnienia wolności.\n\nKażdy §Ypoddany§!, którego pragnienie wolności wynosi co najmniej §Y50%§!, wyzwoli się spod naszego panowania."
  reform_cooldown: "Czas odnowienia reformy religijnej"
  make_nahuatl_tributary: "Utwórz mezoamerykańskie państwo trybutarne"
  PEACE_make_nahuatl_tributary: "Utwórz mezoamerykańskie państwo trybutarne"
@@ -2817,22 +2757,13 @@ Każdy §Ypoddany§!, którego pragnienie wolności wynosi co najmniej §Y50%§!
  demand_sacirifces_desc: "Zażądamy ofiar od państwa [From.GetName], co zapewni nam §G10§! punktów Tonalli."
  AZT_MONTEZUMA_DESCRIPTION: "Dopóki §YMoctezuma I§! żyje, modyfikator władcy §YRozkwit Moctezumy§! będzie ulepszany za pośrednictwem naszego drzewa misji."
  AZT_IF_MONTEZUMA_IS_ALIVE: "Jeśli §YMoctezuma I§! jest naszym §Ywładcą§!:"
- AZT_MODIFY_RISE_OF_MONTEZUMA: "Zmodyfikuj §YRozkwit Moctezumy§! o:
-   Pragnienie wolności poddanych: §G-10,00%§!
-   Roczne zmniejszenie Zagłady: §G+0,25§!"
- AZT_MODIFY_RISE_OF_MONTEZUMA_2: "Zmodyfikuj §YRozkwit Moctezumy§! o:
-   Udział limitu sił zbrojnych wasali: §G+50,0%§!
-   Dochody od wasali: §G+20,0%§!"
- AZT_MODIFY_RISE_OF_MONTEZUMA_3: "Zmodyfikuj §YRozkwit Moctezumy§! o:
-   Punkty władzy od państw trybutarnych: §G+1§!
-   Dochody od wasali: §G+10,0%§!
-   Pragnienie wolności poddanych: §G+15,0%§!"
+ AZT_MODIFY_RISE_OF_MONTEZUMA: "Zmodyfikuj §YRozkwit Moctezumy§! o:\n   Pragnienie wolności poddanych: §G-10,00%§!\n   Roczne zmniejszenie Zagłady: §G+0,25§!"
+ AZT_MODIFY_RISE_OF_MONTEZUMA_2: "Zmodyfikuj §YRozkwit Moctezumy§! o:\n   Udział limitu sił zbrojnych wasali: §G+50,0%§!\n   Dochody od wasali: §G+20,0%§!"
+ AZT_MODIFY_RISE_OF_MONTEZUMA_3: "Zmodyfikuj §YRozkwit Moctezumy§! o:\n   Punkty władzy od państw trybutarnych: §G+1§!\n   Dochody od wasali: §G+10,0%§!\n   Pragnienie wolności poddanych: §G+15,0%§!"
  AZT_GRANT_MODIFIER_IN_GRAIN_PROVINCES_IN_THE_REQUIRED_AREAS: "Wszystkie prowincje w §Ywymaganych§! obszarach, w których produkuje się §Yzboże§!, otrzymają następujący efekt:"
  AZT_BUFF_OBSIDIAN_PRIVILEGE: "Przywilej stanu [Root.GetNobilityName] §YUzbój z macuahuitl§! zapewni dodatkowo §G+5,00%§! zdolności bojowej piechoty."
  AZT_FROM_OBSIDIAN: "z prowincji z modyfikatorem §YWykorzystane źródło obsydianu§!"
- AZT_buffed_conditional_benefit_for_obsidian: "Jeśli którakolwiek z naszych §Yprowincji§! posiada modyfikator „§YWykorzystane źródło obsydianu§!” lub posiada go prowincja należąca do któregoś z naszych §Ypoddanych§! albo §Ysojuszników§!, otrzymamy następujące modyfikatory:
-  Zdolność bojowa piechoty: §G+15,0%§!
-  Wpływy stanu [Root.GetNobilityName]: §Y+5,0%§!"
+ AZT_buffed_conditional_benefit_for_obsidian: "Jeśli którakolwiek z naszych §Yprowincji§! posiada modyfikator „§YWykorzystane źródło obsydianu§!” lub posiada go prowincja należąca do któregoś z naszych §Ypoddanych§! albo §Ysojuszników§!, otrzymamy następujące modyfikatory:\n  Zdolność bojowa piechoty: §G+15,0%§!\n  Wpływy stanu [Root.GetNobilityName]: §Y+5,0%§!"
  AZT_OWN_ALL_OF_COLONIZED_CENTRAL_AMERICA: "Wszystkie §Yskolonizowane§! prowincje w regionie §YAmeryki Środkowej§! należą do ciebie lub twoich poddanych niebędących trybutariuszami."
  AZT_FROM_WOOL: " z prowincji produkujących §Ywełnę§!"
  AZT_BEST_WOOL_PROVINCE_IN_AREA: "Losowa prowincja produkująca §Ywełnę§! w wymaganych obszarach otrzyma następujący efekt:"
@@ -2844,36 +2775,26 @@ Każdy §Ypoddany§!, którego pragnienie wolności wynosi co najmniej §Y50%§!
  AZT_FIVE_PROVINCES_THAT_MEET_REQUIREMENT_GET_FOLLOWING: "§YPięć najbardziej rozwiniętych prowincji§! spełniających wymagania otrzyma wszystkie poniższe efekty:"
  AZT_UNLOCKS_ESTABLISHMENT_OF_AMERICAN_FRONTIERS: "Odblokowuje decyzję §YUtwórz amerykańskie pogranicza§!, pozwalającą zakładać kolonie §Yamerykańskiego pogranicza§! w §Yniezasiedlonych sąsiednich prowincjach§!."
  AZT_PASSED_ONE_REFORM: "Przeprowadzono co najmniej §Yjedną§! §Yreformę religijną§! Nahua."
- AZT_BUFF_BLOOD_TOOLTIP: "Niezależnie od naszego bóstwa opiekuńczego, §YTonalli§! będzie teraz zapewniać następujący skalujący się modyfikator:
-   Równowaga lojalności stanu [Root.GetClergyName]: §G+15,0%§!
-   Koszt technologii: §G-5,00%§!"
+ AZT_BUFF_BLOOD_TOOLTIP: "Niezależnie od naszego bóstwa opiekuńczego, §YTonalli§! będzie teraz zapewniać następujący skalujący się modyfikator:\n   Równowaga lojalności stanu [Root.GetClergyName]: §G+15,0%§!\n   Koszt technologii: §G-5,00%§!"
  AZT_IF_COMPLETED_VIA_SUBJECT: "Jeśli misję ukończono dzięki posiadaniu §M5§! poddanych:"
  AZT_IF_COMPLETED_VIA_NOBILITY: "Jeśli misję ukończono poprzez §Mzmniejszenie§! wpływów stanu §M[Root.GetNobilityName]§!:"
  AZT_GAIN_BLOOD_PER_SUBJECT: "Otrzymamy §G2§! punkty Tonalli za każdego posiadanego poddanego."
  AZT_TEMPLES_GRANT_RELIGIOUS_BONUS: "§YŚwiątynie§! będą teraz zapewniać §G-2,00§! lokalnych niepokojów oraz dodatkowy §G+10,0%§! lokalnego modyfikatora podatków."
  AZT_EVERY_SUBJECT_LOSES_LD: "Wszyscy nasi §YPoddani§! stracą §G20%§! dążeń niepodległościowych. "
  NAHUATL_TRIBUTARIES_GRANT_FURTHER_BONUSES: "§YMezoamerykańskie państwa trybutarne§! będą teraz zapewniać §G+0,01§! miesięcznego Tonalli."
- AZT_NOBLE_LEVIES_BUFF_TOOLTIP: "Przywilej stanu [Root.GetNobilityName] §YZwiększone pospolite ruszenie§! będzie zapewniać następujący modyfikator, skalujący się wraz z jego §Ywpływami§!:
-   Koszt regimentów: §G-10,0%§!"
+ AZT_NOBLE_LEVIES_BUFF_TOOLTIP: "Przywilej stanu [Root.GetNobilityName] §YZwiększone pospolite ruszenie§! będzie zapewniać następujący modyfikator, skalujący się wraz z jego §Ywpływami§!:\n   Koszt regimentów: §G-10,0%§!"
  AZT_MODIFY_TRIPLE_ALLIANCE_PRIVILEGE: "Przywilej stanu [Root.GetNobilityName] §YPotrójny Sojusz§! nie będzie już powodować kary do §Yzdolności zarządczej§!, a ujemny §Ymodyfikator zdolności zarządczej§! zostanie zmniejszony do §G-25%§!."
  AZT_GAIN_DEVELOPMENT_PER_SUBJECT: "Nasza §Ystolica§! zyska §G+1§! losowy poziom rozwoju za każdego posiadanego poddanego."
- AZT_MODIFY_TENOCHITLAN_CITY_MODIFIER: "Zmodyfikuj §YMiasto Tenochtitlan§! o:
-   Tempo wzrostu lokalnego dobrobytu: §G+0,50§!
-   Lokalny koszt rozwoju: §G-5,00%§!"
- AZT_MODIFY_TENOCHITLAN_CITY_MODIFIER_2: "Zmodyfikuj §YMiasto Tenochtitlan§! o:
-   Lokalny czas budowy: §G-15,0%§!
-   Możliwa liczba budynków: §G+1§!"
- AZT_MODIFY_TENOCHITLAN_CITY_MODIFIER_3: "Zmodyfikuj §YMiasto Tenochtitlan§! o:
-   Lokalny modyfikator kosztu rozwoju: §G-10,0%§!"
+ AZT_MODIFY_TENOCHITLAN_CITY_MODIFIER: "Zmodyfikuj §YMiasto Tenochtitlan§! o:\n   Tempo wzrostu lokalnego dobrobytu: §G+0,50§!\n   Lokalny koszt rozwoju: §G-5,00%§!"
+ AZT_MODIFY_TENOCHITLAN_CITY_MODIFIER_2: "Zmodyfikuj §YMiasto Tenochtitlan§! o:\n   Lokalny czas budowy: §G-15,0%§!\n   Możliwa liczba budynków: §G+1§!"
+ AZT_MODIFY_TENOCHITLAN_CITY_MODIFIER_3: "Zmodyfikuj §YMiasto Tenochtitlan§! o:\n   Lokalny modyfikator kosztu rozwoju: §G-10,0%§!"
  AZT_EXPAND_INFRASTRUCTURE_GIVES_REFORM_PROGRESS: "Za każdym razem, gdy §Yrozbudujemy infrastrukturę§! w prowincji §Y[852.GetName]§!, otrzymamy §G+10§! postępu reformy rządu."
  AZT_UNLOCK_TENOCHTITLAN_CONDITIONAL_MODIFIER: "Odblokowuje modyfikator warunkowy w wielkim projekcie §YTenochtitlan§!."
  AZT_COMPLETED_TECNOCHTITLAN_MISSION: "Ukończono misję §YHueyi Teocalli§!."
  AZT_HELD_5_FESTIVALS: "Co najmniej §Y5§! razy użyto interakcji rządowej §YZorganizuj święto religijne§!. (§Y[GetNumFestivals]§!/5)"
  AZT_INQUISITORS_GRANT_BLOOD: "§YInkwizytorzy§! będą teraz zapewniać §G+0,02§! miesięcznego Tonalli za każdy poziom."
  AZT_FESTIVALS_NOW_GRANT_INQUISITORS: "Interakcja rządowa §YZorganizuj święto religijne§! będzie teraz generować §Yinkwizytorów§!."
- AZT_UNLOCK_MILITARY_CULTURE_PRIVILEGE_NOBLES: "Odblokowuje przywilej stanu [Root.GetNobilityName] §YKultura wojskowa§!, który zapewni następujące modyfikatory w prowincjach naszej kultury:
-   Lokalny modyfikator siły żywej: §G+10,0%§!
-   Lokalna obronność: §G+15,0%§!"
+ AZT_UNLOCK_MILITARY_CULTURE_PRIVILEGE_NOBLES: "Odblokowuje przywilej stanu [Root.GetNobilityName] §YKultura wojskowa§!, który zapewni następujące modyfikatory w prowincjach naszej kultury:\n   Lokalny modyfikator siły żywej: §G+10,0%§!\n   Lokalna obronność: §G+15,0%§!"
  AZT_grant_bonuses_to_culture_province: "Każda posiadana prowincja o kulturze §Y[Root.Culture.GetName]§! otrzyma następujące premie:"
  AZT_REVOKE_PRIVILEGE_BONUSES: "Modyfikator §YKultura wojowników§! zostanie usunięty ze wszystkich naszych prowincji, a my utracimy zapewniane przez niego dodatkowe §Yzasoby ludzkie§! i §Yobronność§!."
  AZT_grant_bonuses_to_gold_provinces: "Każda posiadana prowincja w §YMezoameryce§! otrzyma następujące premie:"
@@ -2888,17 +2809,9 @@ Każdy §Ypoddany§!, którego pragnienie wolności wynosi co najmniej §Y50%§!
  AZT_UNLOCK_CHINAMPA_FARMS_REFORM: "Odblokowuje reformę rządu gospodarczego §YUprawy chinampowe§!."
  AZT_COMPLETED_FARMS_MISSION: "Ukończono misję §YUprawy chinampowe§!."
  AZT_UNLOCK_AZTEC_GOLD_MINES_PRIVILEGE: "Odblokowuje przywilej stanu [Root.GetBurghersName] §YMeksykańskie kopalnie złota§!, zapewniający §G-50,0%§! szansy na wyczerpanie złóż złota oraz §G+0,10§! rocznej redukcji inflacji. Po wprowadzeniu tego przywileju wszystkie prowincje produkujące §Yzłoto§! w Meksyku i Ameryce Środkowej zyskają §G+0,50§! lokalnej produkcji dóbr."
- AZT_BUFF_NOBLE_LEVIES_LOYALTY: "Przywilej stanu [Root.GetNobilityName] §YZwiększone pospolite ruszenie§! będzie teraz zapewniać następujący efekt:
-§YSkaluje się z lojalnością§!
-Przy §Y100%§! lojalności przywilej zapewni:
-   Narodowy modyfikator zasobów ludzkich: §G+15,0%§!"
- AZT_UNLOCK_SPONSOR_ARTISANS_PRIVILEGE: "Odblokowuje przywilej stanu [Root.GetBurghersName] §YWspieraj rzemieślników§!.
-§YSkaluje się z lojalnością§!
-Przy §Y100%§! lojalności przywilej zapewni:
-Wydajność produkcji: §G+15,0%§!"
- azt_estate_nobles_levies_scaled_modifier_tt: "§YSkaluje się z lojalnością§!
-Przy §Y100%§! lojalności przywilej zapewnia następujący efekt:
-   Narodowy modyfikator zasobów ludzkich: §G+15,0%§!"
+ AZT_BUFF_NOBLE_LEVIES_LOYALTY: "Przywilej stanu [Root.GetNobilityName] §YZwiększone pospolite ruszenie§! będzie teraz zapewniać następujący efekt:\n§YSkaluje się z lojalnością§!\nPrzy §Y100%§! lojalności przywilej zapewni:\n   Narodowy modyfikator zasobów ludzkich: §G+15,0%§!"
+ AZT_UNLOCK_SPONSOR_ARTISANS_PRIVILEGE: "Odblokowuje przywilej stanu [Root.GetBurghersName] §YWspieraj rzemieślników§!.\n§YSkaluje się z lojalnością§!\nPrzy §Y100%§! lojalności przywilej zapewni:\nWydajność produkcji: §G+15,0%§!"
+ azt_estate_nobles_levies_scaled_modifier_tt: "§YSkaluje się z lojalnością§!\nPrzy §Y100%§! lojalności przywilej zapewnia następujący efekt:\n   Narodowy modyfikator zasobów ludzkich: §G+15,0%§!"
  GAIN_INCOME_FROM_GRAIN: " z prowincji produkujących §Yzboże§!"
  UNLOCK_AZTEC_MISSION_TREE: "Otrzymamy drzewo misji §YAzteków§!."
  mechanic_chinampa_farms_mechanic_yes: "Prowincje produkujące §Yzboże§! zyskają §G+25,0%§! lokalnego modyfikatora produkcji dóbr i §G-5,00%§! lokalnego kosztu rozwoju."
