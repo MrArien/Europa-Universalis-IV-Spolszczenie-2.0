@@ -112,17 +112,32 @@ try {
 
     Write-Step "Tworzenie i sprawdzanie archiwum ZIP"
     if (Test-Path -LiteralPath $tempZip) { Remove-Item -LiteralPath $tempZip -Force }
-    Compress-Archive -Path $stageMod -DestinationPath $tempZip -CompressionLevel Optimal -Force
+    # ZipFile packages the staging root with stable paths and includes hidden files
+    # (Compress-Archive silently omits hidden files on Windows).
     Add-Type -AssemblyName System.IO.Compression.FileSystem
+    [System.IO.Compression.ZipFile]::CreateFromDirectory(
+        $stageRoot, $tempZip, [System.IO.Compression.CompressionLevel]::Optimal, $false
+    )
     $archive = [System.IO.Compression.ZipFile]::OpenRead($tempZip)
     try {
         $prefix = "Spolszczenie_EUIV_Community_Edition/"
-        $hasDescriptor = $archive.Entries | Where-Object { $_.FullName -eq ($prefix + "descriptor.mod") }
-        $hasLocalisation = $archive.Entries | Where-Object { $_.FullName -like ($prefix + "localisation/*.yml") } | Select-Object -First 1
-        $hasSpecialHint = $archive.Entries | Where-Object { $_.FullName -eq ($prefix + "localisation/missing_correct_english_tut_hint.txt") }
-        if (-not $hasDescriptor) { throw "Archiwum ZIP nie zawiera descriptor.mod." }
-        if (-not $hasLocalisation) { throw "Archiwum ZIP nie zawiera plików lokalizacji." }
-        if (-not $hasSpecialHint) { throw "Archiwum ZIP nie zawiera missing_correct_english_tut_hint.txt." }
+        $entryNames = @($archive.Entries | ForEach-Object { $_.FullName.Replace("\", "/") })
+        $descriptorName = $prefix + "descriptor.mod"
+        $specialHintName = $prefix + "localisation/missing_correct_english_tut_hint.txt"
+        $zipLocalisations = @($entryNames | Where-Object {
+            $_.StartsWith($prefix + "localisation/", [System.StringComparison]::Ordinal) -and
+            ($_.EndsWith(".yml", [System.StringComparison]::OrdinalIgnoreCase) -or
+             $_.EndsWith(".txt", [System.StringComparison]::OrdinalIgnoreCase))
+        })
+        if ($descriptorName -notin $entryNames) {
+            throw "Archiwum ZIP nie zawiera descriptor.mod. Wpisy ZIP (pierwsze 20): $((@($entryNames | Select-Object -First 20)) -join ', ')"
+        }
+        if ($zipLocalisations.Count -ne $expectedFiles) {
+            throw "Archiwum ZIP ma $($zipLocalisations.Count) plików lokalizacji, oczekiwano $expectedFiles."
+        }
+        if ($specialHintName -notin $entryNames) {
+            throw "Archiwum ZIP nie zawiera missing_correct_english_tut_hint.txt."
+        }
     } finally { $archive.Dispose() }
 
     Move-Item -LiteralPath $tempZip -Destination $finalZip -Force
