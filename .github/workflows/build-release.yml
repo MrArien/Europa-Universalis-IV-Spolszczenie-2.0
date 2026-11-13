@@ -1,0 +1,36 @@
+name: Build EU4 Polish Translation
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - work/eu4-polish-translation-audit
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build mod package
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Build release package
+        shell: pwsh
+        run: ./build/build_release.ps1
+
+      - name: Upload ZIP package
+        uses: actions/upload-artifact@v4
+        with:
+          name: EU4-Community-Translation-2.0-PL
+          path: dist/Europa-Universalis-IV-Community-Translation-2.0-PL.zip
+          if-no-files-found: error
+          retention-days: 14
